@@ -58,6 +58,12 @@
   .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px;grid-column:1/2}
   .tag{font-size:12px;background:var(--acc2);color:var(--acc);border-radius:5px;padding:1px 7px;border:0;cursor:pointer}
   .cat{font-size:12px;border:1px solid var(--line);border-radius:5px;padding:0 6px;color:var(--mute);white-space:nowrap}
+  .jb{font-size:11px;font-weight:600;border-radius:4px;padding:0 5px;margin-left:4px;white-space:nowrap;vertical-align:1px}
+  .jb.wos{background:#1f4e8a;color:#fff}
+  .jb.esci{border:1px solid var(--line);color:var(--mute)}
+  .jb.fc{border:1px solid var(--acc);color:var(--acc)}
+  .jb.ty{background:var(--line);color:var(--mute)}
+  @media (prefers-color-scheme:dark){.jb.wos{background:#3d78c4}}
   .star{color:var(--star);font-weight:700;margin-right:4px}
   .badge{font-size:11px;font-weight:700;color:#fff;background:var(--new);border-radius:4px;padding:0 5px;margin-right:5px;vertical-align:2px}
   .acts{grid-row:1/4;grid-column:2/3;display:flex;flex-direction:column;gap:4px;align-items:flex-end}
@@ -114,6 +120,7 @@
         <li>外围：一般概念隐喻研究（词汇、习语、文学、歌词等）和相邻的 CDA 研究。质量不设门槛，但只收英文文献。</li>
       </ul>
       <p><b>★ 核心</b>指批评认知语言学核心路线的研究，或主流期刊里的批评 / 政治隐喻研究，以及 Hart、Cap、Musolff、Charteris-Black、Koller、Semino 等人的新作。</p>
+      <p><b>期刊标签：</b><span class="jb wos">SSCI</span><span class="jb wos">AHCI</span> 表示被科睿唯安 SSCI / AHCI 收录（核对的是 2025 年 SSCI 名单和 2024 年 10 月 AHCI 名单）；<span class="jb esci">ESCI</span><span class="jb esci">Scopus</span> 来自出版方官网的收录说明；<span class="jb fc">领域重点刊</span> 是本站编辑认定的批评认知语言学 / 隐喻 / 话语研究专业期刊，属于主观判断。没有标签不代表质量差，只是没有被上述索引收录或尚未核实。另有<span class="jb ty">书/书章</span><span class="jb ty">会议</span><span class="jb ty">预印本</span>等标签区分文献类型，预印本未经同行评审。本站不标影响因子：语言学期刊的影响因子普遍偏低且波动大，很多人文期刊也没有影响因子。</p>
       <p><b>使用小技巧：</b>点「摘要」可以直接展开摘要（来自 Crossref / OpenAlex，部分文献出版方没有公开摘要）；点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；绿色「新」表示上次访问之后新收录的条目。</p>
       <p><b>局限：</b>类别和标签由程序根据标题自动判断，可能有误；没有 DOI 的文献（包括大部分知网中文期刊）检索不到。发现错误欢迎点「反馈 / 纠错」。</p>
     </div>
@@ -134,9 +141,16 @@
     <div class="bar"><div class="chips" id="cats" role="group" aria-label="类别"></div></div>
     <div class="bar">
       <input type="search" id="q" placeholder="搜索标题 / 作者 / 期刊 / 标签，如 近化、Hart、移民、多模态" aria-label="搜索">
+      <select id="src" aria-label="来源">
+        <option value="all">全部来源</option>
+        <option value="wos">只看 SSCI / AHCI 期刊</option>
+        <option value="fc">只看领域重点刊</option>
+        <option value="journal">只看期刊（不含书章、会议、预印本）</option>
+      </select>
       <select id="sort" aria-label="排序">
         <option value="date">按日期（新→旧）</option>
         <option value="core">核心优先</option>
+        <option value="tier">按期刊级别</option>
         <option value="venue">按期刊名</option>
       </select>
     </div>
@@ -179,7 +193,27 @@
 <script>
 const CATS = {all:"全部", cda:"认知CDA·识解·近化", metaphor:"批评隐喻·框架", multi:"多模态", exp:"实验·计算", lex:"一般隐喻·词汇·文学", theory:"理论·综述·书评", adj:"相邻话语研究"};
 const PAGE = 40;
-const S = {days:182, cat:"all", core:false, fav:false, onlyNew:false, q:"", sort:"date", shown:PAGE};
+let JOUR = {};
+function jnorm(s){ return String(s||"").toLowerCase().replace(/&/g," and ").replace(/[^a-z0-9]+/g," ").trim(); }
+function jinfo(it){ return JOUR[jnorm(it.venue)] || null; }
+function vtype(v){
+  v = String(v||"");
+  if(/preprint|SSRN|Research Square|Preprints\.org|Cambridge Open Engage/i.test(v)) return "预印本";
+  if(/Thesis|dissertation/i.test(v)) return "学位论文";
+  if(/Encyclopedia|Handbook of Expressivity/i.test(v)) return "工具书";
+  if(/Proceedings|ACL|EACL|LREC|AAAI|CVPR|SIGGRAPH|Workshop|Conference|ICETT|BDAI|CCNIS|LNCS/i.test(v)) return "会议";
+  if(/\((De Gruyter|John Benjamins|Bloomsbury|Springer|Palgrave|Routledge|Cambridge|Edinburgh|Equinox|Emerald|Wiley|IGI|IntechOpen|book)/i.test(v) || /\(book/i.test(v)) return "书/书章";
+  return "期刊";
+}
+function tier(it){ const j=jinfo(it); if(!j) return 0; const w=(j.idx||[]).some(x=>x==="SSCI"||x==="AHCI"); return (w?2:((j.idx||[]).length?1:0)) + (j.core?1:0); }
+function jbadges(it){
+  const j=jinfo(it), t=vtype(it.venue); let h="";
+  if(t!=="期刊") h+=`<span class="jb ty">${t}</span>`;
+  if(j){ for(const x of (j.idx||[])) h+=`<span class="jb ${x==="SSCI"||x==="AHCI"?"wos":"esci"}">${x}</span>`;
+         if(j.core) h+=`<span class="jb fc" title="本站编辑认定的领域重点期刊">领域重点刊</span>`; }
+  return h;
+}
+const S = {days:182, cat:"all", core:false, fav:false, onlyNew:false, q:"", sort:"date", src:"all", shown:PAGE};
 let DATA = {items:[]}, FAVS = new Set(), PREV = "", VIEW = [];
 const $ = id => document.getElementById(id);
 
@@ -256,7 +290,7 @@ function bib(it,i){
 function csvCell(s){ s=String(s??""); return /[",\n]/.test(s) ? '"'+s.replace(/"/g,'""')+'"' : s; }
 function exportText(fmt){
   if(fmt==="bib") return VIEW.map(bib).join("\n\n");
-  if(fmt==="csv") return ["date,authors,title,venue,doi,category,core,tags"].concat(VIEW.map(it=>[it.date,it.authors,it.title,it.venue,doiOf(it),CATS[it.cat]||it.cat,it.core?"Y":"",(it.tags||[]).join("; ")].map(csvCell).join(","))).join("\n");
+  if(fmt==="csv") return ["date,authors,title,venue,venue_type,index,field_key_journal,doi,category,core,tags"].concat(VIEW.map(it=>{ const j=jinfo(it)||{}; return [it.date,it.authors,it.title,it.venue,vtype(it.venue),(j.idx||[]).join("/"),j.core?"Y":"",doiOf(it),CATS[it.cat]||it.cat,it.core?"Y":"",(it.tags||[]).join("; ")].map(csvCell).join(","); })).join("\n");
   return VIEW.map((it,i)=>`[${i+1}] `+cite(it)).join("\n");
 }
 
@@ -268,6 +302,9 @@ function base(){
     if(S.core && !it.core) return false;
     if(S.fav && !FAVS.has(it.url)) return false;
     if(S.onlyNew && !isNew(it)) return false;
+    if(S.src==="wos"){ const j=jinfo(it); if(!j || !(j.idx||[]).some(x=>x==="SSCI"||x==="AHCI")) return false; }
+    else if(S.src==="fc"){ const j=jinfo(it); if(!j || !j.core) return false; }
+    else if(S.src==="journal" && vtype(it.venue)!=="期刊") return false;
     if(q){ const hay=(it.title+" "+it.venue+" "+(it.tags||[]).join(" ")+" "+(it.authors||"")+" "+doiOf(it)).toLowerCase(); if(!q.split(/\s+/).every(w=>hay.includes(w))) return false; }
     return true;
   });
@@ -281,6 +318,7 @@ function renderCats(pool){
 
 function sortItems(a){
   if(S.sort==="core") a.sort((x,y)=>(y.core?1:0)-(x.core?1:0) || y.date.localeCompare(x.date));
+  else if(S.sort==="tier") a.sort((x,y)=>tier(y)-tier(x) || y.date.localeCompare(x.date));
   else if(S.sort==="venue") a.sort((x,y)=>x.venue.localeCompare(y.venue) || y.date.localeCompare(x.date));
   else a.sort((x,y)=> y.date.localeCompare(x.date) || (y.core?1:0)-(x.core?1:0));
   return a;
@@ -295,7 +333,7 @@ function card(it){
       <button class="ib absb" data-abs="${esc(it.url)}" aria-expanded="false">摘要</button>
       <button class="ib" data-cite="${esc(it.url)}">复制引用</button>
     </div>
-    <div class="meta">${esc(it.authors||"—")} · <i>${esc(it.venue)}</i> <span class="cat">${esc(CATS[it.cat]||it.cat)}</span></div>
+    <div class="meta">${esc(it.authors||"—")} · <i>${esc(it.venue)}</i>${jbadges(it)} <span class="cat">${esc(CATS[it.cat]||it.cat)}</span></div>
     ${it.note?`<div class="meta">${esc(it.note)}</div>`:""}
     <div class="tags">${(it.tags||[]).map(t=>`<button class="tag" data-tag="${esc(t)}">${esc(t)}</button>`).join("")}</div>
     <div class="abs" data-absbox="${esc(it.url)}"></div>
@@ -306,7 +344,7 @@ function render(){
   const pool = base();
   renderCats(pool);
   VIEW = sortItems(S.cat==="all" ? pool.slice() : pool.filter(it=>it.cat===S.cat));
-  const filtered = S.cat!=="all"||S.core||S.fav||S.onlyNew||S.q;
+  const filtered = S.cat!=="all"||S.core||S.fav||S.onlyNew||S.q||S.src!=="all";
   $("count").textContent = `${VIEW.length} 篇` + (VIEW.length>S.shown?`，已显示 ${S.shown}`:"");
   $("clearBtn").hidden = !filtered;
   $("favN").textContent = FAVS.size ? `(${FAVS.size})` : "";
@@ -340,9 +378,10 @@ for(const [id,key] of [["coreOnly","core"],["favOnly","fav"],["newOnly","onlyNew
   $(id).addEventListener("click",()=>{ S[key]=!S[key]; $(id).setAttribute("aria-pressed",S[key]); rerender(); });
 let qt; $("q").addEventListener("input",e=>{ clearTimeout(qt); qt=setTimeout(()=>{ S.q=e.target.value.trim().toLowerCase(); rerender(); },150); });
 $("sort").addEventListener("change",e=>{ S.sort=e.target.value; rerender(); });
+$("src").addEventListener("change",e=>{ S.src=e.target.value; rerender(); });
 $("moreBtn").addEventListener("click",()=>{ S.shown+=PAGE; render(); });
 $("clearBtn").addEventListener("click",()=>{
-  Object.assign(S,{cat:"all",core:false,fav:false,onlyNew:false,q:""}); $("q").value="";
+  Object.assign(S,{cat:"all",core:false,fav:false,onlyNew:false,q:"",src:"all"}); $("q").value=""; $("src").value="all";
   ["coreOnly","favOnly","newOnly"].forEach(id=>$(id).setAttribute("aria-pressed","false")); syncHash(); rerender(); });
 $("list").addEventListener("click",e=>{
   const f=e.target.closest("[data-fav]"), c=e.target.closest("[data-cite]"), t=e.target.closest("[data-tag]"), a=e.target.closest("[data-abs]");
@@ -381,8 +420,11 @@ PREV = store.get("ccl_last_visit","");
 readHash();
 const OWN_HOST = /github\.io$/.test(location.hostname) || location.protocol==="file:" || /^(localhost|127\.)/.test(location.hostname);
 if(OWN_HOST) $("rssLink").hidden=false; else $("mDl").hidden=true;
-fetch("data.json",{cache:"no-store"}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{
-  DATA=d;
+Promise.all([
+  fetch("data.json",{cache:"no-store"}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }),
+  fetch("journals.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
+]).then(([d,jj])=>{
+  DATA=d; JOUR=(jj&&jj.journals)||{};
   const up=(d.updated||"").replace("T"," ").slice(0,16);
   const nNew = PREV ? d.items.filter(isNew).length : 0;
   $("sub").innerHTML = `最近更新 <b>${esc(up)}</b>（美东）· 共 <b>${d.items.length}</b> 篇 · ★核心 ${d.items.filter(i=>i.core).length} 篇` + (nNew?` · 上次访问后新增 <b>${nNew}</b> 篇`:"");

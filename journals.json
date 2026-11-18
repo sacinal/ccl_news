@@ -1,0 +1,427 @@
+{
+ "note": "SSCI：2025 年 SSCI 期刊名单；AHCI：2024 年 10 月 AHCI 期刊名单（均为科睿唯安 Master Journal List 的公开导出版）；ESCI/Scopus：出版方官网的收录说明。领域核心期刊为本站编辑判断。",
+ "checked": "2026-11-18",
+ "journals": {
+  "metaphor and symbol": {
+   "name": "Metaphor and Symbol",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ],
+   "core": true
+  },
+  "journal of language and politics": {
+   "name": "Journal of Language and Politics",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ],
+   "core": true
+  },
+  "journal of pragmatics": {
+   "name": "Journal of Pragmatics",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "cognitive linguistics": {
+   "name": "Cognitive Linguistics",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ],
+   "core": true
+  },
+  "review of cognitive linguistics": {
+   "name": "Review of Cognitive Linguistics",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ],
+   "core": true
+  },
+  "language and literature": {
+   "name": "Language and Literature",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "language sciences": {
+   "name": "Language Sciences",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "lingua": {
+   "name": "Lingua",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "narrative inquiry": {
+   "name": "Narrative Inquiry",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "pragmatics and society": {
+   "name": "Pragmatics and Society",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "intercultural pragmatics": {
+   "name": "Intercultural Pragmatics",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "social semiotics": {
+   "name": "Social Semiotics",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ],
+   "core": true
+  },
+  "text and talk": {
+   "name": "Text & Talk",
+   "idx": [
+    "SSCI",
+    "AHCI"
+   ]
+  },
+  "studia neophilologica": {
+   "name": "Studia Neophilologica",
+   "idx": [
+    "AHCI"
+   ]
+  },
+  "discourse and society": {
+   "name": "Discourse & Society",
+   "idx": [
+    "SSCI"
+   ],
+   "core": true
+  },
+  "discourse studies": {
+   "name": "Discourse Studies",
+   "idx": [
+    "SSCI"
+   ],
+   "core": true
+  },
+  "discourse and communication": {
+   "name": "Discourse & Communication",
+   "idx": [
+    "SSCI"
+   ],
+   "core": true
+  },
+  "critical discourse studies": {
+   "name": "Critical Discourse Studies",
+   "idx": [
+    "SSCI"
+   ],
+   "core": true
+  },
+  "discourse context and media": {
+   "name": "Discourse, Context & Media",
+   "idx": [
+    "SSCI"
+   ],
+   "core": true
+  },
+  "discourse processes": {
+   "name": "Discourse Processes",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "language and cognition": {
+   "name": "Language and Cognition",
+   "idx": [
+    "SSCI"
+   ],
+   "core": true
+  },
+  "visual communication": {
+   "name": "Visual Communication",
+   "idx": [
+    "SSCI"
+   ],
+   "core": true
+  },
+  "humanities and social sciences communications": {
+   "name": "Humanities and Social Sciences Communications",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "corpus linguistics and linguistic theory": {
+   "name": "Corpus Linguistics and Linguistic Theory",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "international journal of corpus linguistics": {
+   "name": "International Journal of Corpus Linguistics",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "applied psycholinguistics": {
+   "name": "Applied Psycholinguistics",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "applied linguistics review": {
+   "name": "Applied Linguistics Review",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "tesol quarterly": {
+   "name": "TESOL Quarterly",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "health communication": {
+   "name": "Health Communication",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "journal of health communication": {
+   "name": "Journal of Health Communication",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "journal of advertising research": {
+   "name": "Journal of Advertising Research",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "frontiers in psychology": {
+   "name": "Frontiers in Psychology",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "frontiers in public health": {
+   "name": "Frontiers in Public Health",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "sage open": {
+   "name": "Sage Open",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "sport in society": {
+   "name": "Sport in Society",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "contemporary south asia": {
+   "name": "Contemporary South Asia",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "current anthropology": {
+   "name": "Current Anthropology",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "cognitive processing": {
+   "name": "Cognitive Processing",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "psychological research": {
+   "name": "Psychological Research",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "educational gerontology": {
+   "name": "Educational Gerontology",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "current issues in language planning": {
+   "name": "Current Issues in Language Planning",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "interaction studies": {
+   "name": "Interaction Studies",
+   "idx": [
+    "SSCI"
+   ]
+  },
+  "metaphor and the social world": {
+   "name": "Metaphor and the Social World",
+   "idx": [
+    "ESCI",
+    "Scopus"
+   ],
+   "core": true
+  },
+  "media war and conflict": {
+   "name": "Media, War & Conflict",
+   "idx": [
+    "ESCI",
+    "Scopus"
+   ]
+  },
+  "cognitive semiotics": {
+   "name": "Cognitive Semiotics",
+   "idx": [],
+   "core": true
+  },
+  "cognitive linguistic studies": {
+   "name": "Cognitive Linguistic Studies",
+   "idx": [],
+   "core": true
+  },
+  "corpora": {
+   "name": "Corpora",
+   "idx": []
+  },
+  "corpus pragmatics": {
+   "name": "Corpus Pragmatics",
+   "idx": []
+  },
+  "esp today": {
+   "name": "ESP Today",
+   "idx": []
+  },
+  "cadaad journal": {
+   "name": "CADAAD Journal",
+   "idx": [],
+   "core": true
+  },
+  "multimodal communication": {
+   "name": "Multimodal Communication",
+   "idx": [],
+   "core": true
+  },
+  "multimodality and society": {
+   "name": "Multimodality & Society",
+   "idx": [],
+   "core": true
+  },
+  "international journal for the semiotics of law": {
+   "name": "International Journal for the Semiotics of Law",
+   "idx": []
+  },
+  "international review of pragmatics": {
+   "name": "International Review of Pragmatics",
+   "idx": []
+  },
+  "international journal of language and culture": {
+   "name": "International Journal of Language and Culture",
+   "idx": []
+  },
+  "journal of language aggression and conflict": {
+   "name": "Journal of Language Aggression and Conflict",
+   "idx": []
+  },
+  "lege artis": {
+   "name": "Lege artis",
+   "idx": []
+  },
+  "topics in linguistics": {
+   "name": "Topics in Linguistics",
+   "idx": []
+  },
+  "studies about languages": {
+   "name": "Studies about Languages",
+   "idx": []
+  },
+  "theory and practice in language studies": {
+   "name": "Theory and Practice in Language Studies",
+   "idx": []
+  },
+  "sn social sciences": {
+   "name": "SN Social Sciences",
+   "idx": []
+  },
+  "social sciences and humanities open": {
+   "name": "Social Sciences & Humanities Open",
+   "idx": []
+  },
+  "open cultural studies": {
+   "name": "Open Cultural Studies",
+   "idx": []
+  },
+  "pertanika journal of social sciences and humanities": {
+   "name": "Pertanika Journal of Social Sciences and Humanities",
+   "idx": []
+  },
+  "kasetsart journal of social sciences": {
+   "name": "Kasetsart Journal of Social Sciences",
+   "idx": []
+  },
+  "semantics and pragmatics": {
+   "name": "Semantics and Pragmatics",
+   "idx": []
+  },
+  "howard journal of communications": {
+   "name": "Howard Journal of Communications",
+   "idx": []
+  },
+  "indonesian journal of applied linguistics": {
+   "name": "Indonesian Journal of Applied Linguistics",
+   "idx": []
+  },
+  "ai and society": {
+   "name": "AI & Society",
+   "idx": []
+  },
+  "frontiers in education": {
+   "name": "Frontiers in Education",
+   "idx": []
+  },
+  "journal of language evolution": {
+   "name": "Journal of Language Evolution",
+   "idx": []
+  },
+  "journal of political power": {
+   "name": "Journal of Political Power",
+   "idx": []
+  },
+  "studia anglica resoviensia": {
+   "name": "Studia Anglica Resoviensia",
+   "idx": []
+  },
+  "safety science": {
+   "name": "Safety Science",
+   "idx": []
+  },
+  "plos one": {
+   "name": "PLOS One",
+   "idx": []
+  }
+ }
+}
