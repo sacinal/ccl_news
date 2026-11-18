@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:30:00-05:00",
+ "updated": "2026-11-18T09:55:00-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -410,7 +410,7 @@
   },
   {
    "date": "2026-07-29",
-   "authors": "—",
+   "authors": "Charteris-Black",
    "title": "Ideological Metaphor and Artificial Intelligence",
    "venue": "Analysing Political Speeches (Bloomsbury, 2026)",
    "url": "https://doi.org/10.5040/9781350529601.ch-012",
@@ -423,7 +423,7 @@
   },
   {
    "date": "2026-07-29",
-   "authors": "—",
+   "authors": "Charteris-Black",
    "title": "Critical Metaphor Analysis: Theory and Method",
    "venue": "Analysing Political Speeches (Bloomsbury, 2026)",
    "url": "https://doi.org/10.5040/9781350529601.ch-011",
@@ -436,7 +436,7 @@
   },
   {
    "date": "2026-07-29",
-   "authors": "—",
+   "authors": "Charteris-Black",
    "title": "Researching Metaphor in Public Communication",
    "venue": "Analysing Political Speeches (Bloomsbury, 2026)",
    "url": "https://doi.org/10.5040/9781350529601.ch-010",
@@ -1569,6 +1569,5106 @@
    "tags": [
     "健康隐喻",
     "跨语言"
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "authors": "Irwan",
+   "title": "The \"Ulos\" Metaphor in Japanese Diplomacy: A Critical Discourse Analysis of the Japanese Consul General's Speech in Medan",
+   "venue": "Jurnal Sakura",
+   "url": "https://doi.org/10.24843/js.2026.v08.i02.p02",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "演讲"
+   ]
+  },
+  {
+   "date": "2025-12-11",
+   "authors": "Nasir et al.",
+   "title": "A Critical Discourse Analysis of Metaphor of Religion, Time and Economic Desire in President Muhammadu Buhari's Independence Day Speech",
+   "venue": "Journal of Arts and Sociological Research",
+   "url": "https://doi.org/10.70382/ajasr.v10i6.070",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "演讲",
+    "时间隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "authors": "Javed et al.",
+   "title": "Discursive Construction of Ideological Polarisation through Metaphor and Lexicalisation: A Critical Discourse Analysis of Zadie Smith's Postscript",
+   "venue": "Social Science Review Archives",
+   "url": "https://doi.org/10.70670/sra.v4i1.2660",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "authors": "Salim",
+   "title": "Metaphor and Mental Imagery in Iraqi Marketing Discourse: A Psycholinguistic and Critical Discourse Analysis of Iraqi Advertisements",
+   "venue": "Journal of Basrah Researches for Human Sciences",
+   "url": "https://doi.org/10.59750/jbrhs.2026.51.2.285",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "广告"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "authors": "Wasim et al.",
+   "title": "Sassui the Divine Feminine Metaphor: A Feminist Critical Discourse Analysis of Shah Abdul Latif Bhittai's Shah Jo Risalo",
+   "venue": "Wah Academia Journal of Social Sciences",
+   "url": "https://doi.org/10.63954/wajss.4.2.36.2025",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-26",
+   "authors": "Şener",
+   "title": "Has the leadership paradigm shifted in the digital age? A metaphor-based critical discourse analysis",
+   "venue": "Business & Management Studies: An International Journal",
+   "url": "https://doi.org/10.15295/bmij.v13i4.2597",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-24",
+   "authors": "Isnaeni",
+   "title": "The Metaphor \"Knowledge Rooted in the Heart\": A Pragmatic Analysis in Moral Education Discourse",
+   "venue": "TOFEDU",
+   "url": "https://doi.org/10.61445/tofedu.v5i1.1673",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-01",
+   "authors": "Stwora",
+   "title": "On (C)overt Domain Boundaries in Metaphor and Humour as Exemplified in Selected Multimodal Press Advertisements in English",
+   "venue": "Lege artis",
+   "url": "https://doi.org/10.34135/lartis.26.11.1.08",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "广告",
+    "新闻话语"
+   ]
+  },
+  {
+   "date": "2026-05-28",
+   "authors": "Meng",
+   "title": "Multimodal Metaphor in Chinese Cosmetic Branding: The Case of Florasis Lipstick Shades",
+   "venue": "Studies in Linguistics and Literature",
+   "url": "https://doi.org/10.22158/sll.v10n2p162",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "广告",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-02-04",
+   "authors": "Qiao et al.",
+   "title": "A Multimodal Metaphor Analysis of Chinese Architecture in Ne Zha 2",
+   "venue": "Journal of Literature and Art Studies",
+   "url": "https://doi.org/10.17265/2159-5836/2026.01.007",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-04-30",
+   "authors": "Yuke",
+   "title": "Performances of LLMs in Multimodal Metaphor Understanding, Generation, Consistency and Creativity Based on FDPEF",
+   "venue": "International Journal of Language and Linguistics",
+   "url": "https://doi.org/10.11648/j.ijll.20261402.12",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "大模型"
+   ]
+  },
+  {
+   "date": "2025-12-19",
+   "authors": "Kabalina et al.",
+   "title": "The Role of Linguistic Intertextuality in the Construction of Multimodal Metaphor in Contemporary Street Dance",
+   "venue": "Anglica Wratislaviensia",
+   "url": "https://doi.org/10.19195/0301-7966.63.1.4",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "authors": "Zhong",
+   "title": "A Study of Multimodal Metaphor in the Film Deep Sea from the Cognitive Perspective",
+   "venue": "International Journal of English Literature and Social Sciences",
+   "url": "https://doi.org/10.22161/ijels.115.25",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "电影"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "authors": "Kaliakatsou",
+   "title": "Beyond Boundaries: The Wall Metaphor in Contemporary Picture Books as a Multimodal Representation of Emotion, Power, and Transformation",
+   "venue": "European Journal of Literary Studies",
+   "url": "https://doi.org/10.46827/ejls.v7i1.726",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "情感"
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "authors": "—",
+   "title": "The Mechanism of Metaphor Generation and Meaning Construction through Multimodal Collaboration: A Case Study of Folk Media Li Ziqi in Cross-Cultural Communication",
+   "venue": "Media and Communication Research",
+   "url": "https://doi.org/10.23977/mediacr.2026.070203",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2026-02-12",
+   "authors": "Yang",
+   "title": "A Multimodal Metaphor Perspective on the Globalization of English Translations of Chinese Children's Picture Books: A Case Study of Book Covers",
+   "venue": "OALib",
+   "url": "https://doi.org/10.4236/oalib.1114867",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "翻译",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-06-21",
+   "authors": "Makaruk",
+   "title": "Metaphor as a Mechanism of Resemantization and Recontextualization of Slogans in Multimodal Discourse",
+   "venue": "Naukovì zapiski Nacìonalʹnogo universytetu «Ostrozʹka akademìâ»",
+   "url": "https://doi.org/10.25264/2519-2558-2026-29(97)-54-59",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态"
+   ]
+  },
+  {
+   "date": "2026-03-16",
+   "authors": "Zhang et al.",
+   "title": "MAMMD: A multi-agent collaboration framework for multimodal metaphor detection",
+   "venue": "Neurocomputing",
+   "url": "https://doi.org/10.1016/j.neucom.2026.133381",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "隐喻检测"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "authors": "Duong",
+   "title": "When Metaphor Hierarchies Interface with Cultural Values: Asymmetric Evaluations in Vietnamese Orientational Metaphors Lên and Xuống",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2026.2646205",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "authors": "Sana et al.",
+   "title": "Truncated or Expanded? Conventionality Predicts Syntactic Form in Metaphor Production",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2026.2646203",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Chen et al.",
+   "title": "Contouring Emotion Dynamics Through Metaphor: A Related-Event Approach to Emotion Nouns in Japanese and English",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2603216",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "情感"
+   ]
+  },
+  {
+   "date": "2026-04-01",
+   "authors": "Wadley et al.",
+   "title": "Concreteness in Metaphor: An Interactionist Perspective",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2560322",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Apresjan et al.",
+   "title": "Metaphor in the Mental Lexicon: Investigating Different Types of Polysemy via Eye-Tracking and Behavioral Experiments",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2525076",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-01",
+   "authors": "Yang et al.",
+   "title": "Does Extroversion Mean Being Outside? The Connection Between Introverted and Extroverted Personality Concepts and Container Metaphors",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2603213",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Thomson et al.",
+   "title": "QuakeBox Similes: Change and Persistence in Similes in Post-earthquake Narratives",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2610012",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Takashima et al.",
+   "title": "Mind Metaphors in Japanese Sign Language: Culture-Specific and Spatial Understandings of the Mind",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2540282",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "authors": "Wen et al.",
+   "title": "Cognitive Mappings and Cultural Motivations in Chinese Yu-Related Idiomatic Expressions",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2026.2646204",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "习语",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-03-02",
+   "authors": "Patah et al.",
+   "title": "Metaphors of depression in Malay discourse",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.25023.pat",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "抑郁"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Dyrmo",
+   "title": "Valence distribution and valence alignment in the metaphor \"być na świeczniku\" in the Polish language",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.25015.dyr",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "authors": "Richardson et al.",
+   "title": "Blind beholding",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.26002.ric",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "authors": "Yang et al.",
+   "title": "The dance of metaphor",
+   "venue": "Review of Cognitive Linguistics",
+   "url": "https://doi.org/10.1075/rcl.00260.yan",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "authors": "Beyazid et al.",
+   "title": "The black hole fed on the star",
+   "venue": "Review of Cognitive Linguistics",
+   "url": "https://doi.org/10.1075/rcl.00272.bey",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "authors": "Placiński et al.",
+   "title": "The career of metaphor in pantomime: a motion-capture study of the conventionalization of metaphor",
+   "venue": "Journal of Language Evolution",
+   "url": "https://doi.org/10.1093/jole/lzag003",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-13",
+   "authors": "Martín-González et al.",
+   "title": "Conventional metaphor processing in autistic adults: a semantic priming experiment",
+   "venue": "Applied Psycholinguistics",
+   "url": "https://doi.org/10.1017/s0142716426100496",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-07",
+   "authors": "Anselimus et al.",
+   "title": "Framing mental health through language: metaphors and idioms in everyday communication and media discourse",
+   "venue": "Cogent Arts & Humanities",
+   "url": "https://doi.org/10.1080/23311983.2026.2726613",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "健康话语",
+    "心理健康"
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "authors": "Mohamadpour et al.",
+   "title": "Embodied meaning in therapeutic discourse during cognitive-behavioral therapy for generalized anxiety disorder: an image schema analysis",
+   "venue": "Health Psychology and Behavioral Medicine",
+   "url": "https://doi.org/10.1080/21642850.2026.2716444",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "意象图式"
+   ]
+  },
+  {
+   "date": "2026-04-23",
+   "authors": "Göransson",
+   "title": "Framing evolution – semantic framing and conceptual blending explains students' hybrid conceptions of natural selection",
+   "venue": "International Journal of Science Education",
+   "url": "https://doi.org/10.1080/09500693.2026.2658273",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念整合",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "authors": "Rees-Davies",
+   "title": "Making sense of coaching through metaphor: a discourse analysis of coaching practice in educational contexts",
+   "venue": "Coaching: An International Journal of Theory, Research and Practice",
+   "url": "https://doi.org/10.1080/17521882.2026.2721685",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-10",
+   "authors": "Wu et al.",
+   "title": "What happens to our thinking when morality marries with capital: another revolution of metaphor?",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-06651-z",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-28",
+   "authors": "Fernández-Lozano et al.",
+   "title": "Pliny the Elder's discourse on Roman gold mining: The ecological approach of his gold metaphor and the personification of Nature",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-06556-x",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "生态话语"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "authors": "Alfraidi",
+   "title": "The metaphors of wajh (face) in the Saudi media discourse: a corpus-based analysis",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-08619-5",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "authors": "Zahoor et al.",
+   "title": "Disability, Gender, and the Reclamation of Loss in Feryal Ali Gauhar's An Abundance of Wild Roses: A Socio-Cognitive Critical Discourse Analysis",
+   "venue": "Journal of Arts and Linguistics Studies",
+   "url": "https://doi.org/10.71281/jals.v4i11.854",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "authors": "Mutlak et al.",
+   "title": "A Cognitive-Critical Discourse Analysis of Death Metaphors in Sinan Antoon's The Corpse Washer",
+   "venue": "Al-Itqan Journal for Humanities",
+   "url": "https://doi.org/10.66359/itqan.v1i4.075",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "authors": "Bekhta et al.",
+   "title": "Discourse dynamics of concepts in a war narrative: A cognitive-narratological analysis of Daniel Kraus's \"Angel Down\"",
+   "venue": "Cognition, Communication, Discourse",
+   "url": "https://doi.org/10.26565/2218-2926-2026-32-01",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "战争隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-09",
+   "authors": "Berdowicz",
+   "title": "Voices of Departure: A Cognitive Discourse Analysis of Catholic Exit Stories",
+   "venue": "Człowiek i Społeczeństwo",
+   "url": "https://doi.org/10.14746/cis.2025.60.3",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-11",
+   "authors": "Chaaibi",
+   "title": "Understanding Moroccan Political Discourse through Citizens' Cognitive Reception: A Critical Linguistic Study",
+   "venue": "Advanced International Journal of Multidisciplinary Research",
+   "url": "https://doi.org/10.62127/aijmr.2026.v04i02.1248",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "authors": "Malik et al.",
+   "title": "Ideological contestation on X: A socio-cognitive critical discourse analysis of political hashtags",
+   "venue": "Perspectives in Social Sciences",
+   "url": "https://doi.org/10.63468/pss.147",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-07-05",
+   "authors": "Wibowo et al.",
+   "title": "A critical discourse analysis of Trump's 2024 victory speech: A socio-cognitive approach",
+   "venue": "Diglosia",
+   "url": "https://doi.org/10.30872/diglosia.v9i2.1537",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "演讲",
+    "特朗普"
+   ]
+  },
+  {
+   "date": "2026-04-24",
+   "authors": "Dewi et al.",
+   "title": "Power and Ideology in Online News: A Socio-Cognitive Critical Discourse Analysis of Misty Copeland's Representation in CNN",
+   "venue": "Edulitics Journal",
+   "url": "https://doi.org/10.52166/edulitics.v10i2.11232",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-03-14",
+   "authors": "Sattorova",
+   "title": "A Cognitive Comparative Analysis of Aphoristic Expressions in Political Discourse: The Case of English And Uzbek",
+   "venue": "American Journal Of Social Sciences And Humanity Research",
+   "url": "https://doi.org/10.37547/ajsshr/volume06issue02-22",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "authors": "Bazarbaeva",
+   "title": "A Cognitive Discursive Framework for the Analysis of Fictional Texts: Integrating Cognitive Semantics and Discourse Studies",
+   "venue": "Scientia",
+   "url": "https://doi.org/10.51773/sssh.v4i2.1014",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-22",
+   "authors": "Sohor et al.",
+   "title": "Selling Domesticity: A Socio-Cognitive Critical Discourse Analysis of Patriarchal Ideology in Mid-Twentieth-Century Advertising",
+   "venue": "International Journal of Research and Innovation in Social Science",
+   "url": "https://doi.org/10.47772/ijriss.2026.10100027",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "广告",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "authors": "Li et al.",
+   "title": "An Analysis of Conflict Discourse in Season 3 of Succession from the Perspective of Proximization Theory",
+   "venue": "Philosophy and Social Science",
+   "url": "https://doi.org/10.62381/p263806",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论"
+   ]
+  },
+  {
+   "date": "2026-05-29",
+   "authors": "—",
+   "title": "A Comparative Study of Risk Discourse in Apple and Microsoft from the Perspective of Proximization Theory",
+   "venue": "Global Vision Research",
+   "url": "https://doi.org/10.69979/3041-0843.26.02.017",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "authors": "Chang",
+   "title": "Research from Proximization Theory on Critical Discourse Analysis: A Case Study of Reports on US-Iran Conflict from China Daily",
+   "venue": "Advances in Education, Humanities and Social Science Research",
+   "url": "https://doi.org/10.56028/aehssr.17.1.317.2026",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "authors": "Sallam",
+   "title": "Discursive Proximization of AI-Related Threat in UN and African Union Institutional Discourse: A Comparative Study",
+   "venue": "Journal of the Faculty of Arts, Port Said University",
+   "url": "https://doi.org/10.21608/jfpsu.2026.510287.1582",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "authors": "Zhou",
+   "title": "A Study on the Proximization of Critical Discourse Analysis: Taking Chinese and English Subtitles of Dead to Rights as an Example",
+   "venue": "Advances in Education, Humanities and Social Science Research",
+   "url": "https://doi.org/10.56028/aehssr.17.1.603.2026",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-03-05",
+   "authors": "Liu et al.",
+   "title": "Diplomatic Discourse and National Image Construction Based on Proximization Theory: A Corpus-Assisted Study of China's MFA Regular Press Conference Speeches",
+   "venue": "CCNIS 2025 (IEEE)",
+   "url": "https://doi.org/10.1109/ccnis69465.2025.00077",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "演讲",
+    "新闻话语"
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "authors": "Bugaeov et al.",
+   "title": "Proximization Theory as a Tool for Analyzing the Image of a Migrant in English-Language Internet Discourse",
+   "venue": "Слово, высказывание, текст в когнитивном, прагматическом и культурологическом аспектах",
+   "url": "https://doi.org/10.47475/9785727121313_11",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "移民"
+   ]
+  },
+  {
+   "date": "2026-01-06",
+   "authors": "El-Sufi",
+   "title": "Between Two COPs: A Cognitive Proximization of Fear",
+   "venue": "Journal of the Faculty of Arts, Suez University",
+   "url": "https://doi.org/10.21608/jfask.2026.444227.1258",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论"
+   ]
+  },
+  {
+   "date": "2026-04-17",
+   "authors": "Carrión",
+   "title": "Meaning construal in contemporary dance",
+   "venue": "Cognitive Linguistic Studies",
+   "url": "https://doi.org/10.1075/cogls.00147.car",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "识解"
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "authors": "Beekhuizen",
+   "title": "Construal and variable discourse patterns explain the typology of visual perception verbs",
+   "venue": "Cognitive Linguistics",
+   "url": "https://doi.org/10.1515/cog-2025-0174",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "识解",
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "authors": "Li et al.",
+   "title": "Deverbal Nominalization as Layered Metaphorical Construal: An ECMT-Cognitive Grammar Account",
+   "venue": "Journal of Literature and Art Studies",
+   "url": "https://doi.org/10.17265/2159-5836/2026.10.007",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "识解"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "authors": "Asif et al.",
+   "title": "A Cognitive Construal of Alice's Adventures in Wonderland",
+   "venue": "مجلة البحث",
+   "url": "https://doi.org/10.63797/nqg6kh58",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "识解"
+   ]
+  },
+  {
+   "date": "2026-07-26",
+   "authors": "Baene et al.",
+   "title": "Cognitive Construction of Humor through Modal-World Negotiation: A Text World Theory Analysis of Multimodal Narrative in Air Buddies",
+   "venue": "Jurnal Pendidikan dan Pengajaran",
+   "url": "https://doi.org/10.23887/jpp.v59i1.112096",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "多模态"
+   ]
+  },
+  {
+   "date": "2026-04-17",
+   "authors": "Muñoz et al.",
+   "title": "Metonymic thinking all the way down",
+   "venue": "Cognitive Linguistic Studies",
+   "url": "https://doi.org/10.1075/cogls.00139.mun",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-04-17",
+   "authors": "Panther et al.",
+   "title": "Modeling figuration in speech acts",
+   "venue": "Cognitive Linguistic Studies",
+   "url": "https://doi.org/10.1075/cogls.00141.pan",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "演讲"
+   ]
+  },
+  {
+   "date": "2026-04-17",
+   "authors": "Brdar et al.",
+   "title": "Metonymies we sign by",
+   "venue": "Cognitive Linguistic Studies",
+   "url": "https://doi.org/10.1075/cogls.00146.brd",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-04-01",
+   "authors": "Jang et al.",
+   "title": "Contextual Factors That Trigger Sarcasm",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2591039",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "authors": "Ren",
+   "title": "Review of Duffy & Feist (2023): Time, Metaphor, and Language: A Cognitive Science Perspective",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.26020.ren",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "authors": "Shao",
+   "title": "Review of Goatly (2024): Metaphor, Metonymy and Lexicogenesis",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.26009.sha",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "转喻",
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "authors": "Soleimani",
+   "title": "Review of Rogos-Hebda & Tissari (2026): At the Crossroads of Historical and Cognitive Linguistics",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.26021.sol",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-02-27",
+   "authors": "Zeng",
+   "title": "Review of The Construction of Metaphoric Text and Talk: A Discourse Analytic Approach",
+   "venue": "Chinese Language and Discourse",
+   "url": "https://doi.org/10.1075/cld.25037.zen",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "authors": "Pan et al.",
+   "title": "Review of Pedersen (2025): Metaphors in Audiovisual Translation",
+   "venue": "Babel",
+   "url": "https://doi.org/10.1075/babel.26267.pan",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "翻译",
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-05-04",
+   "authors": "Wu",
+   "title": "The Conceptual-Grammatical interface in Functional Discourse Grammar: metonymy, metaphor and indirect speech acts",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.6709559",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "演讲",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "authors": "Pavlina et al.",
+   "title": "Metaphor, Metonymy and Conceptual Integration in Satirical Discourse: British and American Political Cartoons",
+   "venue": "Professional Discourse & Communication",
+   "url": "https://doi.org/10.24833/2687-0126-2026-8-3-40-65",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "政治漫画",
+    "政治话语",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2025-12-22",
+   "authors": "Milković",
+   "title": "Examining Conceptual Metaphor in the Legal Discourse of the EU Acquis",
+   "venue": "Philologia",
+   "url": "https://doi.org/10.18485/philologia.2025.23.23.2",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "法律话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-11",
+   "authors": "Verdiyeva",
+   "title": "On the History of Conceptual Metaphor Research: From Conceptual Metaphor Theory to Extended Conceptual Metaphor Theory",
+   "venue": "Filologiya məsələləri",
+   "url": "https://doi.org/10.62837/2026.5.342",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-24",
+   "authors": "Chen et al.",
+   "title": "Chinese Political Media Discourse: The \"Flow of Water\" Conceptual Metaphor in the Verbalization of Russia-China Cooperation",
+   "venue": "Discourse (Дискурс)",
+   "url": "https://doi.org/10.32603/2412-8562-2025-11-5-193-207",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "媒体话语",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-05-07",
+   "authors": "Ambarani et al.",
+   "title": "When Government Speaks in Metaphor of Indonesian News: A Conceptual Metaphor Perspective and Translation",
+   "venue": "International Journal of Linguistics and Discourse Analytics",
+   "url": "https://doi.org/10.52232/ijolida.v7i2.210",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "翻译",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-29",
+   "authors": "Nguyen Thi Hai Yen",
+   "title": "Conceptual Metaphor \"CLIMATE CHANGE IS A WAR\" in Vietnamese Press Discourse",
+   "venue": "Tạp chí Khoa học Trường Đại học Mở Hà Nội",
+   "url": "https://doi.org/10.59266/houjs.2026.1141",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "战争隐喻",
+    "气候话语"
+   ]
+  },
+  {
+   "date": "2026-05-29",
+   "authors": "Karnedi",
+   "title": "Metaphor Outside Literature: A Case Study of Conceptual Metaphor in Social Sciences",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.6793458",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-14",
+   "authors": "Wei et al.",
+   "title": "An Analytical Study of Conceptual Metaphor in Climate Change Discourse",
+   "venue": "Journal of Basic and Applied Research International",
+   "url": "https://doi.org/10.56557/jobari/2026/v32i110264",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "气候话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-27",
+   "authors": "Salim",
+   "title": "Metaphorical Framing in Political Discourse: A Longitudinal Study of Conceptual Metaphor Use in American Presidential Speeches",
+   "venue": "JALL (Journal of Applied Linguistics and Literacy)",
+   "url": "https://doi.org/10.25157/jall.v10i1.23141",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "演讲",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "authors": "Chemis",
+   "title": "Euphemistic Representations of Death in Kenyan Online Obituary and Funeral Discourse: A Corpus-Assisted Conceptual Metaphor Analysis",
+   "venue": "Journal of Languages and Linguistics",
+   "url": "https://doi.org/10.51317/jll.v5i1.1166",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "语料库",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "authors": "Aulia et al.",
+   "title": "Building Through Crisis: Conceptual Metaphor and Developmentalist Framing in Jokowi's Pandemic Economic Discourse (2020–2022)",
+   "venue": "Jurnal Ragam Pengabdian",
+   "url": "https://doi.org/10.62710/d5pe0558",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "疫情",
+    "经济话语",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "authors": "سروة جلال علي et al.",
+   "title": "الاستعارة التصورية البنيوية في خطاب أولي العزم (النبي إبراهيم عليه السلام) أنموذجاً",
+   "venue": "Journal of Education for Humanities",
+   "url": "https://doi.org/10.33899/jeh.v6i21.60894",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-07",
+   "authors": "Bąk",
+   "title": "Metaphor in Language and Discourse. Introductory Remarks",
+   "venue": "Lublin Studies in Modern Languages and Literature",
+   "url": "https://doi.org/10.17951/lsmll.2025.49.4.1-12",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-12",
+   "authors": "Yusupova",
+   "title": "Conceptual Metaphor: Methods of Analysis in Poetic Texts",
+   "venue": "European International Journal of Philological Sciences",
+   "url": "https://doi.org/10.55640/eijps-06-04-13",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-01",
+   "authors": "Ishchuk et al.",
+   "title": "Conceptual Metaphor and Covert Framing in English-Language Public Discourse: A Cross-Domain Analysis",
+   "venue": "Сучасні дослідження з іноземної філології",
+   "url": "https://doi.org/10.32782/2617-3921.2026.29.138-149",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "框架",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-16",
+   "authors": "Awatef",
+   "title": "Conceptual Metaphor in Literary Discourse: A Cognitive-Analytical Framework for Meaning Construction and Cross-Domain Mapping",
+   "venue": "Science, Education and Innovations in the context of modern problems",
+   "url": "https://doi.org/10.56334/sei/9.4.28",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-18",
+   "authors": "Jingfang",
+   "title": "On the Conceptual Metaphor in Mao Zedong's Poems",
+   "venue": "Himalayan Journal of Humanities and Cultural Studies",
+   "url": "https://doi.org/10.47310/hjhcs.2023.v04i01.026",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-06",
+   "authors": "Zhumakhanova et al.",
+   "title": "Representing the Conceptual Metaphor 'Human is Animal' in Russian and German Media Discourse",
+   "venue": "Bulletin of Toraighyrov University. Philology series",
+   "url": "https://doi.org/10.48081/bgqf1748",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-06",
+   "authors": "العتيبي",
+   "title": "الاستعارة التصورية في الخطاب العلمي: مقاربة إدراكية في المقالات التربوية",
+   "venue": "Arts for Linguistic & Literary Studies",
+   "url": "https://doi.org/10.53286/arts.v7i4.2902",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-24",
+   "authors": "Lemghari",
+   "title": "Stereotypical Metaphor: A Missing Piece in Conceptual Metaphor Theory",
+   "venue": "Studies in Logic, Grammar and Rhetoric",
+   "url": "https://doi.org/10.2478/slgr-2025-0018",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-23",
+   "authors": "Mohsin et al.",
+   "title": "A Cognitive Study of Conceptual Metaphor of Hawthorne's The Scarlet Letter",
+   "venue": "مجلة البحث",
+   "url": "https://doi.org/10.63797/bjh.v44i4.4629",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-07",
+   "authors": "Atmaja et al.",
+   "title": "Conceptual Metaphor In Song Lyrics Pierce The Veil's Collide With The Sky Album",
+   "venue": "International Journal of Linguistics and Discourse Analytics",
+   "url": "https://doi.org/10.52232/ijolida.v7i2.197",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "歌词",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "authors": "Fadhilah et al.",
+   "title": "Human-Centered Conceptual Metaphors in Prabowo Subianto's International Diplomatic Speeches: A Critical Metaphor Analysis in Political Discourse",
+   "venue": "Language Literacy",
+   "url": "https://doi.org/10.30743/ll.v10i1.13447",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "演讲",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-16",
+   "authors": "Mirdjanovna et al.",
+   "title": "The Epistemic and Interpretative Role of Metaphor in Uzbek Scientific Discourse",
+   "venue": "American Journal of Philological Sciences",
+   "url": "https://doi.org/10.37547/ajps/volume06issue03-02",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "科学话语"
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "authors": "Mohammed",
+   "title": "A Cognitive Semantic Study of Conceptual Metaphor in Selected English Food Proverbs",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7055998",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "谚语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-13",
+   "authors": "Baek et al.",
+   "title": "Conceptual Metaphor and Metonymy in the Shiji's Talent (人才) Discourse: A Cognitive Semantic Analysis",
+   "venue": "Barun Academy of History",
+   "url": "https://doi.org/10.55793/jkhc.2025.29.157",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "转喻",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "authors": "Anh et al.",
+   "title": "The Conceptual Metaphor \"Handicraft Trades Are Human Beings\" in Vietnamese Newspaper Discourse",
+   "venue": "Global Journal of Research in Multidisciplinary Studies",
+   "url": "https://doi.org/10.58175/gjrms.2026.4.4.0061",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "authors": "—",
+   "title": "The Buried Metaphor",
+   "venue": "The Monstrous Discourse in the Donald Trump Campaign (book chapter)",
+   "url": "https://doi.org/10.5040/9781978746138.ch-4",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "authors": "Han",
+   "title": "The Relationship Between Metaphor and Culture Examined Through Variations of Conceptual Metaphor Theory",
+   "venue": "International Journal of High School Research",
+   "url": "https://doi.org/10.36838/ijhsr815.13",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "authors": "سيما كمال احمد رضا et al.",
+   "title": "هندسة الخطاب الإعلامي الكردي المعاصر من منظور الاستعارة المفاهيمية",
+   "venue": "Journal of Babylon Center for Humanities Studies",
+   "url": "https://doi.org/10.66026/ya71sb15",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-12",
+   "authors": "—",
+   "title": "Conceptual Metaphor of Time in Kurdish",
+   "venue": "Journal of Raparin University",
+   "url": "https://doi.org/10.26750/fzqzh814",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "时间隐喻",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-30",
+   "authors": "Fajar et al.",
+   "title": "Mapping Emotion Through Metaphor: A Conceptual Metaphor Analysis of Adele's 21",
+   "venue": "Vivid: Journal of Language and Literature",
+   "url": "https://doi.org/10.25077/vj.15.1.1-11.2026",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "情感",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-21",
+   "authors": "Liu et al.",
+   "title": "Metaphors Fashion Lives by: A Metaphor Analysis of Luxury Environmental Discourse",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.6278609",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-22",
+   "authors": "Ches",
+   "title": "From Mental Projection to Neural Networks: Neurolinguistic Evidence for Conceptual Metaphor Theory",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.5765542",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-11",
+   "authors": "Azimova",
+   "title": "Conceptual Metaphor and Mental Representation in English",
+   "venue": "Alfraganus University Conference Proceedings",
+   "url": "https://doi.org/10.63294/afucon/vol2iss1/530",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "authors": "Khatin-Zadeh et al.",
+   "title": "Conceptual stability and contextual adaptivity: a two-dimensional account within extended conceptual metaphor theory",
+   "venue": "Lingua",
+   "url": "https://doi.org/10.1016/j.lingua.2026.104292",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Sorochkin",
+   "title": "Reading One Constitution: Source Traditions, Normative Genre, and Conceptual Metaphor in Anthropic's AI Governance Document",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.6946338",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Wang et al.",
+   "title": "More Than \"A Black Dog\": Investigating the Use of Depression Conceptual Metaphors in the SANE Community",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2603214",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "抑郁",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "authors": "Badalbaev",
+   "title": "Conceptual Metaphor and the Literal–Real Meaning Relationship in Chinese Habitual Expressions: A Corpus-Based Study",
+   "venue": "International Journal of Literature and Languages",
+   "url": "https://doi.org/10.37547/ijll/volume06issue08-06",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "语料库",
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-20",
+   "authors": "Benelhadj",
+   "title": "Conceptual Metaphor between Universality and Variation",
+   "venue": "The Routledge Handbook of Transdisciplinary Systemic Functional Linguistics (Routledge)",
+   "url": "https://doi.org/10.4324/9781003291138-9",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-09",
+   "authors": "Sikora",
+   "title": "Westminster on the late Queen – metaphor as a discourse vehicle in condolence debates after Queen Elizabeth II's death",
+   "venue": "New Horizons in English Studies",
+   "url": "https://doi.org/10.17951/nh.2025.10.4-15",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-31",
+   "authors": "Chorshanbiyeva",
+   "title": "Conceptual Metaphor as a Tool of Meaning Construction",
+   "venue": "Science Time",
+   "url": "https://doi.org/10.66345/stj.v4i4/1.6024",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "authors": "Kashenkova",
+   "title": "Political Metaphor as a Tool for Constructing Migration Discourse (with a focus on the German language)",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7695942",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "移民"
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "authors": "Matin et al.",
+   "title": "A Study of Metaphor in A Thousand Splendid Suns from Conceptual Metaphor Perspective",
+   "venue": "Farah Research and Scientific Journal",
+   "url": "https://doi.org/10.67753/frsj.v1i2.47",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "authors": "Ali et al.",
+   "title": "Conceptual Metaphors in the Military Press Releases of ISPR: A Critical Metaphor Analysis",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7346480",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "authors": "Abduxamidova",
+   "title": "Methodological Foundations of the Study of Conceptual Metaphor",
+   "venue": "Problems of modern philology",
+   "url": "https://doi.org/10.66337/nsfl/art40149",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "authors": "Akewula",
+   "title": "Metaphor and Metonymy: A Rhetorical Discourse Analysis of Al-Firdaws Al-Yabāb of Laylā Al-Juhānī",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7576618",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "authors": "Yani et al.",
+   "title": "Metaphor of Life in \"Reminders of Him\": A Conceptual Metaphor Study",
+   "venue": "Jurnal Riset Rumpun Ilmu Bahasa",
+   "url": "https://doi.org/10.55606/jurribah.v4i3.6439",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "authors": "Tay",
+   "title": "Affective engagement across metaphor-related discourse moves in statistics education",
+   "venue": "Frontiers in Education",
+   "url": "https://doi.org/10.3389/feduc.2026.1831504",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-18",
+   "authors": "Hamidova",
+   "title": "The Role of Metaphor in Academic Discourse",
+   "venue": "Filologiya məsələləri",
+   "url": "https://doi.org/10.62837/2026.1.263",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "学术话语"
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "authors": "Xue",
+   "title": "Cross-Cultural Metaphor and Discourse Comprehension",
+   "venue": "US-China Foreign Language",
+   "url": "https://doi.org/10.17265/1539-8080/2025.10.003",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-07",
+   "authors": "Yurchyshyn",
+   "title": "Pragmatic Functions of Metaphor and Satirical Humour in Media Discourse",
+   "venue": "Folium",
+   "url": "https://doi.org/10.32782/folium/2026.8.30",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2025-12-04",
+   "authors": "—",
+   "title": "A Study on the Functions of Conceptual Metaphors in the Chinese Government Work Report (2021-2025) from the Perspective of Conceptual Metaphor Theory",
+   "venue": "Global Vision Research",
+   "url": "https://doi.org/10.69979/3041-0843.25.04.024",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-21",
+   "authors": "Nasser et al.",
+   "title": "Persuasive Strategies of Political Speeches: A Case Study Using Critical Metaphor Analysis of Ali Abdullah Saleh's Final Speech",
+   "venue": "Journal of Social Studies",
+   "url": "https://doi.org/10.20428/jss.v31i11.3291",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "演讲"
+   ]
+  },
+  {
+   "date": "2025-11-21",
+   "authors": "—",
+   "title": "Language and Metaphor",
+   "venue": "Globalization and Media (Bloomsbury, book chapter)",
+   "url": "https://doi.org/10.5040/9798216404613.ch-003",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-25",
+   "authors": "Alasuutari",
+   "title": "The vertical metaphor of power",
+   "venue": "Journal of Political Power",
+   "url": "https://doi.org/10.1080/2158379x.2026.2660238",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "authors": "—",
+   "title": "Metaphor Analytics: A neural network approach to automated identification of metaphorical speech impact",
+   "venue": "Research Result. Theoretical and Applied Linguistics",
+   "url": "https://doi.org/10.18413/2313-8912-2026-12-2-0-5",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "演讲"
+   ]
+  },
+  {
+   "date": "2026-04-28",
+   "authors": "Kirchhoff",
+   "title": "Metaphor, Frame, and Discourse Analysis",
+   "venue": "Handbook of Media and Gender (Springer)",
+   "url": "https://doi.org/10.1007/978-3-658-45789-1_16",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "authors": "Yu et al.",
+   "title": "Metaphor-Appraisal Synergy in Values Transmission: A Corpus Study of Chinese Ideological and Political Textbooks",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7517640",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "语料库",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-04-10",
+   "authors": "Navarro i Ferrando",
+   "title": "Book review: Romano, M. (Ed.). (2024). Metaphor in socio-political contexts",
+   "venue": "Revista Española de Lingüística Aplicada",
+   "url": "https://doi.org/10.58859/resla.841",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "authors": "Kiyko et al.",
+   "title": "Metaphor-based reinterpretation of specialised vocabulary in the media",
+   "venue": "Glottotheory",
+   "url": "https://doi.org/10.1515/glot-2026-3018",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "authors": "Banks",
+   "title": "The use of grammatical metaphor in French political tracts",
+   "venue": "Choice in Language (Equinox)",
+   "url": "https://doi.org/10.3138/9781781793213-005",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "authors": "—",
+   "title": "Investigating Discourse on the Use of Metaphor and Modality in Newspaper: A Case Study on Political News in Jawa Pos Newspaper",
+   "venue": "Cineforum",
+   "url": "https://doi.org/10.66669/cineforum.v66i3.1357",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "新闻话语"
+   ]
+  },
+  {
+   "date": "2026-03-18",
+   "authors": "Asgerova",
+   "title": "Metaphor and Media: A Figurative Interpretation of Social Reality",
+   "venue": "Filologiya məsələləri",
+   "url": "https://doi.org/10.62837/2026.1.250",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "authors": "Zahra et al.",
+   "title": "Modality and Ideological Framing in Gaza Conflict News Reporting: A Corpus-Based Critical Discourse Analysis",
+   "venue": "Corpus Pragmatics",
+   "url": "https://doi.org/10.1007/s41701-026-00250-8",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "语料库",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "authors": "Mouhcine",
+   "title": "A large-scale computational analysis of metaphor density in academic discourse (Elsevier OA CC-BY corpus)",
+   "venue": "SN Social Sciences",
+   "url": "https://doi.org/10.1007/s43545-026-01947-y",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "语料库",
+    "学术话语"
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "authors": "Kusama et al.",
+   "title": "Framing homelessness: a corpus-assisted critical discourse analysis of BBC News UK",
+   "venue": "Corpora",
+   "url": "https://doi.org/10.3366/cor.2026.0365",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "语料库",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-02-10",
+   "authors": "Zhang et al.",
+   "title": "Framing China's climate action: a corpus-assisted discursive news values analysis in Chinese media discourse",
+   "venue": "Environmental Research Communications",
+   "url": "https://doi.org/10.1088/2515-7620/ae4458",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "媒体话语",
+    "气候话语"
+   ]
+  },
+  {
+   "date": "2026-07-17",
+   "authors": "Wang",
+   "title": "A Study of Deliberate Metaphor in Ageing-Related Discourse in Health News",
+   "venue": "International Journal of Languages, Literature and Linguistics",
+   "url": "https://doi.org/10.18178/ijlll.2026.12.2.653",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "健康话语"
+   ]
+  },
+  {
+   "date": "2026-02-06",
+   "authors": "López Rodríguez",
+   "title": "Violencia sobre la mujer a través de la metáfora \"zorra\" / Violence against women through the metaphor \"slut\"",
+   "venue": "FEMERIS",
+   "url": "https://doi.org/10.20318/femeris.2026.10144",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-21",
+   "authors": "Zhang",
+   "title": "Constructing the national image of \"China\" in press conference interpreting: a corpus-based critical metaphor analysis",
+   "venue": "Frontiers in Psychology",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1825833",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "语料库",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-01-15",
+   "authors": "Radbil",
+   "title": "Healthy Lexeme in Linguistic Representation of HEALTH Concept (Corpus-discourse Analysis of Russian Media Discourse)",
+   "venue": "Nauchnyi dialog",
+   "url": "https://doi.org/10.24224/2227-1295-2025-14-10-251-272",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "健康话语",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2025-12-29",
+   "authors": "El Moene",
+   "title": "Between Economic Failure and Success: A Corpus-Assisted Eco-Critical Analysis of Climate Change Framing in Moroccan News",
+   "venue": "Corpus Pragmatics",
+   "url": "https://doi.org/10.1007/s41701-025-00222-4",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "气候话语",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-07-04",
+   "authors": "Fomin et al.",
+   "title": "Metaphors of power legitimation: a corpus-based discourse analysis of political Islam in the media discourse of Malaysia and Turkey",
+   "venue": "Issues of Applied Linguistics",
+   "url": "https://doi.org/10.25076/vpl.62.05",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "媒体话语",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "authors": "Bukhari et al.",
+   "title": "Conceptual Metaphor and Ideological Framing in Pakistani English News Media: A Corpus-Based Cognitive Linguistic Analysis",
+   "venue": "Journal of Arts and Linguistics Studies",
+   "url": "https://doi.org/10.71281/jals.v4i7.694",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "媒体话语",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-03-27",
+   "authors": "Zhou",
+   "title": "Review of Alejo-González (2024): Metaphor and Corpus Linguistics",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.26010.zho",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "语料库",
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "authors": "Mukhtar et al.",
+   "title": "Metaphor in Political Discourse: A Cognitive Linguistic Analysis",
+   "venue": "Qubahan Educational Journal",
+   "url": "https://doi.org/10.48161/qej.v2n3a9",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "authors": "Dong et al.",
+   "title": "When Metaphors Hurt or Heal: The Effects of Metaphor Use and Protagonist–Reader Similarity in Mental Illness Narratives on Stigma",
+   "venue": "Journal of Health Communication",
+   "url": "https://doi.org/10.1080/10810730.2026.2713983",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "心理健康"
+   ]
+  },
+  {
+   "date": "2026-06-09",
+   "authors": "Dąbrowska-Burkhardt et al.",
+   "title": "Defence or Attack? The Metaphor of War in a Contrastive Analysis of German and Polish Political Discourse",
+   "venue": "Lege artis",
+   "url": "https://doi.org/10.34135/lartis.22.7.2.special.02",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "战争隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-30",
+   "authors": "Shang et al.",
+   "title": "Investigating dual-pathway cognitive and affective processes in visual metaphor advertising: the roles of consumer involvement and metaphor type",
+   "venue": "Cognitive Processing",
+   "url": "https://doi.org/10.1007/s10339-026-01343-7",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "广告"
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "authors": "Teng et al.",
+   "title": "Visual Congruency and Brand Attitudes: The Mediating Role of Processing Fluency in Metaphorical Advertising",
+   "venue": "Journal of Advertising Research",
+   "url": "https://doi.org/10.1080/00218499.2026.2693333",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "广告",
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "authors": "Jia et al.",
+   "title": "Arguing Without Saying: Metaphor and the Reconstruction of Multimodal Arguments in Advertising",
+   "venue": "Research Square preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-10907726/v1",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "广告"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "authors": "Jia",
+   "title": "Sounding the metaphor: music and non-verbal sound in iPhone advertising",
+   "venue": "Visual Communication",
+   "url": "https://doi.org/10.1177/14703572261453821",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "广告"
+   ]
+  },
+  {
+   "date": "2025-12-22",
+   "authors": "Abdujabborova",
+   "title": "Analysis Of Rhetorical Devices In Chinese Advertising Slogans: A Study Of The Effects Of Metaphor, Parallelism, And Exaggeration",
+   "venue": "American Journal of Philological Sciences",
+   "url": "https://doi.org/10.37547/ajps/volume05issue12-11",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "广告",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-05-14",
+   "authors": "Sanchez",
+   "title": "Extended metaphor, discourse relations, and metaphorical content",
+   "venue": "Semantics and Pragmatics",
+   "url": "https://doi.org/10.3765/sp.19.6",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-05",
+   "authors": "Matytcina et al.",
+   "title": "Metaphor in Organizational Discourse: Directions and Perspectives of Research",
+   "venue": "Филология: научные исследования",
+   "url": "https://doi.org/10.7256/2454-0749.2026.6.79504",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "组织话语"
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "authors": "Perelygina",
+   "title": "Interpretational potential of the coronavirus pedagogical cognitive metaphor in English journalistic discourse",
+   "venue": "Philology and Culture",
+   "url": "https://doi.org/10.26907/2782-4756-2026-85-3-67-70",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新冠"
+   ]
+  },
+  {
+   "date": "2026-04-15",
+   "authors": "Fefelova",
+   "title": "Zoomorphic metaphor in economic discourse",
+   "venue": "Слово, высказывание, текст в когнитивном, прагматическом и культурологическом аспектах",
+   "url": "https://doi.org/10.47475/9785727121313_152",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "经济话语"
+   ]
+  },
+  {
+   "date": "2026-05-12",
+   "authors": "Koliada",
+   "title": "Applying the Metaphor Identification Procedure to Contemporary Discourse: Key Insights and Research Implications",
+   "venue": "Conference Proceedings",
+   "url": "https://doi.org/10.64076/gqp-02.05.2026.001",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-02",
+   "authors": "Sun",
+   "title": "Framing Power, Making Meaning: Rethinking Metaphor Translation in Contemporary Chinese Political Discourse",
+   "venue": "Journal of Language",
+   "url": "https://doi.org/10.64699/25wrjc9827",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "翻译",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-01-12",
+   "authors": "Shulzhenko",
+   "title": "Cognitive metaphor in scientific discourse and its functions",
+   "venue": "Vestnik of North-Eastern Federal University",
+   "url": "https://doi.org/10.25587/2222-5404-2025-22-4-218-233",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "科学话语"
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "authors": "He",
+   "title": "Review of Ounis (2024): Unpacking Metaphor-related Prepositions in Political Discourse",
+   "venue": "Journal of Language and Politics",
+   "url": "https://doi.org/10.1075/jlp.26305.he",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-07-02",
+   "authors": "Davtyan",
+   "title": "Metaphor as a mechanism of persuasion in Armenian political discourse before and after the 2018 revolution",
+   "venue": "Scientific Artsakh",
+   "url": "https://doi.org/10.52063/25792652-2026.1.27-175",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "authors": "Gibbs",
+   "title": "Are myths really metaphors?",
+   "venue": "Cognitive Linguistic Studies",
+   "url": "https://doi.org/10.1075/cogls.00148.gib",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-20",
+   "authors": "Wang",
+   "title": "\"Beauty Servitude\" as Metaphor in Contemporary Chinese Discourse: An Invitational Rhetorical Perspective",
+   "venue": "English Language Teaching and Linguistics Studies",
+   "url": "https://doi.org/10.22158/eltls.v8n2p57",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2025-12-14",
+   "authors": "Nacchia",
+   "title": "A Metaphor Identification Procedure for Specialized Corpora (MIPSpeC): The Case of Promotional Wine-Tasting Discourse",
+   "venue": "ESP Today",
+   "url": "https://doi.org/10.18485/esptoday.2026.14.1.3",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-07",
+   "authors": "Kukushkin et al.",
+   "title": "Semantic evolution of metaphor in contemporary English-language discourse",
+   "venue": "Transcarpathian Philological Studies",
+   "url": "https://doi.org/10.32782/tps2663-4880/2026.45.2.18",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "authors": "Chigbu et al.",
+   "title": "A multifactorial approach to metaphor variation: Analysing NATIONHOOD metaphors in Nigerian presidential discourse",
+   "venue": "Language and Cognition",
+   "url": "https://doi.org/10.1017/langcog.2026.10113",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-04-29",
+   "authors": "Oleinikova",
+   "title": "The role of metaphor in contemporary political discourse",
+   "venue": "International Humanitarian University Herald. Philology",
+   "url": "https://doi.org/10.32782/2409-1154.2026.77.25",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "authors": "Maqsud qizi et al.",
+   "title": "Siyosiy diskursda metaforaning lingvomadaniy o'rganilishi (The linguocultural study of metaphor in political discourse)",
+   "venue": "Science Time",
+   "url": "https://doi.org/10.66345/st.7583",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2025-12-12",
+   "authors": "—",
+   "title": "Metaphor in Web-based Promotional Tourism Discourse: A Quantitative Exploration",
+   "venue": "Online Journal of Humanities – ETAGTSU",
+   "url": "https://doi.org/10.55804/jtsu2346-8149.2025.09.02",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "旅游话语"
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "authors": "Li et al.",
+   "title": "Embodiment, Metaphor, and Anchoring: The Multimodal Construction Logic of News Value in Teaching Discourse",
+   "venue": "ICETT 2026 (IEEE)",
+   "url": "https://doi.org/10.1109/icett70124.2026.11666287",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "新闻话语"
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "authors": "Esmer et al.",
+   "title": "The cognitive architecture of AI discourse: analyzing public perceptions through the event structure metaphor framework",
+   "venue": "SN Social Sciences",
+   "url": "https://doi.org/10.1007/s43545-026-01618-y",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "authors": "Oduola",
+   "title": "Zoomorphic Metaphor-Discourse of Power Relations and Culture-Scriptural Parallelism in Selected Yoruba Oríkì and the Old Testament",
+   "venue": "Yoruba Studies Review",
+   "url": "https://doi.org/10.32473/ysr.11.2.143212",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "authors": "Zhang",
+   "title": "Corporate identity metaphor as constitutive discourse in miniature: The case of New China Life",
+   "venue": "ETC: A Review of General Semantics",
+   "url": "https://doi.org/10.66774/etc_6804_375",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "汉语/中国",
+    "企业话语"
+   ]
+  },
+  {
+   "date": "2026-04-03",
+   "authors": "Ramzan et al.",
+   "title": "Metaphor Detection in Media Discourse: A Machine Assisted Linguistic Analysis",
+   "venue": "Contemporary Journal of Social Science Review",
+   "url": "https://doi.org/10.63878/cjssr.v4i1.2148",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "隐喻检测"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "authors": "Abubakar",
+   "title": "Metaphor in Everyday Communication and Its Impact on Understanding: A Cognitive and Discourse Perspective",
+   "venue": "International Journal of English Language and Communication Studies",
+   "url": "https://doi.org/10.56201/ijelcs.vol.11.no6.2026.pg67.80",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-10",
+   "authors": "Boghiu",
+   "title": "Revealing More Than Intended: On Metaphor Shifts, Clashes and Contradictions in Public Discourse",
+   "venue": "The Dhaka University Journal of Linguistics",
+   "url": "https://doi.org/10.70438/dujl/1836/0001",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-05",
+   "authors": "Ritchie",
+   "title": "Metaphor and Stories in Discourse About Personal and Social Change",
+   "venue": "Culture and Social Change (Emerald)",
+   "url": "https://doi.org/10.1108/978-1-61735-759-620251009",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-03",
+   "authors": "Hübner",
+   "title": "Metaphor, Meaning, and Religious Discourse: A Linguistic and Theological Archeology of the \"Liquidation of the Human Spirit\"",
+   "venue": "Religious Faith and Meaning-Making (Springer)",
+   "url": "https://doi.org/10.1007/978-3-032-09479-7_10",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "宗教话语"
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "authors": "Zeng et al.",
+   "title": "Metaphor Variations in Public Discourse in a Dynamic Multilingual Society",
+   "venue": "Worldwide Perspectives on English Usage (Cambridge)",
+   "url": "https://doi.org/10.1017/9781009569699.010",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "authors": "Sedova",
+   "title": "The Use of Culinary Metaphor in the Coverage of Formula One World Championship in British Sports Discourse",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7132539",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "体育"
+   ]
+  },
+  {
+   "date": "2026-04-23",
+   "authors": "Lim",
+   "title": "Figurative use of crime expressions and metaphor in political discourse",
+   "venue": "The Journal of Linguistics Science",
+   "url": "https://doi.org/10.21296/jls.2026.03.116.121",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-01-29",
+   "authors": "—",
+   "title": "A Study of Metaphor System Based on Discourse Dynamics Approach—In the Case of New Energy Reports in China Daily",
+   "venue": "Academic Journal of Humanities & Social Sciences",
+   "url": "https://doi.org/10.25236/ajhss.2025.081210",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "authors": "Semino",
+   "title": "Vaccines and Their Metaphors",
+   "venue": "Routledge (book, 2026)",
+   "url": "https://doi.org/10.4324/9781003650102",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "疫苗"
+   ]
+  },
+  {
+   "date": "2026-04-30",
+   "authors": "Brencio",
+   "title": "Metaphors in Action. An Introduction",
+   "venue": "Metaphors in Action (Springer Numanities, 2026)",
+   "url": "https://doi.org/10.1007/978-3-032-12213-1_1",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-30",
+   "authors": "Ciccarelli",
+   "title": "The Power of Metaphors and Metaphors of Power: Some Notes from Social Media",
+   "venue": "Metaphors in Action (Springer Numanities, 2026)",
+   "url": "https://doi.org/10.1007/978-3-032-12213-1_11",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "authors": "—",
+   "title": "War-Normalizing Metaphors",
+   "venue": "The Normalization of War in Israeli Discourse, 1967–2008 (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9798216502258.ch05",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "战争隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-30",
+   "authors": "Atta-Asamoah",
+   "title": "Metaphors We Shoot By: Metaphors in Live Text Football Commentary",
+   "venue": "Language Literacy",
+   "url": "https://doi.org/10.30743/ll.v1i1.12132",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "体育"
+   ]
+  },
+  {
+   "date": "2026-03-13",
+   "authors": "Pomeroy et al.",
+   "title": "Metaphors we're safe by: analysing conceptual metaphors within corporate safety reporting",
+   "venue": "Safety Science",
+   "url": "https://doi.org/10.1016/j.ssci.2026.107190",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "企业话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-21",
+   "authors": "Gottwald",
+   "title": "UNHCR Through Organisational Metaphors",
+   "venue": "Human Rights Interventions (Springer)",
+   "url": "https://doi.org/10.1007/978-3-032-09033-1_21",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-21",
+   "authors": "—",
+   "title": "Metaphors and Annual Reports",
+   "venue": "Applied Business Rhetoric (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9798216414896.ch-10",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "authors": "—",
+   "title": "Our Metaphors, Our Selves",
+   "venue": "The Monstrous Discourse in the Donald Trump Campaign (book chapter)",
+   "url": "https://doi.org/10.5040/9781978746138.ch-1",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Miers",
+   "title": "Pictorial and Linguistic Metaphors",
+   "venue": "Visual Metaphor and Drawn Narratives (Palgrave)",
+   "url": "https://doi.org/10.1007/978-3-031-95800-7_2",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Miers",
+   "title": "Conceptual and Non-mimetic Metaphors",
+   "venue": "Visual Metaphor and Drawn Narratives (Palgrave)",
+   "url": "https://doi.org/10.1007/978-3-031-95800-7_3",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-20",
+   "authors": "Egg",
+   "title": "Metaphors as register markers",
+   "venue": "Corpus Linguistics and Linguistic Theory",
+   "url": "https://doi.org/10.1515/cllt-2025-0096",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "authors": "Reali et al.",
+   "title": "Metaphors of happiness in Spanish",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.26013.rea",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "情感"
+   ]
+  },
+  {
+   "date": "2026-03-20",
+   "authors": "Shekho",
+   "title": "Reconceptualizing Gender Identities Through Metaphors",
+   "venue": "The International Journal of Literary Humanities",
+   "url": "https://doi.org/10.18848/2327-7912/cgp/a366",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "authors": "Bahy el din Mahmoud",
+   "title": "Constructing Meaning through Multimodal Metaphors",
+   "venue": "Journal of the Faculty of Arts, Suez Canal University",
+   "url": "https://doi.org/10.21608/jfhsc.2026.539083",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态"
+   ]
+  },
+  {
+   "date": "2026-07-16",
+   "authors": "Erdem et al.",
+   "title": "Teachers' Metaphors Regarding Artificial Intelligence",
+   "venue": "Contemporary Research Analysis Journal",
+   "url": "https://doi.org/10.55677/craj/08-2026-vol03i06",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-22",
+   "authors": "Malvini Redden",
+   "title": "Organizational Metaphors",
+   "venue": "Oxford Research Encyclopedia of Communication",
+   "url": "https://doi.org/10.1093/9780197851395.003.1656",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "组织话语"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "authors": "Dadajonova et al.",
+   "title": "Conceptual Metaphors in Pedagogical Discourse",
+   "venue": "Science and Innovation",
+   "url": "https://doi.org/10.70413/si-v04-i06-s82283",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-22",
+   "authors": "Miller",
+   "title": "Globalization and Its Metaphors",
+   "venue": "Minnesota Journal of International Law",
+   "url": "https://doi.org/10.24926/19441992.535",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-02",
+   "authors": "Forceville et al.",
+   "title": "Multimodal Metaphor",
+   "venue": "The Encyclopedia of Applied Linguistics (Wiley, 2nd ed.)",
+   "url": "https://doi.org/10.1002/9781405198431.wbeal0829.pub2",
+   "cat": "multi",
+   "core": true,
+   "tags": [
+    "多模态"
+   ]
+  },
+  {
+   "date": "2026-06-17",
+   "authors": "Flusberg et al.",
+   "title": "Metaphor",
+   "venue": "Open Encyclopedia of Cognitive Science",
+   "url": "https://doi.org/10.21428/e2759450.28290566",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Miers",
+   "title": "Metaphor and Depiction",
+   "venue": "Visual Metaphor and Drawn Narratives (Palgrave)",
+   "url": "https://doi.org/10.1007/978-3-031-95800-7_4",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-17",
+   "authors": "Hossain",
+   "title": "Metaphor of contagion",
+   "venue": "COVID-19 Assemblages (Routledge)",
+   "url": "https://doi.org/10.4324/9781003262251-14",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "authors": "Cengiz et al.",
+   "title": "Metaphor, Not Manipulation",
+   "venue": "Advances in Computational Intelligence and Robotics (IGI Global)",
+   "url": "https://doi.org/10.4018/979-8-3373-8924-0.ch004",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-08",
+   "authors": "Steen",
+   "title": "Metaphor: Stylistic Approaches",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.27054-3",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "authors": "Middlemass",
+   "title": "War As Metaphor",
+   "venue": "The War on Poverty (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9798216506225.ch06",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "战争隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-27",
+   "authors": "Foolen",
+   "title": "Expressivity and Metaphor",
+   "venue": "The Oxford Handbook of Expressivity",
+   "url": "https://doi.org/10.1093/oxfordhb/9780198869450.013.0026",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-21",
+   "authors": "David et al.",
+   "title": "Criticism of Metaphor",
+   "venue": "Rhetorical Criticism (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9798216436287.ch-009",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-27",
+   "authors": "Banaruee et al.",
+   "title": "Metaphor and Conceptualization",
+   "venue": "Embodied Language across Cultures (Springer)",
+   "url": "https://doi.org/10.1007/978-3-032-13848-4_2",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-19",
+   "authors": "Rose",
+   "title": "Grammatical Metaphor",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01445-9",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-22",
+   "authors": "Rzayeva",
+   "title": "Grammar, Metaphor and Grammatical Metaphor",
+   "venue": "Filologiya məsələləri",
+   "url": "https://doi.org/10.62837/2026.4.90",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Brugman",
+   "title": "Metaphorical framing",
+   "venue": "Elgar Encyclopedia of Political Communication",
+   "url": "https://doi.org/10.4337/9781035301447.vol2.00125",
+   "cat": "theory",
+   "core": true,
+   "tags": [
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-03-06",
+   "authors": "Gibbs",
+   "title": "Our Metaphorical Bodies",
+   "venue": "Cambridge University Press (book, 2026)",
+   "url": "https://doi.org/10.1017/9781009563635",
+   "cat": "theory",
+   "core": true,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Rigney",
+   "title": "The Metaphorical Society",
+   "venue": "Bloomsbury (book)",
+   "url": "https://doi.org/10.5040/9798216410959",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Rigney",
+   "title": "Postscript: A Guide to Metaphorical Analysis",
+   "venue": "The Metaphorical Society (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9798216410959.0004",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Chigbu et al.",
+   "title": "Metaphorical framing of democracy",
+   "venue": "Journal of Language and Politics",
+   "url": "https://doi.org/10.1075/jlp.25104.chi",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-02-09",
+   "authors": "Sajarwa et al.",
+   "title": "Dehumanization in Javanese metaphorical insults",
+   "venue": "Kasetsart Journal of Social Sciences",
+   "url": "https://doi.org/10.34044/j.kjss.2025.46.4.36",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "去人化"
+   ]
+  },
+  {
+   "date": "2026-03-06",
+   "authors": "Drogosz",
+   "title": "Metaphorical projections in shooting instructions",
+   "venue": "Studia Anglica Resoviensia",
+   "url": "https://doi.org/10.15584/sar.2025.22.4",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-02",
+   "authors": "Yokota",
+   "title": "Metaphorical Creativity for Social Justice",
+   "venue": "Engaging in Critical Language Studies (Emerald)",
+   "url": "https://doi.org/10.1108/978-1-64802-988-220251008",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "authors": "Jiang et al.",
+   "title": "Metaphorical Implicitness: A Holistic Linguistic Approach",
+   "venue": "International Journal of Languages, Literature and Linguistics",
+   "url": "https://doi.org/10.18178/ijlll.2026.12.4.671",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "authors": "Carston",
+   "title": "Understanding Metaphorical Language: Pragmatics and Beyond",
+   "venue": "Beyond the frontiers: perspectives on pragmatic theory and practice",
+   "url": "https://doi.org/10.46793/beyondfront.001c",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-11",
+   "authors": "Alimova",
+   "title": "Metaphorical Framing of Crime and Punishment in English",
+   "venue": "Science Time",
+   "url": "https://doi.org/10.66345/st.6892",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-02-26",
+   "authors": "Dahal",
+   "title": "Metaphorical Conceptualization of 'Happy' in Nepali Embodied Idioms",
+   "venue": "Journal of Kapan Multiple Campus",
+   "url": "https://doi.org/10.3126/jkmc2.v4i1.91046",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "习语"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Pop",
+   "title": "Metaphorical Framing of Obesity in Online News Discourse",
+   "venue": "Studia Universitatis Babeș-Bolyai Philologia",
+   "url": "https://doi.org/10.24193/subbphilo.2025.4.14",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "authors": "سدخان",
+   "title": "Metaphorical Conceptualization of \"PLANT\" in Nassiriya Iraqi Arabic",
+   "venue": "Journal of the College of Education for Humanities, University of Thi-Qar",
+   "url": "https://doi.org/10.32792/jedh.v11i2.410",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-18",
+   "authors": "Yang et al.",
+   "title": "Metaphorical polysemy and cognitive mechanism of tactile terms",
+   "venue": "Review of Cognitive Linguistics",
+   "url": "https://doi.org/10.1075/rcl.00257.yan",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-03",
+   "authors": "Luthfiah et al.",
+   "title": "Metaphorical Expressions in Ariana Grande's Eternal Sunshine Album",
+   "venue": "Indonesian Journal of Multidisciplinary on Social and Technology",
+   "url": "https://doi.org/10.69693/ijmst.v4i2.10725",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "歌词"
+   ]
+  },
+  {
+   "date": "2026-04-11",
+   "authors": "Martynyuk et al.",
+   "title": "Twitter-based Multimodal Metaphorical Memes Portraying Donald Trump",
+   "venue": "Lege artis",
+   "url": "https://doi.org/10.34135/lartis.19.4.2.04",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "表情包",
+    "特朗普"
+   ]
+  },
+  {
+   "date": "2026-02-10",
+   "authors": "Vishnyakova",
+   "title": "The Metaphorical Model in Modern Russian Poetic Texts",
+   "venue": "Tula Scientific Bulletin",
+   "url": "https://doi.org/10.22405/2712-8407-2025-4-158-168",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌"
+   ]
+  },
+  {
+   "date": "2026-08-02",
+   "authors": "Melnik",
+   "title": "Metaphorical Representations in Marine Le Pen's Political Discourse",
+   "venue": "Филология: научные исследования",
+   "url": "https://doi.org/10.7256/2454-0749.2026.7.80767",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-04-30",
+   "authors": "Mao et al.",
+   "title": "The Evolution of Philosophy: A Metaphorical Cognition Perspective",
+   "venue": "Proceedings of LREC 2026",
+   "url": "https://doi.org/10.63317/3qdia7bp8cw3",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-28",
+   "authors": "Badakhshan et al.",
+   "title": "The Linguistic Game: Metaphorical Expressions of Euro 2020",
+   "venue": "Handbook of Persian Discourse Studies (Springer)",
+   "url": "https://doi.org/10.1007/978-981-95-0381-0_9",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-29",
+   "authors": "Karnedi",
+   "title": "Challenges to Metaphorical Coherence across Languages and Cultures",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.6793341",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Fatimah et al.",
+   "title": "Metaphorical Figurative Language in Literature: A Translation Perspective",
+   "venue": "DEIKTIS",
+   "url": "https://doi.org/10.53769/deiktis.v5i3.1866",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "翻译"
+   ]
+  },
+  {
+   "date": "2025-11-25",
+   "authors": "温",
+   "title": "Usage-Based Metaphorical Approach: Metaphorical Construction of Chinese Ecological Discourse View from the Perspective of Embodied Metaphor Theory",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2025.13111217",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "生态话语",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-07-14",
+   "authors": "Doronin",
+   "title": "Specifics of metaphorical conceptualization in esports discourse",
+   "venue": "Journal of Psycholinguistics",
+   "url": "https://doi.org/10.30982/2077-5911-2026-68-2-144-160",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-10",
+   "authors": "Saponaro et al.",
+   "title": "Unconscious semantic processing: Insights from metaphorical priming",
+   "venue": "Consciousness and Cognition",
+   "url": "https://doi.org/10.1016/j.concog.2026.104035",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "authors": "Shakarboyev",
+   "title": "Features of Metaphorical Euphemization in Modern English",
+   "venue": "Qo'qon DPI. Ilmiy xabarlar jurnali",
+   "url": "https://doi.org/10.70728/b.series.fil.v08.i08.015",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-20",
+   "authors": "Sun et al.",
+   "title": "Metaphorical nominations of tea varieties in Chinese",
+   "venue": "Philology. Theory and Practice",
+   "url": "https://doi.org/10.30853/phil20260018",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "authors": "Jo",
+   "title": "Metaphorical Architecture in Post-crisis Presidential Rhetoric",
+   "venue": "Sage Open",
+   "url": "https://doi.org/10.1177/21582440261497818",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2025-12-30",
+   "authors": "Yanina et al.",
+   "title": "Metaphorical transformations of space in English idioms",
+   "venue": "Philology. Theory and Practice",
+   "url": "https://doi.org/10.30853/phil20250741",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "习语"
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "authors": "Khatin-Zadeh et al.",
+   "title": "A dual-process account of metaphorical embodiment",
+   "venue": "Psychological Research",
+   "url": "https://doi.org/10.1007/s00426-026-02331-4",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Terskikh",
+   "title": "Metaphorical Modeling in Medical Public Service Advertising",
+   "venue": "Herald of the Russian Academy of Sciences",
+   "url": "https://doi.org/10.1134/s1019331625602300",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "广告"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "authors": "Shakhriyor",
+   "title": "Metaphorical Structure of Drug Argots in English",
+   "venue": "Qo'qon DPI. Ilmiy xabarlar jurnali",
+   "url": "https://doi.org/10.70728/b.series.fil.v08.i10.071",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-30",
+   "authors": "Tan",
+   "title": "VUPMC: A New Political Metaphor Corpus in Mandarin Chinese",
+   "venue": "Proceedings of LREC 2026",
+   "url": "https://doi.org/10.63317/5exd4mc9kh4d",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "语料库",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "authors": "Yu et al.",
+   "title": "A Study on Conceptual Metaphor Translation in Political Texts",
+   "venue": "Journal of Literature and Art Studies",
+   "url": "https://doi.org/10.17265/2159-5836/2026.09.004",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "翻译",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-13",
+   "authors": "Ouyang et al.",
+   "title": "Data Mining-Based Visualization of Emerging Trends in Political Metaphor Research",
+   "venue": "BDAI 2025 (IEEE)",
+   "url": "https://doi.org/10.1109/bdai66031.2025.11325558",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-07-15",
+   "authors": "Hashim et al.",
+   "title": "Thinking through Critical Metaphor: A Semiotic-Cognitive Study of Political Caricatures",
+   "venue": "Alustath Journal for Human and Social Sciences",
+   "url": "https://doi.org/10.36473/2518-9263.2464",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "政治漫画",
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-03-14",
+   "authors": "Asrianti et al.",
+   "title": "Cinematic Metaphors in Jokowi's International Political Speeches: A Conceptual Metaphor Theory Analysis",
+   "venue": "Borneo Educational Journal",
+   "url": "https://doi.org/10.24903/bej.v8i2.2321",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "演讲",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-05",
+   "authors": "Ahrens et al.",
+   "title": "Using a Corpus of English and Chinese Political Speeches for Metaphor Analysis",
+   "venue": "Proceedings of LREC 2026",
+   "url": "https://doi.org/10.63317/2a8cuutk5yc9",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "演讲",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-03-12",
+   "authors": "Mohd Don et al.",
+   "title": "Religious Metaphor in Malaysian Political Speeches After the 1997-1999 Financial Crisis",
+   "venue": "Pertanika Journal of Social Sciences and Humanities",
+   "url": "https://doi.org/10.47836/pjssh.34.1.16",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "演讲",
+    "宗教话语"
+   ]
+  },
+  {
+   "date": "2026-01-30",
+   "authors": "Cui et al.",
+   "title": "Gospel or governance? The political metaphor of Christian conversion in Nepal's Chepang community",
+   "venue": "Contemporary South Asia",
+   "url": "https://doi.org/10.1080/09584935.2026.2618773",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-06-20",
+   "authors": "Onyebuenyi et al.",
+   "title": "The Mother Metaphor in Owerri Bongo Music and the Digital Media",
+   "venue": "AL-QALAMA Journal of Languages and Literary Studies",
+   "url": "https://doi.org/10.36349/alqajolls.2026.v01i02.034",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2026-05-07",
+   "authors": "Zhou et al.",
+   "title": "Exploring the Use of Visual Metaphor in App Icons of Social Media",
+   "venue": "International Journal of Humanities and Social Science",
+   "url": "https://doi.org/10.30845/ijhss.v16p8",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "媒体话语",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-05-06",
+   "authors": "Malik et al.",
+   "title": "Doctoral Life in Metaphor: A Corpus-Assisted Analysis of Social Media Narratives",
+   "venue": "International Journal of Research and Innovation in Social Science",
+   "url": "https://doi.org/10.47772/ijriss.2026.1026edu0212",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "语料库",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "authors": "Obaid",
+   "title": "A Multimodal Metaphor Analysis of English Cancer Awareness Campaigns in Digital Media",
+   "venue": "Natural Resources for Human Health",
+   "url": "https://doi.org/10.53365/nrfhh.3002",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "政治话语",
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "authors": "Zhang",
+   "title": "Research on Chinese Social Media Metaphor Text Detection Model based on Multi-Feature Fusion",
+   "venue": "Journal of Intelligence and Knowledge Engineering",
+   "url": "https://doi.org/10.62517/jike.202604228",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "隐喻检测",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-03-26",
+   "authors": "Khanam et al.",
+   "title": "From Metaphor to Message: How Indian Literature and Media shape Climate Change Communication through Literature",
+   "venue": "JANOLI International Journal of Humanities and Linguistics",
+   "url": "https://doi.org/10.64758/gazavy05",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "气候话语"
+   ]
+  },
+  {
+   "date": "2026-08-16",
+   "authors": "—",
+   "title": "Conceptual Metaphors in Electoral Campaign Discourse",
+   "venue": "Qalaai Zanist Scientific Journal",
+   "url": "https://doi.org/10.25212/lfu.qzj.11.3.2",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-06",
+   "authors": "Shukurova",
+   "title": "Conceptual Metaphors in the Film Discourse",
+   "venue": "The Actual Problems of study of humanities",
+   "url": "https://doi.org/10.62021/0026-0028.2026.3.147",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "电影",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "authors": "Solnyshkina et al.",
+   "title": "Conceptual Metaphors Involving \"Treasure\" In English",
+   "venue": "International Journal Of Literature And Languages",
+   "url": "https://doi.org/10.37547/ijll/volume06issue03-40",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "authors": "Yazdonova",
+   "title": "Conceptual metaphors in English digital communication",
+   "venue": "Applied Sciences in the Modern World",
+   "url": "https://doi.org/10.70413/zdaf-v05-i17-s58275",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-12",
+   "authors": "Gelovani et al.",
+   "title": "Conceptual Metaphors of Soul in Philosophical Discourse",
+   "venue": "Online Journal of Humanities – ETAGTSU",
+   "url": "https://doi.org/10.55804/jtsu2346-8149.2025.09.03",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "authors": "Rezazadeh et al.",
+   "title": "Conceptual Metaphors of 'Faith' in the Quran",
+   "venue": "Ulumul Qur'an",
+   "url": "https://doi.org/10.58404/juq.v6i2.944",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "宗教话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-08",
+   "authors": "Aslonov",
+   "title": "Linguocultural characteristics and translation strategies of conceptual metaphors",
+   "venue": "Зарубежная лингвистика и лингводидактика",
+   "url": "https://doi.org/10.47689/2181-3701-vol3-iss6-pp200-204",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "翻译",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-17",
+   "authors": "Baltabaeva",
+   "title": "Conceptual Metaphors in English And Karakalpak Literary Language",
+   "venue": "American Journal of Philological Sciences",
+   "url": "https://doi.org/10.37547/ajps/volume06issue04-19",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "authors": "Luu",
+   "title": "Conceptual metaphors in Barack Obama's 2009 inaugural speech",
+   "venue": "Ho Chi Minh City Open University Journal of Science",
+   "url": "https://doi.org/10.46223/hcmcoujs.soci.en.16.8.4791.2026",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "演讲",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-19",
+   "authors": "Skripichnikova et al.",
+   "title": "Conceptual Metaphors Translation in Tartt's Novel \"The Goldfinch\"",
+   "venue": "Слово, высказывание, текст в когнитивном, прагматическом и культурологическом аспектах",
+   "url": "https://doi.org/10.47475/9785727121313_444",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "翻译",
+    "小说",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "authors": "Rahmah et al.",
+   "title": "Conceptual Metaphors in The Album Folklore By Taylor Swift",
+   "venue": "Jurnal Riset Rumpun Ilmu Bahasa",
+   "url": "https://doi.org/10.55606/jurribah.v4i2.5687",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "歌词",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-31",
+   "authors": "Wu et al.",
+   "title": "Educational Metaphors in Mencius: Conceptual Mappings and Translation Strategies",
+   "venue": "Journal of Artificial Intelligence and Information",
+   "url": "https://doi.org/10.66069/ojspub.1137260708",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "翻译"
+   ]
+  },
+  {
+   "date": "2026-04-11",
+   "authors": "Konnova et al.",
+   "title": "Conceptual Metaphors of Time in English: An Axiological Perspective",
+   "venue": "Lege artis",
+   "url": "https://doi.org/10.34135/lartis.19.4.2.03",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "时间隐喻",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "authors": "Ṋetshisaulu",
+   "title": "Reversible Metaphors in Tshivenḓa: A Conceptual Analysis of Domain Swapping",
+   "venue": "African And Global Issues Quarterly",
+   "url": "https://doi.org/10.69778/2710-0073/2026/7.2/a11",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-26",
+   "authors": "Muthalib et al.",
+   "title": "Metaphors of mourning in Acehnese culture: A conceptual mapping analysis",
+   "venue": "Indonesian Journal of Applied Linguistics",
+   "url": "https://doi.org/10.17509/qc6rrj15",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "authors": "Nurlaily et al.",
+   "title": "Conceptual Metaphors in Kelly Andrew's Your Blood, My Bones (2024)",
+   "venue": "Journal of Translation, Linguistics and Literature",
+   "url": "https://doi.org/10.26714/translite.v3i1.799",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-10",
+   "authors": "Bolarinwa et al.",
+   "title": "Conceptual Metaphors in Selected Nigerian Newspapers Discourses on Paternity Fraud",
+   "venue": "Journal of Arts, Humanities and Social Science",
+   "url": "https://doi.org/10.69739/jahss.v3i1.1436",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-26",
+   "authors": "Abdullaev",
+   "title": "Four-Level Methodological Model for Analyzing Conceptual Metaphors in Sociolects",
+   "venue": "Foreign Languages in Uzbekistan",
+   "url": "https://doi.org/10.36078/1767726138",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "authors": "Dahal",
+   "title": "'Anger' In English and Nepali Conceptual Metaphors: A Cognitive Perspective",
+   "venue": "Nepalese Linguistics",
+   "url": "https://doi.org/10.3126/nl.v40i1.101951",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "情感",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-13",
+   "authors": "Moraru et al.",
+   "title": "American Identity Conceptual Metaphors in the Discourse of President Trump",
+   "venue": "Interstudia",
+   "url": "https://doi.org/10.29081/interstudia.2025.39.05",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "特朗普",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-03",
+   "authors": "Choi",
+   "title": "Conceptual Metaphors in the Korean Sign Language Poem Hope Flower",
+   "venue": "Language and Linguistics",
+   "url": "https://doi.org/10.20865/202511002",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "诗歌",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Hao",
+   "title": "A Study on Conceptual Metaphors in Chinese Ecological Civilization Discourse",
+   "venue": "Yixin Publisher",
+   "url": "https://doi.org/10.59825/jlls.2025.2.4.21",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "生态话语",
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-23",
+   "authors": "Hou et al.",
+   "title": "Conceptual Metaphors in Chinese Diplomatic Discourse and Their Korean Translation",
+   "venue": "Translation and Foreign Language Learning",
+   "url": "https://doi.org/10.26855/tfll.2025.10.005",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "翻译",
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "authors": "Dung",
+   "title": "Conceptual Metaphors of Knowledge in The Names by Don DeLillo",
+   "venue": "Theory and Practice in Language Studies",
+   "url": "https://doi.org/10.17507/tpls.1610.28",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "authors": "Laga",
+   "title": "Introduction: Conceptual Metaphors, Interpretation, and the Point of It All",
+   "venue": "Making Sense of Literary and Cultural Texts (Routledge)",
+   "url": "https://doi.org/10.4324/9781003612209-1",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "authors": "Abueva",
+   "title": "Conceptual Metaphors in Donald Trump's 2024 Campaign Rhetoric: Linguocultural Perspective",
+   "venue": "Bulletin of Chechen State Pedagogical University",
+   "url": "https://doi.org/10.54351/25876074-2026-3-55-9",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "特朗普",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "authors": "Leotta",
+   "title": "Conceptual Metaphors for Jealousy in Latin: A Corpus-Based Dataset",
+   "venue": "Journal of Open Humanities Data",
+   "url": "https://doi.org/10.5334/johd.573",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "语料库",
+    "数据集",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-19",
+   "authors": "—",
+   "title": "The Identification of Conceptual Metaphors in EFL Students' Spoken English",
+   "venue": "Aran Journal for Language and Humanities",
+   "url": "https://doi.org/10.24271/arn.2026.8451.1254",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "authors": "Reranta et al.",
+   "title": "Mapping the Abstract: How Conceptual Metaphors Architect Lampungese Social Realities",
+   "venue": "TEKNOSASTIK",
+   "url": "https://doi.org/10.33365/teknosastik.v24i2.2386",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-07",
+   "authors": "Pramono et al.",
+   "title": "Conceptual Metaphors of Alienation and Disappointment in Radiohead's \"Let Down\"",
+   "venue": "International Journal of Science and Environment",
+   "url": "https://doi.org/10.51601/ijse.v6i1.447",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-24",
+   "authors": "衷",
+   "title": "The Psychological Reality and Mapping Directionality of Abstract Conceptual Space Metaphors",
+   "venue": "Advances in Social Sciences（社会科学前沿）",
+   "url": "https://doi.org/10.12677/ass.2026.152173",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-05",
+   "authors": "Xuan Thuong",
+   "title": "Conceptual Metaphors of Life, Death, and Time in Wisława Szymborska's Poetry",
+   "venue": "Vinh University Journal of Science",
+   "url": "https://doi.org/10.56824/vujs.2025b119b",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌",
+    "时间隐喻",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-10",
+   "authors": "Wang",
+   "title": "Analysis of Conceptual Metaphors in the Movie Darkest Hour",
+   "venue": "Journal of Humanities, Arts and Social Science",
+   "url": "https://doi.org/10.26855/jhass.2025.08.024",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "电影",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "authors": "Rahimi et al.",
+   "title": "An Analysis of Conceptual Metaphors in Selected Folk Poetry of Nangarhar",
+   "venue": "Nangarhar University Journal of Arts and Humanities",
+   "url": "https://doi.org/10.70436/nujah.v2i01.28",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-30",
+   "authors": "Kusnadi",
+   "title": "Conceptual Metaphors in Perfume Product Reviews on the TikTok Online Platform",
+   "venue": "Allure Journal",
+   "url": "https://doi.org/10.26877/allure.v6i1.26144",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "书评",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-05",
+   "authors": "Shaikh et al.",
+   "title": "A Multi-Cultural Repository of Automatically Discovered Linguistic and Conceptual Metaphors",
+   "venue": "Proceedings of LREC 2026",
+   "url": "https://doi.org/10.63317/4s8x5cqcnyq7",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "authors": "Fadhillah et al.",
+   "title": "Analysis of Conceptual Metaphors in Issue 209 of 11 Freunde Magazine",
+   "venue": "Jurnal Pembelajaran Bahasa dan Sastra",
+   "url": "https://doi.org/10.55909/jpbs.v5i6.1743",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-20",
+   "authors": "Huszka et al.",
+   "title": "Temporal Metaphors as a Linguistic Phenomenon: Conceptual Frameworks across Different Languages",
+   "venue": "LingPoet",
+   "url": "https://doi.org/10.32734/lingpoet.v6i1.19866",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "时间隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-15",
+   "authors": "Mollema et al.",
+   "title": "Artificial Intelligence, Conceptual Metaphors, and Conceptual Engineering: Are AI-Based Framings of Human Behavior and Cognition Successful?",
+   "venue": "Journal of Artificial Intelligence and Consciousness",
+   "url": "https://doi.org/10.1142/s2705078526500037",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "框架",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Masa'udu",
+   "title": "What is in a Name? Elucidating Conceptual Metaphors in Nigerian Newspaper Titles",
+   "venue": "Sokoto Journal of Linguistics and Communication Studies",
+   "url": "https://doi.org/10.36349/sojolics.2025.v01i03.028",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "authors": "Sobirova et al.",
+   "title": "Framing Reality: How Conceptual Metaphors Shape Public Perception in Digital News Media",
+   "venue": "Qo'qon DPI. Ilmiy xabarlar jurnali",
+   "url": "https://doi.org/10.70728/b.series.v08.i04.061",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "媒体话语",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-06-10",
+   "authors": "陳",
+   "title": "A Comparative Analysis of Conceptual Metaphors of \"Sadness\" in English and Chinese",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2026.146538",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "汉语/中国",
+    "情感",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-10",
+   "authors": "Kustura et al.",
+   "title": "Conceptual metaphors in contemporary dance discourse",
+   "venue": "Fluminensia",
+   "url": "https://doi.org/10.31820/f.38.1.9",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-24",
+   "authors": "陈",
+   "title": "Analysis of Advertisement Metaphors in Cosmetic Industry Based on Conceptual Blending Theory",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2026.142185",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "广告",
+    "概念整合"
+   ]
+  },
+  {
+   "date": "2026-01-12",
+   "authors": "Guo",
+   "title": "Conceptual Metaphors in Traditional Chinese Legal Terminology: Cognitive Foundations and Cultural Significations",
+   "venue": "International Journal for the Semiotics of Law",
+   "url": "https://doi.org/10.1007/s11196-025-10416-3",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "法律话语",
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "authors": "Rabab'ah et al.",
+   "title": "Conceptual metaphors of 'death' in Paul Kalanithi's memoir 'When Breath Becomes Air'",
+   "venue": "Language and Health",
+   "url": "https://doi.org/10.1016/j.laheal.2026.100098",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-03",
+   "authors": "Hong",
+   "title": "Comparative Analysis of Conceptual Metaphors in Vietnamese and American English Political Discourses",
+   "venue": "International Journal of Language and Linguistics",
+   "url": "https://doi.org/10.11648/j.ijll.20261403.16",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-11",
+   "authors": "Pan",
+   "title": "A Cognitive Linguistics Analysis of Conceptual Metaphors in Li Bai's Landscape Poetry",
+   "venue": "Theory and Practice in Language Studies",
+   "url": "https://doi.org/10.17507/tpls.1609.05",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "authors": "Yuniarto",
+   "title": "A comparative study of conceptual metaphors in Indonesian and Chinese economic headlines",
+   "venue": "Bahasa dan Seni",
+   "url": "https://doi.org/10.17977/2550-0635.1302",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "汉语/中国",
+    "经济话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-12",
+   "authors": "Nguyen",
+   "title": "Conceptual Metaphors in Obama's and Trump's Inaugural Speeches: Some Similarities and Differences",
+   "venue": "Advances in Social Sciences and Management",
+   "url": "https://doi.org/10.63002/assm.403.1535",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "演讲",
+    "特朗普",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "authors": "Petrova",
+   "title": "Conceptual Metaphors in Italian Mass Media Discourse: A Cognitive and Pragmatic Aspect",
+   "venue": "Problems of Semantics, Pragmatics and Cognitive Linguistics",
+   "url": "https://doi.org/10.17721/2663-6530.2026.50.132-139",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-07",
+   "authors": "Sawarni",
+   "title": "Conceptual Metaphors of Menstruation in Assamese, Mising and Bodo: A Cognitive Perspective",
+   "venue": "GUINEIS Journal",
+   "url": "https://doi.org/10.66946/guineis.v11.a22",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-21",
+   "authors": "Ofosu et al.",
+   "title": "The Role of Conceptual Metaphors in Public Perception of Ghanaian Court Judgments",
+   "venue": "International Journal for the Semiotics of Law",
+   "url": "https://doi.org/10.1007/s11196-025-10384-8",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "法律话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-04",
+   "authors": "Collela",
+   "title": "Conceptual metaphors of vulnerability: a case study from the Ovidian epistolary works",
+   "venue": "De Lingua Latina",
+   "url": "https://doi.org/10.62806/kjoi4060",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "authors": "Murasing",
+   "title": "Conceptual Metaphors of Nature, Violence, and Identity in Temsula Ao's \"My Hills\"",
+   "venue": "The Creative Launcher",
+   "url": "https://doi.org/10.53032/tcl.2026.11.4.10",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-03",
+   "authors": "Ofosu et al.",
+   "title": "Language, Law, and Culture: Exploring Conceptual Metaphors in Ghanaian Supreme Court Judgements",
+   "venue": "E-Journal of Humanities, Arts and Social Sciences",
+   "url": "https://doi.org/10.38159/ehass.202561513",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "法律话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-01",
+   "authors": "Soloshenko",
+   "title": "Emotions in legal fiction: conceptual metaphors and cross-domain mapping with ATLAS.ti",
+   "venue": "学位论文",
+   "url": "https://doi.org/10.70675/d573a03czf011z4005z9c8az864a5dc8c34f",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "法律话语",
+    "情感",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "authors": "Rahmawati et al.",
+   "title": "Conceptual metaphors of Merarik marriage in Sasak society: A cognitive linguistic study",
+   "venue": "EnJourMe",
+   "url": "https://doi.org/10.26905/enjourme.v11i1.17200",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "authors": "Wojtasik-Dziekan",
+   "title": "From Perception to Abstraction: Conceptual Metaphors in Polish and Korean Sensory Proverbs",
+   "venue": "Świat i Słowo",
+   "url": "https://doi.org/10.53052/17313317.2026.03",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "谚语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "authors": "Sánchez Llanes",
+   "title": "Past metaphors: historical narration, discursive contextualism and conceptual history",
+   "venue": "Revista Historia Autónoma",
+   "url": "https://doi.org/10.15366/rha2026.29.005",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-01",
+   "authors": "Sengupta et al.",
+   "title": "Investigating the Impact of Conceptual Metaphors on LLM-based NLI through Shapley Interactions",
+   "venue": "Contextualizing Explanations (workshop)",
+   "url": "https://doi.org/10.64136/winq8258",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "大模型",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-13",
+   "authors": "Chen et al.",
+   "title": "Exploring cross-cultural conceptual metaphors in Chinese and English table tennis news discourse",
+   "venue": "Sport in Society",
+   "url": "https://doi.org/10.1080/17430437.2025.2599350",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-28",
+   "authors": "Quynh et al.",
+   "title": "An investigation into conceptual metaphors denoting pressure in the US Federal Reserve's discourse",
+   "venue": "The University of Danang - Journal of Science and Technology",
+   "url": "https://doi.org/10.31130/ud-jst.2026.24(5b).264",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "authors": "Jibrin et al.",
+   "title": "Conceptual Metaphors in Football Writings: A Study of Daily Trust Newspaper's Sport Sections",
+   "venue": "International Journal of Research and Innovation in Social Science",
+   "url": "https://doi.org/10.47772/ijriss.2026.1026edu0533",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "体育",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-28",
+   "authors": "Maghfirah et al.",
+   "title": "Metaphors Related to Climate Issues in @greenpeaceid's Instagram: A Conceptual Metaphor Theory Approach",
+   "venue": "Jurnal Onoma",
+   "url": "https://doi.org/10.30605/encjf558",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "气候话语",
+    "社交媒体",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "authors": "Sampedro",
+   "title": "Colour-Related Conceptual Metaphors in The Context of The Film La La Land",
+   "venue": "Online Journal of Humanities – ETAGTSU",
+   "url": "https://doi.org/10.55804/etagtsu.2346-8149.2026.03",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "电影",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-28",
+   "authors": "Azizbeigi",
+   "title": "How Women Are Represented Through Conceptual Metaphors in Iranian Cinema: A Diachronic Study",
+   "venue": "Handbook of Persian Discourse Studies (Springer)",
+   "url": "https://doi.org/10.1007/978-981-95-0381-0_11",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-05-06",
+   "authors": "Abdullaev",
+   "title": "Conceptual Metaphors of Peninsular and Latin American Spanish: Regional Variation and Cultural Determinants",
+   "venue": "Universum: Philology and art history",
+   "url": "https://doi.org/10.32743/uniphil.2026.142.4.22409",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-15",
+   "authors": "Rustamova",
+   "title": "Cognitive Metaphors As A Reflection Of The Conceptual Worldview In The English Language",
+   "venue": "Filologiya məsələləri",
+   "url": "https://doi.org/10.62837/2026.6.87",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-26",
+   "authors": "Kim",
+   "title": "A Diachronic Study on the Conceptual Metaphors of 'Red' in Romance Novel Titles",
+   "venue": "The Society Of Korean Language and Literature",
+   "url": "https://doi.org/10.15711/wr.86.0.11",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "小说",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-23",
+   "authors": "伍",
+   "title": "A Comparative Study of the Conceptual Metaphors of \"Head\" in English and Chinese",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2026.147685",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "authors": "Yan",
+   "title": "Distributional Features and Discourse Functions of Conceptual Metaphors in Chinese Foreign Ministry Discourse",
+   "venue": "Journal of Linguistics & Cultural Studies",
+   "url": "https://doi.org/10.70088/a2rye355",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "汉语/中国",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "authors": "Buri et al.",
+   "title": "Conceptual Metaphors In Ritual Communication: The Case Of The Dayak Iban Wedding Mantra",
+   "venue": "INJECT",
+   "url": "https://doi.org/10.18326/inject.v11i2.6945",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-21",
+   "authors": "Shcherbak",
+   "title": "Constructing Emotional Experience through Conceptual Metaphors in Instagram Discourse: A Cognitive Linguistic Analysis",
+   "venue": "Conference Proceedings",
+   "url": "https://doi.org/10.64076/iedc260609.08",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "情感",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-09",
+   "authors": "Allende Zabala et al.",
+   "title": "Management and flare-ups: How conceptual metaphors shape fibromyalgia narratives in digital communities",
+   "venue": "学位论文",
+   "url": "https://doi.org/10.7764/tesisuc/let/107966",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "authors": "Mallikarjuna et al.",
+   "title": "Metaphor as Cultural Mirror: A Cross-Cultural Study of Conceptual Metaphors in English",
+   "venue": "Scriptora International Journal of Research and Innovation",
+   "url": "https://doi.org/10.65579/sijri.2026.v2i7.03",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "authors": "Zibin et al.",
+   "title": "Conceptual Metaphors and Cultural Values in Korean Proverbs: A Main Meaning Focus Approach",
+   "venue": "Open Cultural Studies",
+   "url": "https://doi.org/10.1515/culture-2025-0111",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "谚语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-10",
+   "authors": "Lu et al.",
+   "title": "An LLM-Assisted Study on Translating Conceptual Metaphors in China's Women's Development Discourse",
+   "venue": "Advances in Social Science, Education and Humanities Research",
+   "url": "https://doi.org/10.2991/978-2-38476-597-3_35",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "翻译",
+    "大模型",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2025-12-02",
+   "authors": "Rigi et al.",
+   "title": "Analyzing Conceptual Metaphors in Layla and Majnun in the Domains of \"Actions\" and \"Objects\" Based on the Conceptual Blending Theory",
+   "venue": "Treasury of Persian Language and Literature",
+   "url": "https://doi.org/10.61838/jtpll.100",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念整合",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "—",
+   "title": "Metaphor and metonymy",
+   "venue": "Corpus Linguistics and the Description of English (Edinburgh UP)",
+   "url": "https://doi.org/10.1515/9781399537391-010",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-11-09",
+   "authors": "Héois",
+   "title": "Review: Andrew Goatly, Metaphor, Metonymy and Lexicogenesis",
+   "venue": "Lidil",
+   "url": "https://doi.org/10.4000/1732n",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "转喻",
+    "书评"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Ghosh et al.",
+   "title": "MetFuse: Figurative Fusion between Metonymy and Metaphor",
+   "venue": "ACL 2026 (Long Papers)",
+   "url": "https://doi.org/10.18653/v1/2026.acl-long.700",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-02-27",
+   "authors": "Maudslay et al.",
+   "title": "ChainNet: Structured Metaphor and Metonymy in WordNet",
+   "venue": "Proceedings of LREC 2026",
+   "url": "https://doi.org/10.63317/33vygha4d6vq",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-03-02",
+   "authors": "王",
+   "title": "The Application of Metaphor and Metonymy in Advertising Language",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2026.143188",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "广告",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-02-22",
+   "authors": "Muzaffarovich",
+   "title": "Metaphor And Metonymy As Basic Models Of Semantic Transfer",
+   "venue": "European International Journal of Philological Sciences",
+   "url": "https://doi.org/10.55640/eijps-06-02-08",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-03-23",
+   "authors": "Ghosh et al.",
+   "title": "A Computational Approach to Visual Metonymy",
+   "venue": "EACL 2026 (Long Papers)",
+   "url": "https://doi.org/10.18653/v1/2026.eacl-long.92",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "authors": "Górska",
+   "title": "Dynamic activation of metaphor and metonymy in static verbo-visuals",
+   "venue": "Cognitive Semiotics",
+   "url": "https://doi.org/10.1515/cogsem-2026-3006",
+   "cat": "multi",
+   "core": true,
+   "tags": [
+    "视觉隐喻",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-09-28",
+   "authors": "Chen et al.",
+   "title": "Visual–semantic coherence of Chinese colour metaphor lexemes: What interpretable visual features reveal about multimodal meaning stability",
+   "venue": "Research Square preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-9189358/v1",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "视觉隐喻",
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-09-16",
+   "authors": "阮",
+   "title": "Metaphor and Metonymy in the Semantic Extension of \"Human-Shaped\" Component Characters",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2026.149942",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-04-15",
+   "authors": "Kadirova",
+   "title": "The Importance and Relevance of Studying Metaphor and Metonymy in Modern English",
+   "venue": "American Journal Of Social Sciences And Humanity Research",
+   "url": "https://doi.org/10.37547/ajsshr/volume06issue04-06",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "authors": "Kowalewski",
+   "title": "Metonymy and Metaphor in the Imagery of Greenery in a Socialist City",
+   "venue": "Plants and Post-Socialist Cities (Routledge)",
+   "url": "https://doi.org/10.4324/9781003776024-2",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "authors": "Meleschenko",
+   "title": "Cognitive Aspect of Translation of Metaphor and Metonymy in French Computer Texts",
+   "venue": "Transcarpathian Philological Studies",
+   "url": "https://doi.org/10.32782/tps2663-4880/2026.47.23",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "翻译",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "authors": "Zhao et al.",
+   "title": "Seeing the Abstract: A Benchmark for Visual-Only Metaphor Understanding in Multimodal Large Language Models",
+   "venue": "CVPR 2026 Findings",
+   "url": "https://doi.org/10.1109/cvprf71909.2026.00225",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "视觉隐喻",
+    "大模型"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Miers",
+   "title": "Visual Metaphor and Drawn Narratives",
+   "venue": "Palgrave (book, 2026)",
+   "url": "https://doi.org/10.1007/978-3-031-95800-7",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-04-09",
+   "authors": "Salmanova",
+   "title": "The role of metaphor and metonymy in the process of metaphorization in English",
+   "venue": "Terminology Issues",
+   "url": "https://doi.org/10.59849/2663-8967.2026.1.180",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-02-08",
+   "authors": "Telalagić",
+   "title": "The Power of Metaphor and Metonymy in the Rhetoric of Kolinda Grabar-Kitarović",
+   "venue": "Društvene i humanističke studije",
+   "url": "https://doi.org/10.51558/2490-3647.2025.10.2.273",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-06-08",
+   "authors": "Nerlich",
+   "title": "Metonymy",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.40024-4",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2025-12-12",
+   "authors": "Barque",
+   "title": "Is metonymy really more regular than metaphor? A first investigation into the French Lexicon",
+   "venue": "Neophilologica",
+   "url": "https://doi.org/10.31261/neo.2025.37.03",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "authors": "Ovejas-Ramírez et al.",
+   "title": "Refining the Experientialist Thesis: How Correlation Motivates Metonymy and High-Level Resemblance Enables Metaphor",
+   "venue": "Cognitive Semantics",
+   "url": "https://doi.org/10.1163/23526416-bja10103",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-06-10",
+   "authors": "Salmanova",
+   "title": "Conceptual Metaphor and Metonymy in Cognitive Linguistics: Theoretical Foundations, Interactions, and Cross-Domain Mappings",
+   "venue": "Acta Globalis Humanitatis et Linguarum",
+   "url": "https://doi.org/10.69760/aghel.026002013",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "转喻",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-29",
+   "authors": "Umarxanova",
+   "title": "The Importance of Metonymy and Metaphor in Cognitive Linguistics",
+   "venue": "Yangi Davr Ilm-Fani",
+   "url": "https://doi.org/10.47390/ydif-y2026v2i16/n13",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "authors": "Ottaviano et al.",
+   "title": "How Scripts Are Built on Visual Metaphor",
+   "venue": "Current Anthropology",
+   "url": "https://doi.org/10.1086/742105",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-03-13",
+   "authors": "Duan",
+   "title": "An Analysis of Visual Metaphor in Painting",
+   "venue": "Journal of International Education and Development",
+   "url": "https://doi.org/10.47297/wspiedwsp2516-250001.20250912",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-04",
+   "authors": "Khodorenko",
+   "title": "Visual Metaphor in Paratranslation of Literary Image",
+   "venue": "Alfred Nobel University Journal of Philology",
+   "url": "https://doi.org/10.32342/3041-217x-2025-2-30-22",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-24",
+   "authors": "Hakimova et al.",
+   "title": "The role of national worldview in the formation of metaphor and metonymy in the Uzbek language",
+   "venue": "Uzbekistan: language and culture",
+   "url": "https://doi.org/10.52773/tsuull.uzlc.2025.4/dsyh9832",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "authors": "Zhou et al.",
+   "title": "Visual Metonymy in App Icons of Social Media: A Cross-Cultural Analysis",
+   "venue": "Communication, Society and Media",
+   "url": "https://doi.org/10.22158/csm.v9n1p174",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "媒体话语",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-01-29",
+   "authors": "Bak et al.",
+   "title": "A Discourse-Semantic Study of the Korean Color Term 'Noran (Yellow)': Metaphor and Metonymy in Use",
+   "venue": "Korean Semantics",
+   "url": "https://doi.org/10.19033/sks.2025.12.90.167",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "authors": "Rajchinovska Pavleska",
+   "title": "Metaphor as a Semiotic Key in Visual Poetics",
+   "venue": "Context / Контекст",
+   "url": "https://doi.org/10.55302/context263319rp",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "诗歌"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "authors": "Sedar",
+   "title": "Using Metaphor to Communicate Meaning through a Visual",
+   "venue": "Reading Between the Lines (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9798216525103.ch-24",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-09",
+   "authors": "Çora et al.",
+   "title": "Beyond Anomaly and Familiarity: Hybrid Visual Metaphor Processing",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7072650",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-30",
+   "authors": "Sun",
+   "title": "An Analysis of The Mandarin-Speaking Children with High-Functioning Autism's Competence Deficit in Metaphor and Metonymy",
+   "venue": "Academic Journal of Science and Technology",
+   "url": "https://doi.org/10.54097/n2t3ks80",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2025-12-01",
+   "authors": "Xie et al.",
+   "title": "Metonymy beyond reference: how nominal metonymy vehicles carry speaker's attitude",
+   "venue": "Cambridge Open Engage preprint",
+   "url": "https://doi.org/10.33774/coe-2025-lx2f1",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-02-11",
+   "authors": "Brookes",
+   "title": "The Indexical in Visual Metaphor: A Critique of Elisabeth El Refaie's System for Analysing Metaphor",
+   "venue": "Reading Comics Through The Body (Palgrave)",
+   "url": "https://doi.org/10.1007/978-3-032-06874-3_6",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-08",
+   "authors": "Rajchinovska Pavleska",
+   "title": "The structural codes of metaphor in the visual arts",
+   "venue": "Art Time",
+   "url": "https://doi.org/10.62425/at.1918439",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-11",
+   "authors": "Meng et al.",
+   "title": "MetaCRN: Language-Augmented Multimodal Metaphor Detection Using Cross-Modal Dynamic Replacement",
+   "venue": "Neural Information Processing (LNCS)",
+   "url": "https://doi.org/10.1007/978-981-95-4445-5_11",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "隐喻检测"
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "authors": "Zayniev",
+   "title": "Lexical polysemy of the basic colour terms in English, Russian, Tajik, and Uzbek: The role of metonymy and metaphor",
+   "venue": "ELTE",
+   "url": "https://doi.org/10.15476/elte.2025.046",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-06-10",
+   "authors": "邓",
+   "title": "Cognitive Analysis of the Conceptual Metaphor and Metonymy of baʃ in Uyghur Fixed Phrases Based on the Resource Library",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2026.146536",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "authors": "Arapkirli",
+   "title": "Art Object as Visual Metaphor",
+   "venue": "idil Sanat ve Dil Dergisi",
+   "url": "https://doi.org/10.7816/idil-14-120-11",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "authors": "Xu et al.",
+   "title": "Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning",
+   "venue": "SIGGRAPH Asia 2026",
+   "url": "https://doi.org/10.1145/3829340.3842174",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Wu",
+   "title": "Translation and Metaphor Research of Mulao Ancient Songs from the Multimodal Perspective",
+   "venue": "Journal of International Education and Development",
+   "url": "https://doi.org/10.47297/wspiedwsp2516-250059.20250910",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "翻译",
+    "歌词"
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "authors": "Dagnev",
+   "title": "Negotiating the Literal–Figurative Interface in ESP/EAP: Conceptual Metaphor and Metonymy as Cognitive and Pedagogical Resources in Scientific Writing",
+   "venue": "Current Research in English Language Studies (IntechOpen)",
+   "url": "https://doi.org/10.5772/intechopen.1016098",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻",
+    "科学话语",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "authors": "Li",
+   "title": "Metonymy in Li Bai's Poetry",
+   "venue": "Bloomsbury (book)",
+   "url": "https://doi.org/10.5040/9781350557994",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻",
+    "诗歌"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "authors": "Barcelona Sánchez",
+   "title": "Metonymy-motivated morphosyntactic alternations",
+   "venue": "Morphosyntactic Alternations in English (Equinox)",
+   "url": "https://doi.org/10.3138/9781781790854-015",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-01-24",
+   "authors": "Dale",
+   "title": "A cognitive exploration of the visual metonymy of hands in Krzysztof Kieślowski's \"Three Colours: White\"",
+   "venue": "Słowo. Studia językoznawcze",
+   "url": "https://doi.org/10.15584/slowo.2025.16.25",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "转喻"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "authors": "Tasal et al.",
+   "title": "Conceptual Metaphor in Pashto: A Cognitive Linguistic Analysis",
+   "venue": "Balkh International Journal of Social Science",
+   "url": "https://doi.org/10.68837/bjss.v1i2.60",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-21",
+   "authors": "Chaer et al.",
+   "title": "Metaphorical Symbols in Qur'anic Discourse: A Cognitive-Linguistic Analysis",
+   "venue": "Suhuf",
+   "url": "https://doi.org/10.23917/suhuf.v37i2.12081",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "宗教话语"
+   ]
+  },
+  {
+   "date": "2026-01-21",
+   "authors": "Demir et al.",
+   "title": "Embodied metaphors in Friedrich Schiller's \"Die Bürgschaft\": a cognitive-linguistic analysis",
+   "venue": "Frontiers in Language Sciences",
+   "url": "https://doi.org/10.3389/flang.2025.1712313",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-11",
+   "authors": "كمال الدين",
+   "title": "A Cognitive Linguistic Analysis of Gossip Discourse in Brit Bennett's \"The Mothers\"",
+   "venue": "Journal of the Faculty of Arts, Mansoura University",
+   "url": "https://doi.org/10.21608/artman.2025.410029.3201",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "authors": "Deng",
+   "title": "Metaphorical Patterns in Chinese Teachers' Online Complaint Discourse: A Cognitive Linguistic Analysis",
+   "venue": "Journal of Education and Learning",
+   "url": "https://doi.org/10.5539/jel.v16n1p65",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "汉语/中国"
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "authors": "Arnawa et al.",
+   "title": "Indonesian Humor Discourse: A Cognitive Linguistic Perspective",
+   "venue": "Social Science and Humanities Journal",
+   "url": "https://doi.org/10.18535/sshj.v10i07.2357",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2025-11-20",
+   "authors": "Obasi et al.",
+   "title": "Cognitive Linguistic Analysis of Metaphorical Expressions Used in Kamala Harris's 2024 Concession Speech",
+   "venue": "Howard Journal of Communications",
+   "url": "https://doi.org/10.1080/10646175.2025.2587083",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "演讲"
+   ]
+  },
+  {
+   "date": "2026-02-09",
+   "authors": "Daneshzadeh",
+   "title": "Linguistic Misrepresentation in Pandemic Terminology: A Cognitive–Linguistic Critique of 'Small Gatherings Cancellation'",
+   "venue": "Preprints.org",
+   "url": "https://doi.org/10.20944/preprints202103.0698.v3",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "疫情"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "authors": "Ghaffar et al.",
+   "title": "Conceptual Metaphors in Emotional Language: A Cognitive Linguistic Analysis of Urdu Speakers in Lahore",
+   "venue": "Journal of Arts and Linguistics Studies",
+   "url": "https://doi.org/10.71281/jals.v4i7.691",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "情感",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-29",
+   "authors": "Halverson",
+   "title": "Cognitive-Linguistic Theories in Translation and Interpreting Studies",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01322-3",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "翻译"
+   ]
+  },
+  {
+   "date": "2026-05-07",
+   "authors": "Asqarova",
+   "title": "Body-Based Conceptual Metaphors in Dramatic Discourse: A Cross-Linguistic Cognitive Analysis",
+   "venue": "Actual Problems of Humanities and Social Sciences",
+   "url": "https://doi.org/10.47390/spr1342v6si4y2026n33",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-16",
+   "authors": "Khan et al.",
+   "title": "Conceptual Metaphors and Cultural Cognition in Farzana Aqib's Who Are You: A Cognitive-Linguistic Analysis",
+   "venue": "Journal of Arts and Linguistics Studies",
+   "url": "https://doi.org/10.71281/jals.v3i4.513",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "authors": "Jovic et al.",
+   "title": "Evaluating Conceptual Framing in AI-Generated Educational Writing: A Cognitive-Linguistic Analysis of Student Revision",
+   "venue": "Research Square preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-10249462/v1",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-09-06",
+   "authors": "Al-Bahrani",
+   "title": "A Frame-Semantic Analysis of Textual Memes Generated from Woltze's The Letter: A Cognitive Linguistic Perspective",
+   "venue": "International Journal of Arabic-English Studies",
+   "url": "https://doi.org/10.33806/ijaes1284",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "表情包"
+   ]
+  },
+  {
+   "date": "2026-06-30",
+   "authors": "Alshawi",
+   "title": "From CONTAINER to PATH: A Cognitive-Linguistic Analysis of Image-Schematic Transformations Across the Fable Genre",
+   "venue": "Anbar University Journal of Languages and Literature",
+   "url": "https://doi.org/10.37654/aujll738",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "意象图式"
+   ]
+  },
+  {
+   "date": "2026-04-28",
+   "authors": "Adıgüzel et al.",
+   "title": "Cross-linguistic analysis of 'point of no return' idioms: a cognitive framework for evaluating pragmatic intersubstitutability",
+   "venue": "Intercultural Pragmatics",
+   "url": "https://doi.org/10.1515/ip-2026-0010",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "习语"
    ]
   }
  ]

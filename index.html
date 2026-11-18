@@ -55,12 +55,12 @@
   <div id="list"></div>
 
   <div class="foot">
-    每天早上由定时任务自动检索 Crossref（John Benjamins、Taylor &amp; Francis、SAGE、De Gruyter、Elsevier、Cambridge、Bloomsbury、Springer、ACL Anthology 等），筛选后更新本页。这个方向文献少，收录标准偏宽：批评认知语言学本身之外，批评隐喻分析、多模态隐喻、框架实验、计算隐喻和相邻的 CDA 研究也收。日期为 DOI 注册日期。★ = 批评认知语言学核心（识解、近化、认知语法/力动态视角的意识形态分析，或高质量期刊里的批评隐喻研究）。
+    每天早上由定时任务自动检索 Crossref（John Benjamins、Taylor &amp; Francis、SAGE、De Gruyter、Elsevier、Cambridge、Bloomsbury、Springer、ACL Anthology 等），筛选后更新本页。这个方向文献少，收录标准偏宽：批评认知语言学本身之外，批评隐喻分析、多模态隐喻、框架实验、计算隐喻相邻的 CDA 研究，以及各语种期刊里的一般概念隐喻研究（词汇、习语、文学、歌词等，归在「一般隐喻·词汇·文学」）都收，质量不设门槛。日期为 DOI 注册日期。★ = 批评认知语言学核心（识解、近化、认知语法/力动态视角的意识形态分析，或高质量期刊里的批评隐喻研究）。
   </div>
 </div>
 
 <script>
-const CATS = {all:"全部", cda:"认知CDA·识解·近化", metaphor:"批评隐喻·框架", multi:"多模态", exp:"实验·计算", theory:"理论·综述·书评", adj:"相邻话语研究"};
+const CATS = {all:"全部", cda:"认知CDA·识解·近化", metaphor:"批评隐喻·框架", multi:"多模态", exp:"实验·计算", lex:"一般隐喻·词汇·文学", theory:"理论·综述·书评", adj:"相邻话语研究"};
 let DATA = {items:[]}, days = 182, cat = "all", coreOnly = false, q = "";
 
 function todayNY(){
