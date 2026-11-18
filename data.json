@@ -1,0 +1,1575 @@
+{
+ "updated": "2026-11-18T09:30:00-05:00",
+ "window_note": "每日自动更新 · 保留近一年",
+ "items": [
+  {
+   "date": "2026-10-16",
+   "authors": "Hart",
+   "title": "Metaphor, multimodality and generative AI: Synthetic images prompted by figurative expressions in anti-immigration discourse",
+   "venue": "PLOS One",
+   "url": "https://doi.org/10.1371/journal.pone.0359980",
+   "cat": "multi",
+   "core": true,
+   "tags": [
+    "生成式AI",
+    "移民隐喻",
+    "多模态"
+   ]
+  },
+  {
+   "date": "2026-07-27",
+   "authors": "Cap",
+   "title": "Metaphor and proximization as vehicles of discursive disinformation: Insights from anti-migration discourse",
+   "venue": "Media, War & Conflict",
+   "url": "https://doi.org/10.1177/17506352261466513",
+   "cat": "cda",
+   "core": true,
+   "tags": [
+    "近化理论",
+    "虚假信息",
+    "反移民"
+   ]
+  },
+  {
+   "date": "2026-03-02",
+   "authors": "Cap",
+   "title": "Disinformation Discourse",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01631-8",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "工具书条目",
+    "虚假信息"
+   ]
+  },
+  {
+   "date": "2026-03-10",
+   "authors": "Koller",
+   "title": "Metaphor and Discourse Analysis",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01544-1",
+   "cat": "theory",
+   "core": true,
+   "tags": [
+    "工具书条目",
+    "隐喻与话语"
+   ]
+  },
+  {
+   "date": "2026-04-02",
+   "authors": "Bevitori",
+   "title": "Critical Discourse Analysis / Critical Discourse Studies",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01519-2",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "工具书条目",
+    "CDA"
+   ]
+  },
+  {
+   "date": "2026-02-20",
+   "authors": "Krzyżanowski",
+   "title": "Critical Discourse Analysis",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01197-2",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "工具书条目",
+    "CDA"
+   ]
+  },
+  {
+   "date": "2026-02-19",
+   "authors": "Bolognesi",
+   "title": "Conceptual Metaphor",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01390-9",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "工具书条目",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2025-12-26",
+   "authors": "Schröter",
+   "title": "Political Discourse",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01204-7",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "工具书条目",
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-03-19",
+   "authors": "Russo",
+   "title": "Discourse Analysis and Migration",
+   "venue": "International Encyclopedia of Language and Linguistics, 3rd ed.",
+   "url": "https://doi.org/10.1016/b978-0-323-95504-1.01612-4",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "工具书条目",
+    "移民话语"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Peterssen et al.",
+   "title": "The polarising power of construal operations: A cognitive-discursive study of national identity in Brazilian and Spanish far-right populisms",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-002",
+   "cat": "cda",
+   "core": true,
+   "tags": [
+    "识解",
+    "极右民粹",
+    "国族认同"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Muelas-Gil et al.",
+   "title": "The conflict in Ukraine on X: Metaphors, force-dynamics and multimodality",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-009",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "力动态",
+    "俄乌战争",
+    "多模态"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Musolff",
+   "title": "Polarization and paranoia: Conspiracy theories as conceptual platforms for political vilification",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-011",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "阴谋论",
+    "政治污名化"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Augé et al.",
+   "title": "Otherisation through metaphors: Dogmatic and pragmatic ecologies in Belgium",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-013",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "他者化",
+    "生态话语"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Malory",
+   "title": "Semantic prosody and cognitive frames in the polarisation of reproductive rights media coverage: The case of abortion in Anglophone news discourse",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-008",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "认知框架",
+    "语义韵",
+    "堕胎议题"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "van Dijk",
+   "title": "Integrating the insights: Polarisation in discourse, cognition and society",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-014",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "社会认知",
+    "极化"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Alonso-Belmonte et al.",
+   "title": "Discourse and polarisation: An introduction",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-001",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "极化",
+    "文集导论"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Filardo-Llamas et al.",
+   "title": "Gender, politics and football: A case study on affective polarization in online discussions about the Jenni Hermoso-Luis Rubiales controversy",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-010",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "情感极化",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Breeze",
+   "title": "After populism: Maintaining the dynamics of polarization",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-012",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "民粹主义",
+    "极化"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Carneiro et al.",
+   "title": "The representation of social actors in Jair Bolsonaro's political discourse – land issues in perspective",
+   "venue": "Polarised Discourse (De Gruyter, 2026)",
+   "url": "https://doi.org/10.1515/9783111556246-003",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "社会行为者",
+    "博索纳罗"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Musolff",
+   "title": "Prologue",
+   "venue": "Crises We Live By (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/clscc.20.pro",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "危机隐喻",
+    "文集"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Luporini",
+   "title": "Are different 'crises we live by' metaphorically conceptualised in different ways?",
+   "venue": "Crises We Live By (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/clscc.20.02lup",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "危机隐喻",
+    "比较"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Bielova",
+   "title": "Metaphor and the representation of COVID-19 in online discourse of solidarity",
+   "venue": "Crises We Live By (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/clscc.20.07bie",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新冠",
+    "团结话语"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Martinengo",
+   "title": "Illness and war",
+   "venue": "Crises We Live By (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/clscc.20.04mar",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "疾病隐喻",
+    "战争隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Short",
+   "title": "Weathering the storm",
+   "venue": "Crises We Live By (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/clscc.20.05sho",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "危机隐喻",
+    "天气隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Gagliano",
+   "title": "\"The house is on fire\"",
+   "venue": "Crises We Live By (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/clscc.20.06gag",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "气候隐喻"
+   ]
+  },
+  {
+   "date": "2026-02-05",
+   "authors": "Leonardis",
+   "title": "Collapse metaphor in Roman political discourse and its legacy",
+   "venue": "Crises We Live By (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/clscc.20.10leo",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "崩溃隐喻",
+    "历史"
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "authors": "Potapenko et al.",
+   "title": "Peace into war transformation in news discourse on Ukraine",
+   "venue": "Discourses of War and Peace (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/pbns.355.09pot",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "俄乌战争",
+    "新闻话语"
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "authors": "Breeze et al.",
+   "title": "Divergent visions on the war in Ukraine",
+   "venue": "Discourses of War and Peace (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/pbns.355.07bre",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "俄乌战争"
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "authors": "Weiss",
+   "title": "Vladimir Putin's war rhetoric between cold reflection and furious hatred",
+   "venue": "Discourses of War and Peace (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/pbns.355.06wei",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "战争修辞",
+    "普京"
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "authors": "Dunmire",
+   "title": "Still-not-yet",
+   "venue": "Discourses of War and Peace (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/pbns.355.02dun",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "未来建构",
+    "战争与和平"
+   ]
+  },
+  {
+   "date": "2026-04-14",
+   "authors": "Ilie",
+   "title": "Discursive (mis)representations of war and peace in cross-national and historical perspectives",
+   "venue": "Discourses of War and Peace (John Benjamins, 2026)",
+   "url": "https://doi.org/10.1075/pbns.355.01ili",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "战争与和平",
+    "文集导论"
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "authors": "—",
+   "title": "Ideological Metaphor and Artificial Intelligence",
+   "venue": "Analysing Political Speeches (Bloomsbury, 2026)",
+   "url": "https://doi.org/10.5040/9781350529601.ch-012",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "意识形态隐喻",
+    "AI"
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "authors": "—",
+   "title": "Critical Metaphor Analysis: Theory and Method",
+   "venue": "Analysing Political Speeches (Bloomsbury, 2026)",
+   "url": "https://doi.org/10.5040/9781350529601.ch-011",
+   "cat": "theory",
+   "core": true,
+   "tags": [
+    "批评隐喻分析",
+    "方法"
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "authors": "—",
+   "title": "Researching Metaphor in Public Communication",
+   "venue": "Analysing Political Speeches (Bloomsbury, 2026)",
+   "url": "https://doi.org/10.5040/9781350529601.ch-010",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻研究方法"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "authors": "—",
+   "title": "Monster (Metaphor) Mash",
+   "venue": "The Monstrous Discourse in the Donald Trump Campaign (book chapter)",
+   "url": "https://doi.org/10.5040/9781978746138.ch-5",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "怪物隐喻",
+    "特朗普"
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "authors": "Lucchesi",
+   "title": "Multimodality in Political and Immigration Discourse",
+   "venue": "Political & Immigration Discourse (Springer, Postdisciplinary Studies in Discourse)",
+   "url": "https://doi.org/10.1007/978-3-032-21265-8_8",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "移民话语"
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "authors": "Lucchesi",
+   "title": "Analysing Political and Immigration Discourse Through CDS: From Foundational Approaches to Digital Contexts",
+   "venue": "Political & Immigration Discourse (Springer, Postdisciplinary Studies in Discourse)",
+   "url": "https://doi.org/10.1007/978-3-032-21265-8_7",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDS",
+    "移民话语"
+   ]
+  },
+  {
+   "date": "2025-11-28",
+   "authors": "Zhang et al.",
+   "title": "From conflict to consensus: Cognitive remodeling via proximization strategies in mediation discourse—An STA triadic analysis of 10 TV mediation episodes",
+   "venue": "Discourse & Communication",
+   "url": "https://doi.org/10.1177/17504813251394185",
+   "cat": "cda",
+   "core": true,
+   "tags": [
+    "近化理论",
+    "调解话语",
+    "STA"
+   ]
+  },
+  {
+   "date": "2026-02-13",
+   "authors": "Zhang et al.",
+   "title": "Gendered proximization: A corpus-based analysis of mediators' divergent strategies toward male and female disputants",
+   "venue": "Journal of Pragmatics",
+   "url": "https://doi.org/10.1016/j.pragma.2026.01.012",
+   "cat": "cda",
+   "core": true,
+   "tags": [
+    "近化理论",
+    "性别",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-02-26",
+   "authors": "Basarati et al.",
+   "title": "The metaphorical construction of 'people' in the Iranian political discourse",
+   "venue": "International Review of Pragmatics",
+   "url": "https://doi.org/10.1163/18773109-01801003",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "政治隐喻",
+    "人民",
+    "伊朗"
+   ]
+  },
+  {
+   "date": "2025-11-25",
+   "authors": "Adedayo",
+   "title": "A corpus-assisted critical metaphor analysis of movement metaphors in university presidents' responses to anti-black violence",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.24017.ade",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "批评隐喻分析",
+    "语料库",
+    "种族"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Li et al.",
+   "title": "How Xi Jinping Talks About Poverty Alleviation: Metaphor as a Discursive Strategy in China's Poverty Alleviation Discourse",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2603218",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "政治隐喻",
+    "中国话语"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Pilyarchuk",
+   "title": "Conceptualizing the Aggressor as an Animal: Metaphors, Memes, and the Russo-Ukrainian War",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2526624",
+   "cat": "multi",
+   "core": true,
+   "tags": [
+    "去人化",
+    "表情包",
+    "俄乌战争"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "Sweet-Cushman et al.",
+   "title": "The Path to Women's Candidate Emergence is Paved with Metaphorical Resistance: Limits of a Journey Metaphor in Provoking Identity-Based Motivation",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2549274",
+   "cat": "exp",
+   "core": true,
+   "tags": [
+    "框架效应实验",
+    "旅程隐喻",
+    "性别政治"
+   ]
+  },
+  {
+   "date": "2026-04-01",
+   "authors": "Coll-Florit",
+   "title": "Suicide Metaphors in the Press: Breaking the Taboo",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2580642",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "健康话语"
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "authors": "Tan et al.",
+   "title": "YinYang Dynamics of Metaphoricity (YYDM) in Discourse",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2026.2640036",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻性",
+    "理论模型"
+   ]
+  },
+  {
+   "date": "2026-01-02",
+   "authors": "O'Reilly",
+   "title": "The Metaphor Compass: Directions for Metaphor Research in Language, Cognition, Communication, and Creativity",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2025.2502347",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "研究综述",
+    "隐喻研究方向"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Beekhuizen et al.",
+   "title": "Two Context Effects on Metaphor Usage. A Computational, Corpus-Based Approach",
+   "venue": "Metaphor and Symbol",
+   "url": "https://doi.org/10.1080/10926488.2026.2627594",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "计算方法",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2025-11-25",
+   "authors": "Grogan et al.",
+   "title": "'Climate cults' and 'climate sins'",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.25017.gro",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "气候话语",
+    "宗教隐喻"
+   ]
+  },
+  {
+   "date": "2026-06-05",
+   "authors": "Bredahl",
+   "title": "Pandemic metaphors in expert discourse",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.25031.bre",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "疫情隐喻",
+    "专家话语"
+   ]
+  },
+  {
+   "date": "2026-01-29",
+   "authors": "Wong",
+   "title": "Agency in metaphor and translation",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.25012.won",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "施事性",
+    "翻译"
+   ]
+  },
+  {
+   "date": "2026-08-28",
+   "authors": "Yuan",
+   "title": "Planting tax",
+   "venue": "Metaphor and the Social World",
+   "url": "https://doi.org/10.1075/msw.26007.yua",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态隐喻",
+    "税收宣传"
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "authors": "Yuan",
+   "title": "Metonymy, metaphor, and multimodal civic meaning-making in children's tax-themed postcards",
+   "venue": "Pragmatics and Society",
+   "url": "https://doi.org/10.1075/ps.25185.yua",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态转喻",
+    "公民教育"
+   ]
+  },
+  {
+   "date": "2026-03-12",
+   "authors": "Dawson-Ahmoah et al.",
+   "title": "An analysis of deliberate metaphor framing of Ghana's E-levy on social media platforms",
+   "venue": "International Journal of Language and Culture",
+   "url": "https://doi.org/10.1075/ijolc.24056.daw",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "蓄意隐喻",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "authors": "Xu et al.",
+   "title": "Deliberate metaphor as a rhetorical strategy for corporate identity construction",
+   "venue": "Review of Cognitive Linguistics",
+   "url": "https://doi.org/10.1075/rcl.26005.xu",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "蓄意隐喻",
+    "企业话语"
+   ]
+  },
+  {
+   "date": "2026-01-29",
+   "authors": "Musolff",
+   "title": "Cognitive and historical concepts of the \"career of metaphor\"",
+   "venue": "At the Crossroads of Historical and Cognitive Linguistics (John Benjamins)",
+   "url": "https://doi.org/10.1075/ftl.21.03mus",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻生涯",
+    "历史认知语言学"
+   ]
+  },
+  {
+   "date": "2026-03-05",
+   "authors": "Gibbs",
+   "title": "When do metaphors come to mind? A cognitive appraisal view of metaphor emergence",
+   "venue": "Journal of Pragmatics",
+   "url": "https://doi.org/10.1016/j.pragma.2026.02.007",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "隐喻生成",
+    "认知评价"
+   ]
+  },
+  {
+   "date": "2026-02-25",
+   "authors": "El Moene",
+   "title": "Metaphor, ideology, and climate policy in Moroccan news: a corpus-based analysis",
+   "venue": "Language Sciences",
+   "url": "https://doi.org/10.1016/j.langsci.2026.101809",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "气候政策",
+    "意识形态",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "authors": "Alrashidy et al.",
+   "title": "Framing regional identity through conceptual metaphor: A cognitive linguistic analysis of Arabic tourism discourse in Ha'il, Saudi Arabia",
+   "venue": "Social Sciences & Humanities Open",
+   "url": "https://doi.org/10.1016/j.ssaho.2026.103397",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "地区认同",
+    "旅游话语"
+   ]
+  },
+  {
+   "date": "2026-03-18",
+   "authors": "Su et al.",
+   "title": "\"They are battling a different war\": A corpus-based comparative study on war metaphor in COVID-19 discourse in China and U.S.",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-06974-x",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "战争隐喻",
+    "中美对比",
+    "新冠"
+   ]
+  },
+  {
+   "date": "2026-05-09",
+   "authors": "Wu et al.",
+   "title": "Metaphor, topoi, and cognitive heuristics in climate governance: a dual-staged metaphorical argumentation analysis of climate political speech",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-07492-6",
+   "cat": "metaphor",
+   "core": true,
+   "tags": [
+    "隐喻论证",
+    "气候治理"
+   ]
+  },
+  {
+   "date": "2026-03-25",
+   "authors": "Yang et al.",
+   "title": "Framing medical encounters through metaphor: a cognitive and cultural account of Chinese doctor–patient discourse",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-06932-7",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "医患话语",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-04-22",
+   "authors": "Guo et al.",
+   "title": "A necessary transition in emotional metaphor of social chatbot technology",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-07321-w",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "情感隐喻",
+    "聊天机器人"
+   ]
+  },
+  {
+   "date": "2026-08-17",
+   "authors": "Jović-Lazić",
+   "title": "Moralizing betrayal: the construction of the enemy in media discourse on the Russia–Ukraine war",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-07966-7",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "敌人建构",
+    "俄乌战争"
+   ]
+  },
+  {
+   "date": "2026-06-19",
+   "authors": "Cai et al.",
+   "title": "Conceptual Representation of Mental Health in China's International News Media: A Corpus-Based Cognitive Discourse Analysis",
+   "venue": "Health Communication",
+   "url": "https://doi.org/10.1080/10410236.2026.2689560",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "认知话语分析",
+    "心理健康",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-09-12",
+   "authors": "Woźniak",
+   "title": "Framing force and control through idioms: A cognitive corpus analysis of the German crisis press",
+   "venue": "Studia Neophilologica",
+   "url": "https://doi.org/10.1080/00393274.2026.2677501",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "力动态",
+    "习语",
+    "危机新闻"
+   ]
+  },
+  {
+   "date": "2026-07-28",
+   "authors": "Perdek",
+   "title": "Framing Rights, Weighing Duties: Metaphor and Human Rights in the ECtHR's Landmark Climate Judgment",
+   "venue": "International Journal for the Semiotics of Law",
+   "url": "https://doi.org/10.1007/s11196-026-10444-7",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "法律话语",
+    "气候诉讼"
+   ]
+  },
+  {
+   "date": "2026-04-07",
+   "authors": "Berracheche",
+   "title": "The construal of asylum: A new methodological perspective to critical discourse analysis",
+   "venue": "学位论文",
+   "url": "https://doi.org/10.70675/cdf17509zf5a5z4735za298z0b297e54b3a9",
+   "cat": "cda",
+   "core": true,
+   "tags": [
+    "识解",
+    "庇护话语",
+    "方法论"
+   ]
+  },
+  {
+   "date": "2026-07-02",
+   "authors": "Domínguez Chenguayen et al.",
+   "title": "Grammar, Discourse and Ideology: The Representation of the Venezuelan Migrant in the Peruvian Press",
+   "venue": "Lengua y migración",
+   "url": "https://doi.org/10.37536/lym.1.18.2026.3106",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "语法与意识形态",
+    "移民"
+   ]
+  },
+  {
+   "date": "2026-05-11",
+   "authors": "Du Bois",
+   "title": "A Mixed Methods Approach to Grammar Discourse",
+   "venue": "The Hidden Politics of Grammar (Routledge, 2026)",
+   "url": "https://doi.org/10.4324/9781003724841-5",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "语法政治",
+    "混合方法"
+   ]
+  },
+  {
+   "date": "2025-11-29",
+   "authors": "Kumar et al.",
+   "title": "Media mediation and discourse construal of Naxalism in India",
+   "venue": "Discover Global Society",
+   "url": "https://doi.org/10.1007/s44282-025-00293-3",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "话语识解",
+    "媒体"
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "authors": "Chen et al.",
+   "title": "Sentence voice preferences and sentiment patterns in gendered Weibo headlines on violent events: A data-driven critical discourse analysis",
+   "venue": "Discourse & Society",
+   "url": "https://doi.org/10.1177/09579265261465904",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "语态",
+    "施事隐去",
+    "微博"
+   ]
+  },
+  {
+   "date": "2026-06-02",
+   "authors": "Matytcina et al.",
+   "title": "The conceptual metaphor IMMIGRATION IS AN INVASION in British political media discourse",
+   "venue": "Филология: научные исследования",
+   "url": "https://doi.org/10.7256/2454-0749.2026.5.79084",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "入侵隐喻",
+    "移民"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Leto et al.",
+   "title": "Toward Unsupervised Conceptual Metaphor Discovery: A Case Study in Online Immigration Discourse",
+   "venue": "NLP+CSS Workshop 2026 (ACL Anthology)",
+   "url": "https://doi.org/10.18653/v1/2026.nlpcss-1.11",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "计算方法",
+    "无监督",
+    "移民话语"
+   ]
+  },
+  {
+   "date": "2026-04-09",
+   "authors": "Pahor de Maiti",
+   "title": "Metaphor in Socially Unacceptable Discourse Online",
+   "venue": "学位论文",
+   "url": "https://doi.org/10.70675/4d9133e8zf5ffz4d97z8e97za7074cb009e1",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "仇恨言论",
+    "网络话语"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "authors": "Skrebnev",
+   "title": "Constructing Threat Images in Political Discourse: Proximization Theory Applied to Éric Zemmour's Speeches",
+   "venue": "Discourse (Дискурс)",
+   "url": "https://doi.org/10.32603/2412-8562-2025-11-6-163-173",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "威胁建构",
+    "法国极右"
+   ]
+  },
+  {
+   "date": "2026-06-01",
+   "authors": "El-Masry",
+   "title": "Bringing Suffering Closer: A Proximization and Affect Analysis of Vegan Digital Activism",
+   "venue": "Theory and Practice in Language Studies",
+   "url": "https://doi.org/10.17507/tpls.1606.17",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "情感",
+    "数字行动主义"
+   ]
+  },
+  {
+   "date": "2026-03-09",
+   "authors": "Eissa et al.",
+   "title": "Framing Climate Change through Space and Time: A Proximization Study of COP Negotiation Discourse",
+   "venue": "CDELT Occasional Papers",
+   "url": "https://doi.org/10.21608/opde.2025.487330",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "气候谈判"
+   ]
+  },
+  {
+   "date": "2026-04-19",
+   "authors": "Eissa",
+   "title": "The Fear Industry in Wartime Political Discourse: Diachronic Proximization and Legitimization in Zelensky's Munich Security Conference Speeches (2022–2025)",
+   "venue": "Journal of the Faculty of Arts, Port Said University",
+   "url": "https://doi.org/10.21608/jfpsu.2026.478929.1533",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "合法化",
+    "泽连斯基"
+   ]
+  },
+  {
+   "date": "2026-06-18",
+   "authors": "Guo et al.",
+   "title": "A Critical Cognitive Discourse Analysis of Aging Population Reports in China Daily from the Perspective of Proximization",
+   "venue": "OALib",
+   "url": "https://doi.org/10.4236/oalib.1115506",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "人口老龄化"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "authors": "Zhang",
+   "title": "Grammatical Profiling and Responsibility Allocation in Wartime Discourse: A Critical Cognitive Analysis of Russian and Ukrainian Presidential Speeches in 2022",
+   "venue": "English Language Teaching and Linguistics Studies",
+   "url": "https://doi.org/10.22158/eltls.v8n4p106",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "凸显",
+    "责任分配",
+    "俄乌战争"
+   ]
+  },
+  {
+   "date": "2026-06-22",
+   "authors": "Zhang",
+   "title": "The Discursive Construction of Legitimation in Regional Conflict Discourses of Ukraine and Russia from the Perspective of Proximization",
+   "venue": "English Language Teaching and Linguistics Studies",
+   "url": "https://doi.org/10.22158/eltls.v8n3p252",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "合法化"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "authors": "Luo et al.",
+   "title": "Proximization of Security Risks in China's National Defense White Papers",
+   "venue": "Int. J. of Management Studies and Social Science Research",
+   "url": "https://doi.org/10.56293/ijmsssr.2026.6329",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "国防白皮书"
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "authors": "班",
+   "title": "Risk and Value Construction in Generative AI Education Discourse from the Perspective of Proximization",
+   "venue": "Modern Linguistics（现代语言学）",
+   "url": "https://doi.org/10.12677/ml.2026.149925",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "近化理论",
+    "生成式AI",
+    "教育话语"
+   ]
+  },
+  {
+   "date": "2025-12-04",
+   "authors": "Yu",
+   "title": "Visualizing the national voice: a multimodal metaphor analysis of Putonghua Promotion posters",
+   "venue": "Multimodal Communication",
+   "url": "https://doi.org/10.1515/mc-2025-0028",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态隐喻",
+    "推普海报"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Kovačová et al.",
+   "title": "Multimodal metaphor and multimodal metonymy in television advertising",
+   "venue": "Topics in Linguistics",
+   "url": "https://doi.org/10.17846/topling-2026-0002",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态隐喻",
+    "广告"
+   ]
+  },
+  {
+   "date": "2026-05-05",
+   "authors": "Wang et al.",
+   "title": "Beyond \"Taiji Diagram\": how multimodal metaphor deciphers Yin Xu and Yang Xu through Traditional Chinese Medicine science communication short videos",
+   "venue": "Frontiers in Public Health",
+   "url": "https://doi.org/10.3389/fpubh.2026.1781678",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态隐喻",
+    "短视频",
+    "科普"
+   ]
+  },
+  {
+   "date": "2026-05-01",
+   "authors": "—",
+   "title": "Multimodal Construction of China's Image in The Economist's Political Cartoons: A Combined Analysis Based on Visual Grammar and Critical Metaphor Analysis",
+   "venue": "Global Vision Research",
+   "url": "https://doi.org/10.69979/3041-0843.26.01.069",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "政治漫画",
+    "国家形象"
+   ]
+  },
+  {
+   "date": "2026-10-12",
+   "authors": "Aslam et al.",
+   "title": "Heroism to tragedy: A social semiotic analysis of visual framing in Ukraine–Russia and Israel–Gaza conflicts",
+   "venue": "Media, War & Conflict",
+   "url": "https://doi.org/10.1177/17506352261493686",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉框架",
+    "战争报道"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "authors": "Ventsel",
+   "title": "Multimodal meaning-making and the subtle workings of ideology",
+   "venue": "Multimodality & Society",
+   "url": "https://doi.org/10.1177/26349795261509838",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-06-25",
+   "authors": "Morrison et al.",
+   "title": "Commercialising education – A multimodal analysis",
+   "venue": "Critical Discourse Studies",
+   "url": "https://doi.org/10.1080/17405904.2026.2690588",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态CDA",
+    "教育商品化"
+   ]
+  },
+  {
+   "date": "2026-03-04",
+   "authors": "Yang et al.",
+   "title": "Multimodal metaphor understanding and generation in MLLMs: A dataset and reasoning framework",
+   "venue": "Pattern Recognition",
+   "url": "https://doi.org/10.1016/j.patcog.2026.113369",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "多模态大模型",
+    "隐喻理解"
+   ]
+  },
+  {
+   "date": "2026-03-18",
+   "authors": "Zheng et al.",
+   "title": "M3UCD: A Multi-task Multimodal Metaphor Understanding Challenge Dataset for LLMs",
+   "venue": "AAAI 2026",
+   "url": "https://doi.org/10.1609/aaai.v40i41.40808",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "数据集",
+    "大模型"
+   ]
+  },
+  {
+   "date": "2026-03-09",
+   "authors": "Huang et al.",
+   "title": "Explainable Multimodal Metaphor Detection: A Benchmark Dataset and Retrieval-Augmented Hierarchical Inference Pipeline",
+   "venue": "IEEE Transactions on Multimedia",
+   "url": "https://doi.org/10.1109/tmm.2026.3668674",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻检测",
+    "基准数据集"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "authors": "Kılıçaslan",
+   "title": "Ideological framing in political communication: a comparative analysis of ChatGPT and DeepSeek",
+   "venue": "Online Media and Global Communication",
+   "url": "https://doi.org/10.1515/omgc-2026-0006",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "大模型",
+    "意识形态框架"
+   ]
+  },
+  {
+   "date": "2026-05-21",
+   "authors": "Brancaccio",
+   "title": "Silenced by design: Marginal voices and algorithmic bias in AI-generated climate discourse",
+   "venue": "Discourse & Society",
+   "url": "https://doi.org/10.1177/09579265261449258",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "AI生成话语",
+    "算法偏见"
+   ]
+  },
+  {
+   "date": "2026-05-13",
+   "authors": "Adamson",
+   "title": "Metaphor is conflational, not conceptual: rectifying the central error of conceptual metaphor theory",
+   "venue": "Cognitive Semiotics",
+   "url": "https://doi.org/10.1515/cogsem-2026-3001",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "CMT批评",
+    "理论争鸣"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "authors": "Dancygier",
+   "title": "Representation of character experience: language choices and similative construal",
+   "venue": "Cognitive Semiotics",
+   "url": "https://doi.org/10.1515/cogsem-2026-3008",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "视角",
+    "识解"
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "authors": "Lams",
+   "title": "Evolution in Critical Discourse and Pragmatic Analysis",
+   "venue": "Applied Linguistics – Yesterday, Today and Tomorrow (De Gruyter)",
+   "url": "https://doi.org/10.1515/9783112219942-007",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "CDA综述",
+    "语用"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "authors": "Krzyżanowski et al.",
+   "title": "From immigration 'realism' to normalised hate-speech? Borderline discourse and the mainstreaming of far-right illiberalism on/via social media",
+   "venue": "Discourse Studies",
+   "url": "https://doi.org/10.1177/14614456261487849",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "常态化",
+    "极右",
+    "仇恨言论"
+   ]
+  },
+  {
+   "date": "2026-04-13",
+   "authors": "Garidi",
+   "title": "From asylum to administration: Bureaucratic legitimacy and the strategic silencing of refugees and migrants in Greek immigration discourse",
+   "venue": "CADAAD Journal",
+   "url": "https://doi.org/10.21827/cadaad.18.1.42985",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "合法化",
+    "难民"
+   ]
+  },
+  {
+   "date": "2026-07-01",
+   "authors": "Aloe",
+   "title": "\"Doomed to Extinction\": Framing biodiversity loss as crisis in media discourse",
+   "venue": "CADAAD Journal",
+   "url": "https://doi.org/10.21827/cadaad.18.1.42451",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "危机框架",
+    "生物多样性"
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "authors": "Ederoclite et al.",
+   "title": "Proximate racialisation and moral panic in Italian news discourse on maranza",
+   "venue": "Discourse & Society",
+   "url": "https://doi.org/10.1177/09579265261492705",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "种族化",
+    "道德恐慌"
+   ]
+  },
+  {
+   "date": "2026-02-20",
+   "authors": "Waśniewska",
+   "title": "Scare quotes as scare tactics: The use of quotation in ultraconservative Polish discourse",
+   "venue": "Discourse & Society",
+   "url": "https://doi.org/10.1177/09579265261420954",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "引号",
+    "极端保守话语"
+   ]
+  },
+  {
+   "date": "2026-03-05",
+   "authors": "Rheindorf",
+   "title": "From hegemonic consensus to polarisation: Austrian public discourse on Israel's war in Gaza",
+   "venue": "Critical Discourse Studies",
+   "url": "https://doi.org/10.1080/17405904.2026.2637486",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "极化",
+    "加沙战争"
+   ]
+  },
+  {
+   "date": "2026-01-19",
+   "authors": "Sutkutė",
+   "title": "Constructing security discourse during the Russia–Ukraine War (2022–2025): The cases of Lithuania, Hungary, and Ukraine",
+   "venue": "Discourse & Society",
+   "url": "https://doi.org/10.1177/09579265251395300",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "安全话语",
+    "俄乌战争"
+   ]
+  },
+  {
+   "date": "2026-04-04",
+   "authors": "Gong et al.",
+   "title": "Legitimation and delegitimation in online argumentative discourse on Weibo: a discourse-historical analysis of the Jiang Ping controversy",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-07064-8",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "合法化",
+    "话语历史分析"
+   ]
+  },
+  {
+   "date": "2026-05-22",
+   "authors": "Huang",
+   "title": "Book review: Małgorzata Waśniewska, The Discourse of Dehumanization",
+   "venue": "Discourse & Society",
+   "url": "https://doi.org/10.1177/09579265261451679",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "去人化"
+   ]
+  },
+  {
+   "date": "2025-12-19",
+   "authors": "Wang et al.",
+   "title": "Book review: Manuela Romano, Metaphor in Socio-Political Contexts",
+   "venue": "Discourse & Society",
+   "url": "https://doi.org/10.1177/09579265251398416",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "社会政治隐喻"
+   ]
+  },
+  {
+   "date": "2026-07-10",
+   "authors": "Shurma",
+   "title": "Book Review: Metaphor in Socio-Political Contexts: Current Crises (Applications of Cognitive Linguistics)",
+   "venue": "Language and Literature",
+   "url": "https://doi.org/10.1177/09639470261468530",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "危机隐喻"
+   ]
+  },
+  {
+   "date": "2026-01-23",
+   "authors": "Wang et al.",
+   "title": "Book review: Ounis, M., Unpacking Metaphor-related Prepositions in Political Discourse: From Polysemous to Powerful",
+   "venue": "Discourse Studies",
+   "url": "https://doi.org/10.1177/14614456251411823",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "介词隐喻"
+   ]
+  },
+  {
+   "date": "2026-08-31",
+   "authors": "Schleier",
+   "title": "Review of Burnett (2026): Analysing Environmental Discourse: A Critical Approach",
+   "venue": "Pragmatics and Society",
+   "url": "https://doi.org/10.1075/ps.26126.sch",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "环境话语"
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "authors": "Zhu",
+   "title": "Review of Bonnet (2027): Narrative in Political Discourse: Toward a Multimodal and Critical Approach",
+   "venue": "Narrative Inquiry",
+   "url": "https://doi.org/10.1075/ni.26125.zhu",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "政治叙事"
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "authors": "Sun",
+   "title": "The Discursive Construction of the \"Death Line\": A Critical Metaphor Analysis of Chinese and U.S. Media Discourse",
+   "venue": "Academic Conferences Series",
+   "url": "https://doi.org/10.62381/acs.heed2026.18",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "批评隐喻分析",
+    "中美媒体"
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "authors": "Wang",
+   "title": "\"Language, Technology, and Metaphors We Live By\": A Corpus-Based Critical Metaphor Analysis of AI-Related News Discourse in China Daily and The New York Times",
+   "venue": "OALib",
+   "url": "https://doi.org/10.4236/oalib.1115990",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "批评隐喻分析",
+    "AI新闻"
+   ]
+  },
+  {
+   "date": "2026-06-30",
+   "authors": "Hummadi",
+   "title": "Same War, Different Words: Critical Metaphor Analysis of Official Political Discourse in the US-Israel-Iran Conflict 2026",
+   "venue": "Anbar University Journal of Languages and Literature",
+   "url": "https://doi.org/10.37654/aujll763",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "批评隐喻分析",
+    "美以伊冲突"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "authors": "Madmarova et al.",
+   "title": "The metaphor of sovereignty in Brexit campaign discourse and the mobilisation of national identity",
+   "venue": "Journal of Discourse Analysis Critical Studies",
+   "url": "https://doi.org/10.67524/verus6/1.2025.29",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "主权隐喻",
+    "脱欧"
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "authors": "Azzahro",
+   "title": "The \"Londo Ireng\" Metaphor and the Delegitimisation of Criticism in Political Communication",
+   "venue": "Jurnal Ilmiah Manunggal",
+   "url": "https://doi.org/10.55719/manunggal.v11i2.2584",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "去合法化",
+    "印尼政治"
+   ]
+  },
+  {
+   "date": "2025-12-03",
+   "authors": "Urbonaitė et al.",
+   "title": "HEALTH Metaphor in Political and Economic Discourse: a Cross-Linguistic Analysis",
+   "venue": "Studies about Languages",
+   "url": "https://doi.org/10.5755/j01.sal.1.11.43302",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "健康隐喻",
+    "跨语言"
+   ]
+  }
+ ]
+}

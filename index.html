@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>批评认知语言学 文献速递</title>
+<style>
+  :root{--bg:#f7f6f2;--card:#fff;--ink:#1d2327;--mute:#6b7378;--line:#e3e1da;--acc:#8a3b2e;--acc2:#f6ebe7;--star:#c47f00}
+  @media (prefers-color-scheme:dark){:root{--bg:#15181a;--card:#1d2124;--ink:#e6e8e9;--mute:#9aa3a8;--line:#2d3236;--acc:#e48f7c;--acc2:#2e2220;--star:#f0b23a}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
+  .wrap{max-width:900px;margin:0 auto;padding:28px 18px 60px}
+  h1{font-size:22px;margin:0 0 4px}
+  .sub{color:var(--mute);font-size:13px;margin-bottom:18px}
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:9px;overflow:hidden;background:var(--card)}
+  .seg button{border:0;background:none;color:var(--ink);padding:7px 13px;font:inherit;font-size:14px;cursor:pointer}
+  .seg button.on{background:var(--acc);color:#fff}
+  .chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;cursor:pointer}
+  .chip.on{background:var(--acc2);border-color:var(--acc);color:var(--acc);font-weight:600}
+  input[type=search]{flex:1;min-width:180px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:9px;padding:7px 11px;font:inherit}
+  label.core{font-size:13px;color:var(--mute);display:flex;gap:5px;align-items:center;cursor:pointer}
+  .count{color:var(--mute);font-size:13px;margin:14px 0 6px}
+  .day{font-size:13px;font-weight:600;color:var(--mute);margin:22px 0 8px;letter-spacing:.02em}
+  .item{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:12px 15px;margin-bottom:8px}
+  .item a.t{color:var(--ink);text-decoration:none;font-weight:600}
+  .item a.t:hover{color:var(--acc);text-decoration:underline}
+  .meta{color:var(--mute);font-size:13px;margin-top:3px}
+  .tags{margin-top:6px;display:flex;flex-wrap:wrap;gap:5px}
+  .tag{font-size:12px;background:var(--acc2);color:var(--acc);border-radius:5px;padding:1px 7px}
+  .cat{font-size:12px;border:1px solid var(--line);border-radius:5px;padding:0 6px;color:var(--mute)}
+  .star{color:var(--star);font-weight:700;margin-right:4px}
+  .empty{color:var(--mute);padding:30px 0;text-align:center}
+  .foot{color:var(--mute);font-size:12px;margin-top:30px;border-top:1px solid var(--line);padding-top:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>批评认知语言学 · 文献速递</h1>
+  <div class="sub" id="sub">加载中…</div>
+
+  <div class="bar">
+    <div class="seg" id="range">
+      <button data-d="7">本周</button>
+      <button data-d="30">近30天</button>
+      <button data-d="182" class="on">近半年</button>
+      <button data-d="0">全部</button>
+    </div>
+    <label class="core"><input type="checkbox" id="coreOnly"> ★ 只看核心</label>
+  </div>
+  <div class="bar" id="cats"></div>
+  <div class="bar"><input type="search" id="q" placeholder="搜索标题 / 期刊 / 标签，如 近化、识解、移民、多模态、Hart"></div>
+
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+
+  <div class="foot">
+    每天早上由定时任务自动检索 Crossref（John Benjamins、Taylor &amp; Francis、SAGE、De Gruyter、Elsevier、Cambridge、Bloomsbury、Springer、ACL Anthology 等），筛选后更新本页。这个方向文献少，收录标准偏宽：批评认知语言学本身之外，批评隐喻分析、多模态隐喻、框架实验、计算隐喻和相邻的 CDA 研究也收。日期为 DOI 注册日期。★ = 批评认知语言学核心（识解、近化、认知语法/力动态视角的意识形态分析，或高质量期刊里的批评隐喻研究）。
+  </div>
+</div>
+
+<script>
+const CATS = {all:"全部", cda:"认知CDA·识解·近化", metaphor:"批评隐喻·框架", multi:"多模态", exp:"实验·计算", theory:"理论·综述·书评", adj:"相邻话语研究"};
+let DATA = {items:[]}, days = 182, cat = "all", coreOnly = false, q = "";
+
+function todayNY(){
+  try{ return new Intl.DateTimeFormat("en-CA",{timeZone:"America/New_York"}).format(new Date()); }
+  catch(e){ return new Date().toISOString().slice(0,10); }
+}
+function addDays(s,n){ const d=new Date(s+"T12:00:00Z"); d.setUTCDate(d.getUTCDate()+n); return d.toISOString().slice(0,10); }
+function esc(s){ return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+function renderCats(){
+  const el=document.getElementById("cats"); el.innerHTML="";
+  for(const [k,v] of Object.entries(CATS)){
+    const b=document.createElement("button"); b.className="chip"+(k===cat?" on":""); b.textContent=v;
+    b.onclick=()=>{cat=k; renderCats(); render();}; el.appendChild(b);
+  }
+}
+
+function render(){
+  const today=todayNY();
+  const from = days===0 ? "0000" : addDays(today, -(days-1));
+  let items = DATA.items.filter(it=>{
+    if(it.date < from) return false;
+    if(cat!=="all" && it.cat!==cat) return false;
+    if(coreOnly && !it.core) return false;
+    if(q){ const hay=(it.title+" "+it.venue+" "+(it.tags||[]).join(" ")+" "+it.authors).toLowerCase(); if(!hay.includes(q)) return false; }
+    return true;
+  });
+  items.sort((a,b)=> b.date.localeCompare(a.date) || (b.core?1:0)-(a.core?1:0));
+  document.getElementById("count").textContent = `${items.length} 篇`;
+  const list=document.getElementById("list");
+  if(!items.length){
+    list.innerHTML = `<div class="empty">没有符合条件的文献，试试放宽时间范围</div>`;
+    return;
+  }
+  let html="", cur="";
+  for(const it of items){
+    if(it.date!==cur){ cur=it.date; html+=`<div class="day">${cur}</div>`; }
+    html+=`<div class="item">
+      <div>${it.core?'<span class="star">★</span>':''}<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+      <div class="meta">${esc(it.authors||"")} · <i>${esc(it.venue)}</i> <span class="cat">${esc(CATS[it.cat]||it.cat)}</span></div>
+      ${(it.note?`<div class="meta">${esc(it.note)}</div>`:"")}
+      <div class="tags">${(it.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join("")}</div>
+    </div>`;
+  }
+  list.innerHTML=html;
+}
+
+document.querySelectorAll("#range button").forEach(b=>b.onclick=()=>{
+  document.querySelectorAll("#range button").forEach(x=>x.classList.remove("on"));
+  b.classList.add("on"); days=+b.dataset.d; render();
+});
+document.getElementById("coreOnly").onchange=e=>{coreOnly=e.target.checked; render();};
+document.getElementById("q").oninput=e=>{q=e.target.value.trim().toLowerCase(); render();};
+
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
+  DATA=d;
+  const up = (d.updated||"").replace("T"," ").slice(0,16);
+  document.getElementById("sub").textContent = `最近更新：${up}（美东）· 共收录 ${d.items.length} 篇` + (d.window_note?` · ${d.window_note}`:"");
+  renderCats(); render();
+}).catch(()=>{ document.getElementById("sub").textContent="数据加载失败"; });
+</script>
+</body>
+</html>
+
+</body></html>
