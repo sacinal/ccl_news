@@ -328,7 +328,8 @@ window.addEventListener("hashchange",()=>{ readHash(); rerender(); });
 FAVS = new Set(store.get("ccl_favs",[]));
 PREV = store.get("ccl_last_visit","");
 readHash();
-if(/github\.io$/.test(location.hostname)) $("rssLink").hidden=false;
+const OWN_HOST = /github\.io$/.test(location.hostname) || location.protocol==="file:" || /^(localhost|127\.)/.test(location.hostname);
+if(OWN_HOST) $("rssLink").hidden=false; else $("mDl").hidden=true;
 fetch("data.json",{cache:"no-store"}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{
   DATA=d;
   const up=(d.updated||"").replace("T"," ").slice(0,16);
