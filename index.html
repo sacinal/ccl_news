@@ -64,6 +64,11 @@
   .ib{border:1px solid var(--line);background:none;border-radius:7px;font-size:12px;padding:2px 7px;cursor:pointer;color:var(--mute);white-space:nowrap}
   .ib:hover{color:var(--acc);border-color:var(--acc)}
   .ib.fav[aria-pressed=true]{color:var(--heart);border-color:var(--heart)}
+  .abs{grid-column:1/2;margin-top:8px;padding:10px 12px;background:var(--bg);border:1px solid var(--line);border-radius:8px;font-size:14px;line-height:1.65;display:none}
+  .abs.open{display:block}
+  .abs .src{color:var(--mute);font-size:12px;margin-top:6px}
+  .abs a{color:var(--acc)}
+  .ib.absb[aria-expanded=true]{color:var(--acc);border-color:var(--acc)}
   .more{display:block;margin:16px auto;border:1px solid var(--line);background:var(--card);border-radius:9px;padding:8px 22px;cursor:pointer}
   .empty{color:var(--mute);padding:36px 0;text-align:center}
   .foot{color:var(--mute);font-size:12px;margin-top:36px;border-top:1px solid var(--line);padding-top:12px}
@@ -106,10 +111,10 @@
       <ul>
         <li>核心：识解、近化理论、认知语法 / 力动态视角的意识形态分析，批评隐喻分析；</li>
         <li>扩展：各类话语中的隐喻与框架、多模态隐喻、框架实验与计算隐喻研究；</li>
-        <li>外围：一般概念隐喻研究（词汇、习语、文学、歌词等）和相邻的 CDA 研究。质量不设门槛。</li>
+        <li>外围：一般概念隐喻研究（词汇、习语、文学、歌词等）和相邻的 CDA 研究。质量不设门槛，但只收英文文献。</li>
       </ul>
       <p><b>★ 核心</b>指批评认知语言学核心路线的研究，或主流期刊里的批评 / 政治隐喻研究，以及 Hart、Cap、Musolff、Charteris-Black、Koller、Semino 等人的新作。</p>
-      <p><b>使用小技巧：</b>点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；绿色「新」表示上次访问之后新收录的条目。</p>
+      <p><b>使用小技巧：</b>点「摘要」可以直接展开摘要（来自 Crossref / OpenAlex，部分文献出版方没有公开摘要）；点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；绿色「新」表示上次访问之后新收录的条目。</p>
       <p><b>局限：</b>类别和标签由程序根据标题自动判断，可能有误；没有 DOI 的文献（包括大部分知网中文期刊）检索不到。发现错误欢迎点「反馈 / 纠错」。</p>
     </div>
   </header>
@@ -194,6 +199,49 @@ async function copyText(s){
   catch(e){ toast("浏览器不允许自动复制，请手动选择复制"); return false; }
 }
 
+const PUBLIC_SITE = "https://sacinal.github.io/ccl_news/";
+function stripTags(h){
+  const t = document.createElement("div");
+  t.innerHTML = String(h).replace(/<jats:title>[\s\S]*?<\/jats:title>/gi,"").replace(/<\/(jats:)?p>/gi,"\n\n").replace(/<[^>]+>/g," ");
+  return (t.textContent||"").replace(/[ \t]+/g," ").replace(/\n\s*\n+/g,"\n\n").trim();
+}
+function fromInverted(inv){
+  const words=[]; for(const [w,pos] of Object.entries(inv||{})) for(const p of pos) words[p]=w;
+  return words.filter(Boolean).join(" ").trim();
+}
+async function fetchJSON(url, ms=9000){
+  const c = new AbortController(); const t = setTimeout(()=>c.abort(), ms);
+  try{ const r = await fetch(url,{signal:c.signal}); if(!r.ok) return null; return await r.json(); } finally { clearTimeout(t); }
+}
+async function getAbstract(it){
+  const doi = doiOf(it), key = "ccl_abs_"+doi.toLowerCase();
+  const cached = store.get(key, null); if(cached) return cached;
+  let res = null, netErr = 0;
+  try{ const j = await fetchJSON("https://api.crossref.org/works/"+encodeURIComponent(doi)+"?mailto=ccl-digest@users.noreply.github.com");
+       const a = j && j.message && j.message.abstract; if(a){ const txt = stripTags(a); if(txt.length>40) res = {text:txt, src:"Crossref（出版方提交）"}; } }
+  catch(e){ netErr++; }
+  if(!res){
+    try{ const j = await fetchJSON("https://api.openalex.org/works/https://doi.org/"+doi+"?select=abstract_inverted_index");
+         const txt = j && fromInverted(j.abstract_inverted_index); if(txt && txt.length>40) res = {text:txt, src:"OpenAlex"}; }
+    catch(e){ netErr++; }
+  }
+  if(res){ store.set(key,res); return res; }
+  return netErr>=2 ? {err:"net"} : {err:"none"};
+}
+async function toggleAbs(btn){
+  const url = btn.dataset.abs, box = [...document.querySelectorAll("[data-absbox]")].find(b=>b.dataset.absbox===url);
+  if(!box) return;
+  const open = !box.classList.contains("open");
+  box.classList.toggle("open", open); btn.setAttribute("aria-expanded", open); btn.textContent = open ? "收起摘要" : "摘要";
+  if(!open || box.dataset.loaded) return;
+  const it = DATA.items.find(x=>x.url===url); if(!it) return;
+  box.innerHTML = '<span class="src">正在获取摘要…</span>';
+  const r = await getAbstract(it);
+  if(r.text){ box.innerHTML = esc(r.text).replace(/\n\n/g,"<br><br>") + `<div class="src">来源：${esc(r.src)} · 摘要版权归原作者 / 出版方</div>`; box.dataset.loaded="1"; }
+  else if(r.err==="net") box.innerHTML = `当前页面无法联网获取摘要。请在 <a href="${PUBLIC_SITE}" target="_blank" rel="noopener">公开站</a> 查看，或 <a href="${esc(it.url)}" target="_blank" rel="noopener">打开出版方页面</a>。`;
+  else { box.innerHTML = `出版方没有公开这篇的摘要。可以 <a href="${esc(it.url)}" target="_blank" rel="noopener">打开出版方页面</a> 查看。`; box.dataset.loaded="1"; }
+}
+
 function cite(it){
   const y = (it.date||"").slice(0,4);
   const au = it.authors && it.authors!=="—" ? it.authors : "佚名";
@@ -244,11 +292,13 @@ function card(it){
     <div>${isNew(it)?'<span class="badge">新</span>':''}${it.core?'<span class="star" title="核心">★</span>':''}<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
     <div class="acts">
       <button class="ib fav" data-fav="${esc(it.url)}" aria-pressed="${fav}" aria-label="收藏">${fav?"♥ 已收藏":"♡ 收藏"}</button>
+      <button class="ib absb" data-abs="${esc(it.url)}" aria-expanded="false">摘要</button>
       <button class="ib" data-cite="${esc(it.url)}">复制引用</button>
     </div>
     <div class="meta">${esc(it.authors||"—")} · <i>${esc(it.venue)}</i> <span class="cat">${esc(CATS[it.cat]||it.cat)}</span></div>
     ${it.note?`<div class="meta">${esc(it.note)}</div>`:""}
     <div class="tags">${(it.tags||[]).map(t=>`<button class="tag" data-tag="${esc(t)}">${esc(t)}</button>`).join("")}</div>
+    <div class="abs" data-absbox="${esc(it.url)}"></div>
   </div>`;
 }
 
@@ -295,7 +345,8 @@ $("clearBtn").addEventListener("click",()=>{
   Object.assign(S,{cat:"all",core:false,fav:false,onlyNew:false,q:""}); $("q").value="";
   ["coreOnly","favOnly","newOnly"].forEach(id=>$(id).setAttribute("aria-pressed","false")); syncHash(); rerender(); });
 $("list").addEventListener("click",e=>{
-  const f=e.target.closest("[data-fav]"), c=e.target.closest("[data-cite]"), t=e.target.closest("[data-tag]");
+  const f=e.target.closest("[data-fav]"), c=e.target.closest("[data-cite]"), t=e.target.closest("[data-tag]"), a=e.target.closest("[data-abs]");
+  if(a){ toggleAbs(a); return; }
   if(f){ const u=f.dataset.fav; FAVS.has(u)?FAVS.delete(u):FAVS.add(u); store.set("ccl_favs",[...FAVS]);
     const on=FAVS.has(u); f.setAttribute("aria-pressed",on); f.textContent=on?"♥ 已收藏":"♡ 收藏"; $("favN").textContent=FAVS.size?`(${FAVS.size})`:"";
     toast(on?"已收藏（保存在本浏览器）":"已取消收藏"); if(S.fav) rerender(false); }
