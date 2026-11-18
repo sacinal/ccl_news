@@ -4,125 +4,342 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>批评认知语言学 文献速递</title>
+<meta name="description" content="批评认知语言学、批评隐喻分析、多模态隐喻与认知话语研究的每日文献速递，收录近一年新发表的论文、书章与书评。">
+<meta property="og:title" content="批评认知语言学 文献速递">
+<meta property="og:description" content="每日自动更新的批评认知语言学 / 隐喻研究文献列表，可按类别、时间筛选和搜索。">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#8a3b2e">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%238a3b2e'/%3E%3Ctext x='32' y='43' font-size='30' text-anchor='middle' fill='white' font-family='sans-serif'%3E%E5%96%BB%3C/text%3E%3C/svg%3E">
+<link rel="alternate" type="application/rss+xml" title="批评认知语言学 文献速递" href="feed.xml">
 <style>
-  :root{--bg:#f7f6f2;--card:#fff;--ink:#1d2327;--mute:#6b7378;--line:#e3e1da;--acc:#8a3b2e;--acc2:#f6ebe7;--star:#c47f00}
-  @media (prefers-color-scheme:dark){:root{--bg:#15181a;--card:#1d2124;--ink:#e6e8e9;--mute:#9aa3a8;--line:#2d3236;--acc:#e48f7c;--acc2:#2e2220;--star:#f0b23a}}
+  :root{--bg:#f7f6f2;--card:#fff;--ink:#1d2327;--mute:#6b7378;--line:#e3e1da;--acc:#8a3b2e;--acc2:#f6ebe7;--star:#c47f00;--heart:#c2185b;--new:#1f7a4d}
+  @media (prefers-color-scheme:dark){:root{--bg:#15181a;--card:#1d2124;--ink:#e6e8e9;--mute:#9aa3a8;--line:#2d3236;--acc:#e48f7c;--acc2:#2e2220;--star:#f0b23a;--heart:#f06292;--new:#5fd39a}}
   *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
-  .wrap{max-width:900px;margin:0 auto;padding:28px 18px 60px}
-  h1{font-size:22px;margin:0 0 4px}
-  .sub{color:var(--mute);font-size:13px;margin-bottom:18px}
-  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+  html{scroll-behavior:smooth}
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+  a{color:inherit}
+  button{font:inherit;color:inherit}
+  :focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+  .wrap{max-width:920px;margin:0 auto;padding:28px 18px 80px}
+  header h1{font-size:23px;margin:0 0 4px;letter-spacing:.01em}
+  .sub{color:var(--mute);font-size:13px}
+  .sub b{color:var(--ink);font-weight:600}
+  .links{display:flex;flex-wrap:wrap;gap:14px;margin:8px 0 18px;font-size:13px}
+  .links button,.links a{background:none;border:0;padding:0;color:var(--acc);cursor:pointer;text-decoration:none}
+  .links button:hover,.links a:hover{text-decoration:underline}
+  .about{display:none;background:var(--card);border:1px solid var(--line);border-radius:11px;padding:14px 16px;margin:-6px 0 18px;font-size:14px;color:var(--ink)}
+  .about.open{display:block}
+  .about p{margin:6px 0}
+  .about ul{margin:6px 0;padding-left:20px}
+  .panel{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 8px;border-bottom:1px solid var(--line);margin-bottom:6px}
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:8px}
+  .bar:last-child{margin-bottom:0}
   .seg{display:inline-flex;border:1px solid var(--line);border-radius:9px;overflow:hidden;background:var(--card)}
-  .seg button{border:0;background:none;color:var(--ink);padding:7px 13px;font:inherit;font-size:14px;cursor:pointer}
-  .seg button.on{background:var(--acc);color:#fff}
-  .chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;cursor:pointer}
-  .chip.on{background:var(--acc2);border-color:var(--acc);color:var(--acc);font-weight:600}
-  input[type=search]{flex:1;min-width:180px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:9px;padding:7px 11px;font:inherit}
-  label.core{font-size:13px;color:var(--mute);display:flex;gap:5px;align-items:center;cursor:pointer}
-  .count{color:var(--mute);font-size:13px;margin:14px 0 6px}
-  .day{font-size:13px;font-weight:600;color:var(--mute);margin:22px 0 8px;letter-spacing:.02em}
-  .item{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:12px 15px;margin-bottom:8px}
-  .item a.t{color:var(--ink);text-decoration:none;font-weight:600}
-  .item a.t:hover{color:var(--acc);text-decoration:underline}
-  .meta{color:var(--mute);font-size:13px;margin-top:3px}
-  .tags{margin-top:6px;display:flex;flex-wrap:wrap;gap:5px}
-  .tag{font-size:12px;background:var(--acc2);color:var(--acc);border-radius:5px;padding:1px 7px}
-  .cat{font-size:12px;border:1px solid var(--line);border-radius:5px;padding:0 6px;color:var(--mute)}
+  .seg button{border:0;background:none;padding:6px 12px;font-size:14px;cursor:pointer}
+  .seg button[aria-pressed=true]{background:var(--acc);color:#fff}
+  .chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;padding-bottom:2px}
+  .chip{flex:0 0 auto;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 11px;font-size:13px;cursor:pointer;white-space:nowrap}
+  .chip .n{color:var(--mute);font-size:12px;margin-left:3px}
+  .chip[aria-pressed=true]{background:var(--acc2);border-color:var(--acc);color:var(--acc);font-weight:600}
+  .chip[aria-pressed=true] .n{color:var(--acc)}
+  .tog{border:1px solid var(--line);background:var(--card);border-radius:9px;padding:6px 11px;font-size:13px;cursor:pointer}
+  .tog[aria-pressed=true]{border-color:var(--acc);color:var(--acc);background:var(--acc2);font-weight:600}
+  input[type=search]{flex:1;min-width:170px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:9px;padding:7px 11px;font:inherit;font-size:14px}
+  select{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:9px;padding:6px 8px;font:inherit;font-size:13px}
+  .count{color:var(--mute);font-size:13px;margin:12px 0 4px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:center}
+  .count button{background:none;border:0;color:var(--acc);cursor:pointer;font-size:13px;padding:0}
+  .day{font-size:13px;font-weight:600;color:var(--mute);margin:20px 0 8px;letter-spacing:.02em}
+  .item{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:12px 14px;margin-bottom:8px;display:grid;grid-template-columns:1fr auto;gap:4px 10px}
+  .item .t{font-weight:600;text-decoration:none;line-height:1.45}
+  .item .t:hover{color:var(--acc);text-decoration:underline}
+  .meta{color:var(--mute);font-size:13px;margin-top:2px;grid-column:1/2}
+  .meta i{font-style:italic}
+  .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px;grid-column:1/2}
+  .tag{font-size:12px;background:var(--acc2);color:var(--acc);border-radius:5px;padding:1px 7px;border:0;cursor:pointer}
+  .cat{font-size:12px;border:1px solid var(--line);border-radius:5px;padding:0 6px;color:var(--mute);white-space:nowrap}
   .star{color:var(--star);font-weight:700;margin-right:4px}
-  .empty{color:var(--mute);padding:30px 0;text-align:center}
-  .foot{color:var(--mute);font-size:12px;margin-top:30px;border-top:1px solid var(--line);padding-top:12px}
+  .badge{font-size:11px;font-weight:700;color:#fff;background:var(--new);border-radius:4px;padding:0 5px;margin-right:5px;vertical-align:2px}
+  .acts{grid-row:1/4;grid-column:2/3;display:flex;flex-direction:column;gap:4px;align-items:flex-end}
+  .ib{border:1px solid var(--line);background:none;border-radius:7px;font-size:12px;padding:2px 7px;cursor:pointer;color:var(--mute);white-space:nowrap}
+  .ib:hover{color:var(--acc);border-color:var(--acc)}
+  .ib.fav[aria-pressed=true]{color:var(--heart);border-color:var(--heart)}
+  .more{display:block;margin:16px auto;border:1px solid var(--line);background:var(--card);border-radius:9px;padding:8px 22px;cursor:pointer}
+  .empty{color:var(--mute);padding:36px 0;text-align:center}
+  .foot{color:var(--mute);font-size:12px;margin-top:36px;border-top:1px solid var(--line);padding-top:12px}
+  .foot a{color:var(--acc)}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:8px 16px;border-radius:8px;font-size:14px;opacity:0;pointer-events:none;transition:opacity .2s}
+  .toast.show{opacity:.95}
+  .top{position:fixed;right:18px;bottom:22px;border:1px solid var(--line);background:var(--card);border-radius:50%;width:40px;height:40px;cursor:pointer;display:none;font-size:18px}
+  .top.show{display:block}
+  .modal{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;z-index:20;padding:16px}
+  .modal.open{display:flex}
+  .box{background:var(--card);border-radius:12px;padding:16px;width:min(720px,100%);max-height:90vh;display:flex;flex-direction:column;gap:10px}
+  .box h2{font-size:16px;margin:0}
+  .box textarea{width:100%;flex:1;min-height:260px;font:12px/1.5 ui-monospace,Menlo,Consolas,monospace;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px}
+  .box .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .box .row .sp{flex:1}
+  .btn{border:1px solid var(--acc);background:var(--acc);color:#fff;border-radius:8px;padding:6px 14px;cursor:pointer;font-size:14px}
+  .btn.ghost{background:none;color:var(--acc)}
+  @media (max-width:600px){
+    .wrap{padding:18px 12px 80px}
+    .panel{position:static}
+    .item{display:flex;flex-direction:column}
+    .acts{order:9;flex-direction:row;justify-content:flex-start;margin-top:8px}
+  }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>批评认知语言学 · 文献速递</h1>
-  <div class="sub" id="sub">加载中…</div>
-
-  <div class="bar">
-    <div class="seg" id="range">
-      <button data-d="7">本周</button>
-      <button data-d="30">近30天</button>
-      <button data-d="182" class="on">近半年</button>
-      <button data-d="0">全部</button>
+  <header>
+    <h1>批评认知语言学 · 文献速递</h1>
+    <div class="sub" id="sub">加载中…</div>
+    <nav class="links">
+      <button id="aboutBtn" aria-expanded="false">关于本站</button>
+      <button id="exportBtn">导出当前列表</button>
+      <a id="rssLink" href="feed.xml" hidden>RSS 订阅</a>
+      <a id="fbLink" href="https://github.com/sacinal/ccl_news/issues" target="_blank" rel="noopener">反馈 / 纠错</a>
+    </nav>
+    <div class="about" id="about">
+      <p><b>这是什么：</b>批评认知语言学（认知取向的批评话语分析）及相关隐喻研究的文献速递。每天早上自动检索 Crossref，把新注册 DOI 的论文、书章、书评整理到这里，保留近一年。</p>
+      <p><b>收录范围：</b>这个方向文献少，所以标准偏宽：</p>
+      <ul>
+        <li>核心：识解、近化理论、认知语法 / 力动态视角的意识形态分析，批评隐喻分析；</li>
+        <li>扩展：各类话语中的隐喻与框架、多模态隐喻、框架实验与计算隐喻研究；</li>
+        <li>外围：一般概念隐喻研究（词汇、习语、文学、歌词等）和相邻的 CDA 研究。质量不设门槛。</li>
+      </ul>
+      <p><b>★ 核心</b>指批评认知语言学核心路线的研究，或主流期刊里的批评 / 政治隐喻研究，以及 Hart、Cap、Musolff、Charteris-Black、Koller、Semino 等人的新作。</p>
+      <p><b>使用小技巧：</b>点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；绿色「新」表示上次访问之后新收录的条目。</p>
+      <p><b>局限：</b>类别和标签由程序根据标题自动判断，可能有误；没有 DOI 的文献（包括大部分知网中文期刊）检索不到。发现错误欢迎点「反馈 / 纠错」。</p>
     </div>
-    <label class="core"><input type="checkbox" id="coreOnly"> ★ 只看核心</label>
+  </header>
+
+  <div class="panel">
+    <div class="bar">
+      <div class="seg" id="range" role="group" aria-label="时间范围">
+        <button data-d="7" aria-pressed="false">本周</button>
+        <button data-d="30" aria-pressed="false">近30天</button>
+        <button data-d="182" aria-pressed="true">近半年</button>
+        <button data-d="0" aria-pressed="false">全部</button>
+      </div>
+      <button class="tog" id="coreOnly" aria-pressed="false">★ 只看核心</button>
+      <button class="tog" id="favOnly" aria-pressed="false">♥ 我的收藏 <span id="favN"></span></button>
+      <button class="tog" id="newOnly" aria-pressed="false" hidden>新收录</button>
+    </div>
+    <div class="bar"><div class="chips" id="cats" role="group" aria-label="类别"></div></div>
+    <div class="bar">
+      <input type="search" id="q" placeholder="搜索标题 / 作者 / 期刊 / 标签，如 近化、Hart、移民、多模态" aria-label="搜索">
+      <select id="sort" aria-label="排序">
+        <option value="date">按日期（新→旧）</option>
+        <option value="core">核心优先</option>
+        <option value="venue">按期刊名</option>
+      </select>
+    </div>
   </div>
-  <div class="bar" id="cats"></div>
-  <div class="bar"><input type="search" id="q" placeholder="搜索标题 / 期刊 / 标签，如 近化、识解、移民、多模态、Hart"></div>
 
-  <div class="count" id="count"></div>
+  <div class="count"><span id="count"></span><button id="clearBtn" hidden>清除筛选</button></div>
   <div id="list"></div>
+  <button class="more" id="moreBtn" hidden>加载更多</button>
 
-  <div class="foot">
-    每天早上由定时任务自动检索 Crossref（John Benjamins、Taylor &amp; Francis、SAGE、De Gruyter、Elsevier、Cambridge、Bloomsbury、Springer、ACL Anthology 等），筛选后更新本页。这个方向文献少，收录标准偏宽：批评认知语言学本身之外，批评隐喻分析、多模态隐喻、框架实验、计算隐喻相邻的 CDA 研究，以及各语种期刊里的一般概念隐喻研究（词汇、习语、文学、歌词等，归在「一般隐喻·词汇·文学」）都收，质量不设门槛。日期为 DOI 注册日期。★ = 批评认知语言学核心（识解、近化、认知语法/力动态视角的意识形态分析，或高质量期刊里的批评隐喻研究）。
+  <footer class="foot">
+    数据来源：Crossref（John Benjamins、Taylor &amp; Francis、SAGE、De Gruyter、Elsevier、Cambridge、Bloomsbury、Springer、ACL Anthology 等），每天早上自动更新。日期为 DOI 注册日期，可能晚于或早于正式出版日期。条目信息以出版方页面为准。
+    <span id="footUp"></span>
+  </footer>
+</div>
+
+<button class="top" id="topBtn" aria-label="回到顶部">↑</button>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+  <div class="box">
+    <h2 id="mTitle">导出当前列表</h2>
+    <div class="row">
+      <div class="seg" id="fmt" role="group" aria-label="格式">
+        <button data-f="txt" aria-pressed="true">参考文献</button>
+        <button data-f="bib" aria-pressed="false">BibTeX</button>
+        <button data-f="csv" aria-pressed="false">CSV</button>
+      </div>
+      <span class="sp"></span>
+      <span class="sub" id="mCount"></span>
+    </div>
+    <textarea id="mText" readonly aria-label="导出内容"></textarea>
+    <div class="row">
+      <span class="sp"></span>
+      <button class="btn ghost" id="mClose">关闭</button>
+      <button class="btn ghost" id="mDl">下载文件</button>
+      <button class="btn" id="mCopy">复制全部</button>
+    </div>
   </div>
 </div>
 
 <script>
 const CATS = {all:"全部", cda:"认知CDA·识解·近化", metaphor:"批评隐喻·框架", multi:"多模态", exp:"实验·计算", lex:"一般隐喻·词汇·文学", theory:"理论·综述·书评", adj:"相邻话语研究"};
-let DATA = {items:[]}, days = 182, cat = "all", coreOnly = false, q = "";
+const PAGE = 40;
+const S = {days:182, cat:"all", core:false, fav:false, onlyNew:false, q:"", sort:"date", shown:PAGE};
+let DATA = {items:[]}, FAVS = new Set(), PREV = "", VIEW = [];
+const $ = id => document.getElementById(id);
 
-function todayNY(){
-  try{ return new Intl.DateTimeFormat("en-CA",{timeZone:"America/New_York"}).format(new Date()); }
-  catch(e){ return new Date().toISOString().slice(0,10); }
-}
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v===null ? d : JSON.parse(v); }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+};
+function todayNY(){ try{ return new Intl.DateTimeFormat("en-CA",{timeZone:"America/New_York"}).format(new Date()); }catch(e){ return new Date().toISOString().slice(0,10); } }
 function addDays(s,n){ const d=new Date(s+"T12:00:00Z"); d.setUTCDate(d.getUTCDate()+n); return d.toISOString().slice(0,10); }
-function esc(s){ return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function esc(s){ return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function doiOf(it){ return (it.url||"").replace(/^https?:\/\/(dx\.)?doi\.org\//i,""); }
+function addedOf(it){ return it.added || it.date; }
+function isNew(it){ return PREV && addedOf(it) > PREV; }
+function toast(msg){ const t=$("toast"); t.textContent=msg; t.classList.add("show"); clearTimeout(toast._t); toast._t=setTimeout(()=>t.classList.remove("show"),1800); }
+async function copyText(s){
+  try{ await navigator.clipboard.writeText(s); toast("已复制"); return true; }
+  catch(e){ toast("浏览器不允许自动复制，请手动选择复制"); return false; }
+}
 
-function renderCats(){
-  const el=document.getElementById("cats"); el.innerHTML="";
-  for(const [k,v] of Object.entries(CATS)){
-    const b=document.createElement("button"); b.className="chip"+(k===cat?" on":""); b.textContent=v;
-    b.onclick=()=>{cat=k; renderCats(); render();}; el.appendChild(b);
-  }
+function cite(it){
+  const y = (it.date||"").slice(0,4);
+  const au = it.authors && it.authors!=="—" ? it.authors : "佚名";
+  return `${au} (${y}). ${it.title}. ${it.venue}. ${it.url}`;
+}
+function bibKey(it,i){ const a=(it.authors||"anon").split(/[ ,]/)[0].replace(/[^A-Za-z]/g,"")||"item"; return a.toLowerCase()+(it.date||"").slice(0,4)+"_"+(i+1); }
+function bib(it,i){
+  const isCh = /\(|book|Handbook|Encyclopedia|文集/.test(it.venue) && !/Journal|Review|Quarterly/.test(it.venue);
+  const f = s => String(s).replace(/[{}]/g,"");
+  return `@${isCh?"incollection":"article"}{${bibKey(it,i)},\n  author = {${f(it.authors||"")}},\n  title = {${f(it.title)}},\n  ${isCh?"booktitle":"journal"} = {${f(it.venue)}},\n  year = {${(it.date||"").slice(0,4)}},\n  doi = {${doiOf(it)}}\n}`;
+}
+function csvCell(s){ s=String(s??""); return /[",\n]/.test(s) ? '"'+s.replace(/"/g,'""')+'"' : s; }
+function exportText(fmt){
+  if(fmt==="bib") return VIEW.map(bib).join("\n\n");
+  if(fmt==="csv") return ["date,authors,title,venue,doi,category,core,tags"].concat(VIEW.map(it=>[it.date,it.authors,it.title,it.venue,doiOf(it),CATS[it.cat]||it.cat,it.core?"Y":"",(it.tags||[]).join("; ")].map(csvCell).join(","))).join("\n");
+  return VIEW.map((it,i)=>`[${i+1}] `+cite(it)).join("\n");
+}
+
+function base(){
+  const from = S.days===0 ? "0000" : addDays(todayNY(), -(S.days-1));
+  const q = S.q;
+  return DATA.items.filter(it=>{
+    if(it.date < from) return false;
+    if(S.core && !it.core) return false;
+    if(S.fav && !FAVS.has(it.url)) return false;
+    if(S.onlyNew && !isNew(it)) return false;
+    if(q){ const hay=(it.title+" "+it.venue+" "+(it.tags||[]).join(" ")+" "+(it.authors||"")+" "+doiOf(it)).toLowerCase(); if(!q.split(/\s+/).every(w=>hay.includes(w))) return false; }
+    return true;
+  });
+}
+
+function renderCats(pool){
+  const n = {all:pool.length}; for(const it of pool) n[it.cat]=(n[it.cat]||0)+1;
+  $("cats").innerHTML = Object.entries(CATS).map(([k,v])=>
+    `<button class="chip" data-k="${k}" aria-pressed="${k===S.cat}">${esc(v)}<span class="n">${n[k]||0}</span></button>`).join("");
+}
+
+function sortItems(a){
+  if(S.sort==="core") a.sort((x,y)=>(y.core?1:0)-(x.core?1:0) || y.date.localeCompare(x.date));
+  else if(S.sort==="venue") a.sort((x,y)=>x.venue.localeCompare(y.venue) || y.date.localeCompare(x.date));
+  else a.sort((x,y)=> y.date.localeCompare(x.date) || (y.core?1:0)-(x.core?1:0));
+  return a;
+}
+
+function card(it){
+  const fav = FAVS.has(it.url);
+  return `<div class="item">
+    <div>${isNew(it)?'<span class="badge">新</span>':''}${it.core?'<span class="star" title="核心">★</span>':''}<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+    <div class="acts">
+      <button class="ib fav" data-fav="${esc(it.url)}" aria-pressed="${fav}" aria-label="收藏">${fav?"♥ 已收藏":"♡ 收藏"}</button>
+      <button class="ib" data-cite="${esc(it.url)}">复制引用</button>
+    </div>
+    <div class="meta">${esc(it.authors||"—")} · <i>${esc(it.venue)}</i> <span class="cat">${esc(CATS[it.cat]||it.cat)}</span></div>
+    ${it.note?`<div class="meta">${esc(it.note)}</div>`:""}
+    <div class="tags">${(it.tags||[]).map(t=>`<button class="tag" data-tag="${esc(t)}">${esc(t)}</button>`).join("")}</div>
+  </div>`;
 }
 
 function render(){
-  const today=todayNY();
-  const from = days===0 ? "0000" : addDays(today, -(days-1));
-  let items = DATA.items.filter(it=>{
-    if(it.date < from) return false;
-    if(cat!=="all" && it.cat!==cat) return false;
-    if(coreOnly && !it.core) return false;
-    if(q){ const hay=(it.title+" "+it.venue+" "+(it.tags||[]).join(" ")+" "+it.authors).toLowerCase(); if(!hay.includes(q)) return false; }
-    return true;
-  });
-  items.sort((a,b)=> b.date.localeCompare(a.date) || (b.core?1:0)-(a.core?1:0));
-  document.getElementById("count").textContent = `${items.length} 篇`;
-  const list=document.getElementById("list");
-  if(!items.length){
-    list.innerHTML = `<div class="empty">没有符合条件的文献，试试放宽时间范围</div>`;
-    return;
+  const pool = base();
+  renderCats(pool);
+  VIEW = sortItems(S.cat==="all" ? pool.slice() : pool.filter(it=>it.cat===S.cat));
+  const filtered = S.cat!=="all"||S.core||S.fav||S.onlyNew||S.q;
+  $("count").textContent = `${VIEW.length} 篇` + (VIEW.length>S.shown?`，已显示 ${S.shown}`:"");
+  $("clearBtn").hidden = !filtered;
+  $("favN").textContent = FAVS.size ? `(${FAVS.size})` : "";
+  const list = $("list");
+  if(!VIEW.length){
+    list.innerHTML = `<div class="empty">${S.fav&&!FAVS.size?"还没有收藏。点条目右侧的「♡ 收藏」就会出现在这里。":"没有符合条件的文献，试试放宽时间范围或清除筛选。"}</div>`;
+    $("moreBtn").hidden = true; return;
   }
   let html="", cur="";
-  for(const it of items){
-    if(it.date!==cur){ cur=it.date; html+=`<div class="day">${cur}</div>`; }
-    html+=`<div class="item">
-      <div>${it.core?'<span class="star">★</span>':''}<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
-      <div class="meta">${esc(it.authors||"")} · <i>${esc(it.venue)}</i> <span class="cat">${esc(CATS[it.cat]||it.cat)}</span></div>
-      ${(it.note?`<div class="meta">${esc(it.note)}</div>`:"")}
-      <div class="tags">${(it.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join("")}</div>
-    </div>`;
+  for(const it of VIEW.slice(0,S.shown)){
+    if(S.sort==="date" && it.date!==cur){ cur=it.date; html+=`<div class="day">${cur}</div>`; }
+    html+=card(it);
   }
-  list.innerHTML=html;
+  list.innerHTML = html;
+  $("moreBtn").hidden = VIEW.length<=S.shown;
+  $("moreBtn").textContent = `加载更多（还有 ${VIEW.length-S.shown} 篇）`;
 }
+function rerender(resetPage=true){ if(resetPage) S.shown=PAGE; render(); }
 
-document.querySelectorAll("#range button").forEach(b=>b.onclick=()=>{
-  document.querySelectorAll("#range button").forEach(x=>x.classList.remove("on"));
-  b.classList.add("on"); days=+b.dataset.d; render();
+function syncHash(){
+  const h = S.cat!=="all" ? S.cat : "";
+  try{ if(("#"+h)!==location.hash && !(h===""&&location.hash==="")) history.replaceState(null,"",h?"#"+h:location.pathname+location.search); }catch(e){}
+}
+function readHash(){ const h=(location.hash||"").slice(1); if(CATS[h]) S.cat=h; }
+
+// events
+$("range").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
+  $("range").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b)); S.days=+b.dataset.d; rerender(); });
+$("cats").addEventListener("click",e=>{ const b=e.target.closest(".chip"); if(!b) return; S.cat=b.dataset.k; syncHash(); rerender(); });
+for(const [id,key] of [["coreOnly","core"],["favOnly","fav"],["newOnly","onlyNew"]])
+  $(id).addEventListener("click",()=>{ S[key]=!S[key]; $(id).setAttribute("aria-pressed",S[key]); rerender(); });
+let qt; $("q").addEventListener("input",e=>{ clearTimeout(qt); qt=setTimeout(()=>{ S.q=e.target.value.trim().toLowerCase(); rerender(); },150); });
+$("sort").addEventListener("change",e=>{ S.sort=e.target.value; rerender(); });
+$("moreBtn").addEventListener("click",()=>{ S.shown+=PAGE; render(); });
+$("clearBtn").addEventListener("click",()=>{
+  Object.assign(S,{cat:"all",core:false,fav:false,onlyNew:false,q:""}); $("q").value="";
+  ["coreOnly","favOnly","newOnly"].forEach(id=>$(id).setAttribute("aria-pressed","false")); syncHash(); rerender(); });
+$("list").addEventListener("click",e=>{
+  const f=e.target.closest("[data-fav]"), c=e.target.closest("[data-cite]"), t=e.target.closest("[data-tag]");
+  if(f){ const u=f.dataset.fav; FAVS.has(u)?FAVS.delete(u):FAVS.add(u); store.set("ccl_favs",[...FAVS]);
+    const on=FAVS.has(u); f.setAttribute("aria-pressed",on); f.textContent=on?"♥ 已收藏":"♡ 收藏"; $("favN").textContent=FAVS.size?`(${FAVS.size})`:"";
+    toast(on?"已收藏（保存在本浏览器）":"已取消收藏"); if(S.fav) rerender(false); }
+  else if(c){ const it=DATA.items.find(x=>x.url===c.dataset.cite); if(it) copyText(cite(it)); }
+  else if(t){ $("q").value=t.dataset.tag; S.q=t.dataset.tag.toLowerCase(); rerender(); window.scrollTo({top:$("list").offsetTop-160}); }
 });
-document.getElementById("coreOnly").onchange=e=>{coreOnly=e.target.checked; render();};
-document.getElementById("q").oninput=e=>{q=e.target.value.trim().toLowerCase(); render();};
+$("aboutBtn").addEventListener("click",()=>{ const o=$("about").classList.toggle("open"); $("aboutBtn").setAttribute("aria-expanded",o); });
+let FMT="txt";
+function fillModal(){ $("mText").value=exportText(FMT); $("mCount").textContent=`${VIEW.length} 条（按当前筛选）`; }
+$("exportBtn").addEventListener("click",()=>{ fillModal(); $("modal").classList.add("open"); });
+$("fmt").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return; FMT=b.dataset.f;
+  $("fmt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b)); fillModal(); });
+$("mClose").addEventListener("click",()=>$("modal").classList.remove("open"));
+$("modal").addEventListener("click",e=>{ if(e.target===$("modal")) $("modal").classList.remove("open"); });
+document.addEventListener("keydown",e=>{ if(e.key==="Escape") $("modal").classList.remove("open"); });
+$("mCopy").addEventListener("click",()=>copyText($("mText").value));
+$("mDl").addEventListener("click",()=>{
+  try{ const ext={txt:"txt",bib:"bib",csv:"csv"}[FMT];
+    const blob=new Blob([(FMT==="csv"?"﻿":"")+$("mText").value],{type:"text/plain;charset=utf-8"});
+    const a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download=`ccl_digest_${todayNY()}.${ext}`;
+    document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(a.href),2000);
+    toast("如果没有开始下载，请改用「复制全部」");
+  }catch(e){ toast("这里不支持下载，请用「复制全部」"); }
+});
+window.addEventListener("scroll",()=>$("topBtn").classList.toggle("show",window.scrollY>800),{passive:true});
+$("topBtn").addEventListener("click",()=>window.scrollTo({top:0}));
+window.addEventListener("hashchange",()=>{ readHash(); rerender(); });
 
-fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
+// boot
+FAVS = new Set(store.get("ccl_favs",[]));
+PREV = store.get("ccl_last_visit","");
+readHash();
+if(/github\.io$/.test(location.hostname)) $("rssLink").hidden=false;
+fetch("data.json",{cache:"no-store"}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{
   DATA=d;
-  const up = (d.updated||"").replace("T"," ").slice(0,16);
-  document.getElementById("sub").textContent = `最近更新：${up}（美东）· 共收录 ${d.items.length} 篇` + (d.window_note?` · ${d.window_note}`:"");
-  renderCats(); render();
-}).catch(()=>{ document.getElementById("sub").textContent="数据加载失败"; });
+  const up=(d.updated||"").replace("T"," ").slice(0,16);
+  const nNew = PREV ? d.items.filter(isNew).length : 0;
+  $("sub").innerHTML = `最近更新 <b>${esc(up)}</b>（美东）· 共 <b>${d.items.length}</b> 篇 · ★核心 ${d.items.filter(i=>i.core).length} 篇` + (nNew?` · 上次访问后新增 <b>${nNew}</b> 篇`:"");
+  $("footUp").textContent = d.window_note ? `（${d.window_note}）` : "";
+  if(nNew){ $("newOnly").hidden=false; $("newOnly").textContent=`新收录 ${nNew}`; }
+  const latest = d.items.reduce((m,i)=>addedOf(i)>m?addedOf(i):m,"");
+  store.set("ccl_last_visit", latest || todayNY());
+  rerender();
+}).catch(()=>{ $("sub").textContent="数据加载失败，请刷新重试。"; $("list").innerHTML='<div class="empty">数据加载失败。若持续出现，请点「反馈 / 纠错」告诉我们。</div>'; });
 </script>
 </body>
 </html>
-
-</body></html>
