@@ -93,16 +93,11 @@
   .btn{border:1px solid var(--acc);background:var(--acc);color:#fff;border-radius:8px;padding:6px 14px;cursor:pointer;font-size:14px}
   .btn.ghost{background:none;color:var(--acc)}
   header{position:relative}
-  .gap{position:absolute;top:-6px;right:0;max-width:300px;display:flex;gap:10px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 12px;box-shadow:0 2px 10px rgba(0,0,0,.06);animation:pop .5s ease-out}
-  .gap .emo{font-size:38px;line-height:1;flex:0 0 auto;animation:wob 2.4s ease-in-out 0.5s 2}
-  .gap .gt{font-weight:700;font-size:14px;line-height:1.4}
-  .gap .gs{color:var(--mute);font-size:12px;margin-top:2px;line-height:1.45}
-  .gap.warn{border-color:var(--star)}
-  .gap.bad{border-color:var(--heart)}
-  @keyframes pop{from{transform:scale(.85);opacity:0}to{transform:none;opacity:1}}
-  @keyframes wob{0%,100%{transform:rotate(0)}25%{transform:rotate(-12deg)}75%{transform:rotate(12deg)}}
-  @media (prefers-reduced-motion:reduce){.gap,.gap .emo{animation:none}}
-  @media (min-width:601px){header h1,header .sub{padding-right:320px}}
+  .gap{position:absolute;top:0;right:0;max-width:280px;display:flex;gap:8px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+  .gap .emo{font-size:20px;line-height:1;flex:0 0 auto}
+  .gap .gt{font-weight:600;font-size:13px;line-height:1.4}
+  .gap .gs{color:var(--mute);font-size:12px;line-height:1.45}
+  @media (min-width:601px){header h1,header .sub{padding-right:300px}}
   @media (max-width:600px){
     .gap{position:static;max-width:none;margin:0 0 12px}
     .wrap{padding:18px 12px 80px}
@@ -432,7 +427,6 @@ FAVS = new Set(store.get("ccl_favs",[]));
 PREV = store.get("ccl_last_visit","");
 const LAST_OPEN = store.get("ccl_last_open", 0), NOW = Date.now();
 store.set("ccl_last_open", NOW);
-function pick(a){ return a[Math.floor(Math.random()*a.length)]; }
 function dur(ms){
   const m=Math.floor(ms/60000), h=Math.floor(m/60), d=Math.floor(h/24);
   if(d>0) return `${d} 天${h%24?` ${h%24} 小时`:""}`;
@@ -441,23 +435,10 @@ function dur(ms){
 }
 function fmtTime(t){ const d=new Date(t), p=n=>String(n).padStart(2,"0"); return `${d.getMonth()+1}月${d.getDate()}日 ${p(d.getHours())}:${p(d.getMinutes())}`; }
 function showGap(nNew){
-  const g=$("gap"); let emo, t, s, cls="";
-  const more = nNew ? `这期间新收录了 ${nNew} 篇。` : "";
-  if(!LAST_OPEN){
-    emo="👋"; t="第一次来？欢迎！"; s="以后我会记着你多久没来，别想偷偷摸鱼。";
-  } else {
-    const ms=NOW-LAST_OPEN, H=ms/3600000, D=H/24, x=dur(ms);
-    s=`上次打开：${fmtTime(LAST_OPEN)}。${more}`;
-    if(H<0.17){ emo=pick(["🤨","👀"]); t=pick([`才过了 ${x}，又回来了？`,`${x}前不是刚来过嘛`]); s+=pick(["是被哪篇摘要勾住了吧。","好学得有点可疑哦。"]); }
-    else if(H<3){ emo=pick(["😊","🥰"]); t=pick([`${x}内二刷，状态在线！`,`隔了 ${x}就回来，好学生`]); s+="今天这个劲头保持住。"; }
-    else if(D<1){ emo=pick(["👍","😌"]); t=pick([`距上次 ${x}，节奏很稳`,`今天也来报到了，${x}没见`]); s+="每天看一眼就是胜利。"; }
-    else if(D<3){ emo=pick(["🙂","🧐"]); t=`${x}没来了`; s+=pick(["还记得近化理论是哪三种吗？","识解还没忘吧？今天补一篇。"]); cls=""; }
-    else if(D<7){ emo=pick(["😐","🫠"]); t=`整整 ${x}没打开了……`; s+=pick(["文献不会自己读完的。","说好的每天看一眼呢？"]); cls="warn"; }
-    else if(D<30){ emo=pick(["😠","😤"]); t=`${x}！你去哪了？`; s+=pick(["一周多不看文献，论文会自己长出来吗？","我要去告状了。"]); cls="bad"; }
-    else { emo=pick(["😭","🥲"]); t=`${x}了……还以为你不学了`; s+="回来就好，从 ★核心 那几篇开始吧。"; cls="bad"; }
-  }
-  $("gapEmo").textContent=emo; $("gapT").textContent=t; $("gapS").textContent=s;
-  g.className="gap "+cls; g.hidden=false;
+  let t, sub;
+  if(!LAST_OPEN){ t="首次打开"; sub="之后会在这里显示距上次打开的时间。"; }
+  else { t=`距上次打开 ${dur(NOW-LAST_OPEN)}`; sub=`上次打开：${fmtTime(LAST_OPEN)}`+(nNew?` · 期间新收录 ${nNew} 篇`:""); }
+  $("gapEmo").textContent="🕒"; $("gapT").textContent=t; $("gapS").textContent=sub; $("gap").hidden=false;
 }
 readHash();
 const OWN_HOST = /github\.io$/.test(location.hostname) || location.protocol==="file:" || /^(localhost|127\.)/.test(location.hostname);
