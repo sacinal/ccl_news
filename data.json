@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:18:56-05:00",
+ "updated": "2026-11-19T07:59:52-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -6928,6 +6928,206 @@
    "tags": [
     "生态话语分析",
     "方法论"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Controlled openness: Conditional belonging and the limits of tolerance in labour's 2024–2025 migration discourse",
+   "authors": "Visser",
+   "venue": "Journal of Language and Politics",
+   "url": "https://doi.org/10.1075/jlp.26011.vis",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "移民话语",
+    "政党话语"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "“When Jews are attacked, it is France that is attacked”: The migration of French state discourse on antisemitism from promise to condolence",
+   "authors": "Sitbon",
+   "venue": "Journal of Language and Politics",
+   "url": "https://doi.org/10.1075/jlp.26078.sit",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "国家话语",
+    "反犹主义"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Mismatching frames in argumentative talk: the misunderstanding–disagreement continuum",
+   "authors": "Spiess",
+   "venue": "Discourse Processes",
+   "url": "https://doi.org/10.1080/0163853x.2026.2750485",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "论辩"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "“Energy Is Our Future”: French Media Discourse, National Identity, and Nuclear Energy Security and Insecurity",
+   "authors": "Schweitzer et al.",
+   "venue": "The Sociological Quarterly",
+   "url": "https://doi.org/10.1080/00380253.2026.2756980",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "国家认同",
+    "能源"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Reporting restitution: a critical discourse analysis of global media coverage about Escape from the British Museum",
+   "authors": "Shi et al.",
+   "venue": "International Journal of Heritage Studies",
+   "url": "https://doi.org/10.1080/13527258.2026.2764696",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "媒体话语",
+    "文化遗产"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "“The Israeli 9/11”: Arab Media Discourse on the October 7 and September 11 Terror Attacks; A Comparative Analysis",
+   "authors": "Sharon",
+   "venue": "The Journal of the Middle East and Africa",
+   "url": "https://doi.org/10.1080/21520844.2026.2716414",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "恐怖主义",
+    "类比"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Stakeholder engagement in the hotel industry: A corpus-assisted study of linguistic devices adopted in CSR reports",
+   "authors": "Ruffolo et al.",
+   "venue": "Discourse & Communication",
+   "url": "https://doi.org/10.1177/17504813261497062",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "企业话语",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Faux feminism and caste invisibility: Postfeminist discourse, neoliberal empowerment and the erasure of intersectionality in Indian femvertising",
+   "authors": "Yadav",
+   "venue": "Feminist Theory",
+   "url": "https://doi.org/10.1177/14647001261507558",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "广告",
+    "女性主义话语"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "(In)visible transitions: Constructing alternative narratives of gender transition in multimodal social media posts",
+   "authors": "Jackson",
+   "venue": "Discourse, Context & Media",
+   "url": "https://doi.org/10.1016/j.dcm.2026.101071",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "社交媒体",
+    "性别"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Ecological mediation and the linguistic construction of non-human agency: an ecological discourse analysis of Sundanese palm tapping rituals",
+   "authors": "Rukmanah et al.",
+   "venue": "Language Sciences",
+   "url": "https://doi.org/10.1016/j.langsci.2026.101889",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "生态话语",
+    "施事性"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "They ask us to dance, but never to speak: epistemic injustice and the mediation of Bissu identity in media discourse",
+   "authors": "Irwanto et al.",
+   "venue": "Humanities and Social Sciences Communications",
+   "url": "https://doi.org/10.1057/s41599-026-09194-5",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "身份"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Event categorisation and schematicity in breaking events",
+   "authors": "Cacioli et al.",
+   "venue": "Cognitive Linguistics",
+   "url": "https://doi.org/10.1515/cog-2024-0121",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "事件范畴化",
+    "图式"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Critical analysis of liquid racism in humorous narratives",
+   "authors": "Tsami et al.",
+   "venue": "The European Journal of Humour Research",
+   "url": "https://doi.org/10.7592/ejhr.2026.14.3.1326",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "种族主义",
+    "幽默"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Framing Another's Discourse: A Discursive Analysis of Leo Dias' News Report on Luísa Sonza",
+   "authors": "Machado",
+   "venue": "Bakhtiniana: Revista de Estudos do Discurso",
+   "url": "https://doi.org/10.1590/2176-4573e75466",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "新闻话语"
    ]
   }
  ]
