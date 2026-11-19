@@ -15,6 +15,7 @@
   :root{--bg:#f7f6f2;--card:#fff;--ink:#1d2327;--mute:#6b7378;--line:#e3e1da;--acc:#8a3b2e;--acc2:#f6ebe7;--star:#c47f00;--heart:#c2185b;--new:#1f7a4d}
   @media (prefers-color-scheme:dark){:root{--bg:#15181a;--card:#1d2124;--ink:#e6e8e9;--mute:#9aa3a8;--line:#2d3236;--acc:#e48f7c;--acc2:#2e2220;--star:#f0b23a;--heart:#f06292;--new:#5fd39a}}
   *{box-sizing:border-box}
+  [hidden]{display:none!important}
   html{scroll-behavior:smooth}
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
   body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
@@ -92,6 +93,13 @@
   .box .row .sp{flex:1}
   .btn{border:1px solid var(--acc);background:var(--acc);color:#fff;border-radius:8px;padding:6px 14px;cursor:pointer;font-size:14px}
   .btn.ghost{background:none;color:var(--acc)}
+  .btn.danger{background:#b3261e;border-color:#b3261e}
+  .ib.del:hover{color:#b3261e;border-color:#b3261e}
+  .box.sm{width:min(440px,100%)}
+  .box .ct{font-weight:600;line-height:1.45}
+  .box .cn{color:var(--mute);font-size:13px;margin:0}
+  .trashnote{background:var(--card);border:1px dashed var(--line);border-radius:10px;padding:8px 12px;color:var(--mute);font-size:13px;margin:10px 0 0;display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+  .trashnote button{background:none;border:0;color:var(--acc);cursor:pointer;font-size:13px;padding:0}
   header{position:relative}
   .gap{position:absolute;top:0;right:0;max-width:280px;display:flex;gap:8px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
   .gap .emo{font-size:20px;line-height:1;flex:0 0 auto}
@@ -129,7 +137,7 @@
       </ul>
       <p><b>★ 核心</b>指批评认知语言学核心路线的研究，或主流期刊里的批评 / 政治隐喻研究，以及 Hart、Cap、Musolff、Charteris-Black、Koller、Semino 等人的新作。</p>
       <p><b>期刊标签：</b><span class="jb wos">SSCI</span><span class="jb wos">AHCI</span> 表示被科睿唯安 SSCI / AHCI 收录（核对的是 2025 年 SSCI 名单和 2024 年 10 月 AHCI 名单）；<span class="jb esci">ESCI</span><span class="jb esci">Scopus</span> 来自出版方官网的收录说明；<span class="jb fc">领域重点刊</span> 是本站编辑认定的批评认知语言学 / 隐喻 / 话语研究专业期刊，属于主观判断。没有标签不代表质量差，只是没有被上述索引收录或尚未核实。另有<span class="jb ty">书/书章</span><span class="jb ty">会议</span><span class="jb ty">预印本</span>等标签区分文献类型，预印本未经同行评审。本站不标影响因子：语言学期刊的影响因子普遍偏低且波动大，很多人文期刊也没有影响因子。</p>
-      <p><b>使用小技巧：</b>点「摘要」可以直接展开摘要（来自 Crossref / OpenAlex，部分文献出版方没有公开摘要）；点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；绿色「新」表示上次访问之后新收录的条目。</p>
+      <p><b>使用小技巧：</b>点「摘要」可以直接展开摘要（来自 Crossref / OpenAlex，部分文献出版方没有公开摘要）；点标签可以按标签筛选；♡ 收藏保存在你自己的浏览器里；觉得不相关的可以点「删除」移到回收站（同样只保存在本浏览器，可恢复）；绿色「新」表示上次访问之后新收录的条目。</p>
       <p><b>局限：</b>类别和标签由程序根据标题自动判断，可能有误；没有 DOI 的文献（包括大部分知网中文期刊）检索不到。发现错误欢迎点「反馈 / 纠错」。</p>
     </div>
   </header>
@@ -144,6 +152,7 @@
       </div>
       <button class="tog" id="coreOnly" aria-pressed="false">★ 只看核心</button>
       <button class="tog" id="favOnly" aria-pressed="false">♥ 我的收藏 <span id="favN"></span></button>
+      <button class="tog" id="trashOnly" aria-pressed="false">🗑 回收站 <span id="trashN"></span></button>
       <button class="tog" id="newOnly" aria-pressed="false" hidden>新收录</button>
     </div>
     <div class="bar"><div class="chips" id="cats" role="group" aria-label="类别"></div></div>
@@ -165,6 +174,7 @@
   </div>
 
   <div class="count"><span id="count"></span><button id="clearBtn" hidden>清除筛选</button></div>
+  <div class="trashnote" id="trashNote" hidden><span>回收站里的文献不会出现在列表中，点「恢复」可放回。回收站只保存在本浏览器。</span><button id="restoreAll">全部恢复</button></div>
   <div id="list"></div>
   <button class="more" id="moreBtn" hidden>加载更多</button>
 
@@ -176,6 +186,14 @@
 
 <button class="top" id="topBtn" aria-label="回到顶部">↑</button>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
+<div class="modal" id="cModal" role="alertdialog" aria-modal="true" aria-labelledby="cHead">
+  <div class="box sm">
+    <h2 id="cHead">删除这篇文献？</h2>
+    <p class="ct" id="cTitle"></p>
+    <p class="cn">删除后会移到「回收站」，可以随时恢复。只影响当前这个浏览器，不会影响其他人看到的列表。</p>
+    <div class="row"><span class="sp"></span><button class="btn ghost" id="cNo">取消</button><button class="btn danger" id="cYes">删除</button></div>
+  </div>
+</div>
 <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle">
   <div class="box">
     <h2 id="mTitle">导出当前列表</h2>
@@ -221,7 +239,8 @@ function jbadges(it){
          if(j.core) h+=`<span class="jb fc" title="本站编辑认定的领域重点期刊">领域重点刊</span>`; }
   return h;
 }
-const S = {days:182, cat:"all", core:false, fav:false, onlyNew:false, q:"", sort:"date", src:"all", shown:PAGE};
+const S = {days:182, cat:"all", core:false, fav:false, trash:false, onlyNew:false, q:"", sort:"date", src:"all", shown:PAGE};
+let TRASH = {}, PENDING = null;
 let DATA = {items:[]}, FAVS = new Set(), PREV = "", VIEW = [];
 const $ = id => document.getElementById(id);
 
@@ -305,7 +324,13 @@ function exportText(fmt){
 function base(){
   const from = S.days===0 ? "0000" : addDays(todayNY(), -(S.days-1));
   const q = S.q;
+  if(S.trash) return DATA.items.filter(it=>{
+    if(!TRASH[it.url]) return false;
+    if(q){ const hay=(it.title+" "+it.venue+" "+(it.tags||[]).join(" ")+" "+(it.authors||"")+" "+doiOf(it)).toLowerCase(); if(!q.split(/\s+/).every(w=>hay.includes(w))) return false; }
+    return true;
+  });
   return DATA.items.filter(it=>{
+    if(TRASH[it.url]) return false;
     if(it.date < from) return false;
     if(S.core && !it.core) return false;
     if(S.fav && !FAVS.has(it.url)) return false;
@@ -340,6 +365,7 @@ function card(it){
       <button class="ib fav" data-fav="${esc(it.url)}" aria-pressed="${fav}" aria-label="收藏">${fav?"♥ 已收藏":"♡ 收藏"}</button>
       <button class="ib absb" data-abs="${esc(it.url)}" aria-expanded="false">摘要</button>
       <button class="ib" data-cite="${esc(it.url)}">复制引用</button>
+      ${TRASH[it.url]?`<button class="ib" data-restore="${esc(it.url)}">↩ 恢复</button>`:`<button class="ib del" data-del="${esc(it.url)}">删除</button>`}
     </div>
     <div class="meta">${esc(it.authors||"—")} · <i>${esc(it.venue)}</i>${jbadges(it)} <span class="cat">${esc(CATS[it.cat]||it.cat)}</span></div>
     ${it.note?`<div class="meta">${esc(it.note)}</div>`:""}
@@ -352,13 +378,16 @@ function render(){
   const pool = base();
   renderCats(pool);
   VIEW = sortItems(S.cat==="all" ? pool.slice() : pool.filter(it=>it.cat===S.cat));
-  const filtered = S.cat!=="all"||S.core||S.fav||S.onlyNew||S.q||S.src!=="all";
+  const filtered = S.cat!=="all"||S.core||S.fav||S.trash||S.onlyNew||S.q||S.src!=="all";
   $("count").textContent = `${VIEW.length} 篇` + (VIEW.length>S.shown?`，已显示 ${S.shown}`:"");
   $("clearBtn").hidden = !filtered;
   $("favN").textContent = FAVS.size ? `(${FAVS.size})` : "";
+  const nT = Object.keys(TRASH).length;
+  $("trashN").textContent = nT ? `(${nT})` : "";
+  $("trashNote").hidden = !S.trash || !nT;
   const list = $("list");
   if(!VIEW.length){
-    list.innerHTML = `<div class="empty">${S.fav&&!FAVS.size?"还没有收藏。点条目右侧的「♡ 收藏」就会出现在这里。":"没有符合条件的文献，试试放宽时间范围或清除筛选。"}</div>`;
+    list.innerHTML = `<div class="empty">${S.trash?"回收站是空的。":S.fav&&!FAVS.size?"还没有收藏。点条目右侧的「♡ 收藏」就会出现在这里。":"没有符合条件的文献，试试放宽时间范围或清除筛选。"}</div>`;
     $("moreBtn").hidden = true; return;
   }
   let html="", cur="";
@@ -389,17 +418,34 @@ $("sort").addEventListener("change",e=>{ S.sort=e.target.value; rerender(); });
 $("src").addEventListener("change",e=>{ S.src=e.target.value; rerender(); });
 $("moreBtn").addEventListener("click",()=>{ S.shown+=PAGE; render(); });
 $("clearBtn").addEventListener("click",()=>{
-  Object.assign(S,{cat:"all",core:false,fav:false,onlyNew:false,q:"",src:"all"}); $("q").value=""; $("src").value="all";
-  ["coreOnly","favOnly","newOnly"].forEach(id=>$(id).setAttribute("aria-pressed","false")); syncHash(); rerender(); });
+  Object.assign(S,{cat:"all",core:false,fav:false,trash:false,onlyNew:false,q:"",src:"all"}); $("q").value=""; $("src").value="all";
+  ["coreOnly","favOnly","trashOnly","newOnly"].forEach(id=>$(id).setAttribute("aria-pressed","false")); syncHash(); rerender(); });
 $("list").addEventListener("click",e=>{
   const f=e.target.closest("[data-fav]"), c=e.target.closest("[data-cite]"), t=e.target.closest("[data-tag]"), a=e.target.closest("[data-abs]");
+  const d=e.target.closest("[data-del]"), r=e.target.closest("[data-restore]");
   if(a){ toggleAbs(a); return; }
+  if(d){ askDelete(d.dataset.del, d); return; }
+  if(r){ delete TRASH[r.dataset.restore]; store.set("ccl_trash",TRASH); toast("已恢复"); rerender(false); return; }
   if(f){ const u=f.dataset.fav; FAVS.has(u)?FAVS.delete(u):FAVS.add(u); store.set("ccl_favs",[...FAVS]);
     const on=FAVS.has(u); f.setAttribute("aria-pressed",on); f.textContent=on?"♥ 已收藏":"♡ 收藏"; $("favN").textContent=FAVS.size?`(${FAVS.size})`:"";
     toast(on?"已收藏（保存在本浏览器）":"已取消收藏"); if(S.fav) rerender(false); }
   else if(c){ const it=DATA.items.find(x=>x.url===c.dataset.cite); if(it) copyText(cite(it)); }
   else if(t){ $("q").value=t.dataset.tag; S.q=t.dataset.tag.toLowerCase(); rerender(); window.scrollTo({top:$("list").offsetTop-160}); }
 });
+let LASTFOCUS=null;
+function askDelete(url, btn){
+  const it=DATA.items.find(x=>x.url===url); if(!it) return;
+  PENDING=url; LASTFOCUS=btn; $("cTitle").textContent=it.title; $("cModal").classList.add("open"); $("cNo").focus();
+}
+function closeConfirm(){ $("cModal").classList.remove("open"); PENDING=null; if(LASTFOCUS&&document.body.contains(LASTFOCUS)) LASTFOCUS.focus(); }
+$("cNo").addEventListener("click",closeConfirm);
+$("cModal").addEventListener("click",e=>{ if(e.target===$("cModal")) closeConfirm(); });
+$("cYes").addEventListener("click",()=>{
+  if(PENDING){ TRASH[PENDING]=Date.now(); store.set("ccl_trash",TRASH); toast("已移到回收站"); }
+  $("cModal").classList.remove("open"); PENDING=null; rerender(false);
+});
+$("trashOnly").addEventListener("click",()=>{ S.trash=!S.trash; $("trashOnly").setAttribute("aria-pressed",S.trash); rerender(); });
+$("restoreAll").addEventListener("click",()=>{ TRASH={}; store.set("ccl_trash",TRASH); toast("已全部恢复"); rerender(); });
 $("aboutBtn").addEventListener("click",()=>{ const o=$("about").classList.toggle("open"); $("aboutBtn").setAttribute("aria-expanded",o); });
 let FMT="txt";
 function fillModal(){ $("mText").value=exportText(FMT); $("mCount").textContent=`${VIEW.length} 条（按当前筛选）`; }
@@ -408,7 +454,7 @@ $("fmt").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b
   $("fmt").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b)); fillModal(); });
 $("mClose").addEventListener("click",()=>$("modal").classList.remove("open"));
 $("modal").addEventListener("click",e=>{ if(e.target===$("modal")) $("modal").classList.remove("open"); });
-document.addEventListener("keydown",e=>{ if(e.key==="Escape") $("modal").classList.remove("open"); });
+document.addEventListener("keydown",e=>{ if(e.key==="Escape"){ $("modal").classList.remove("open"); if($("cModal").classList.contains("open")) closeConfirm(); } });
 $("mCopy").addEventListener("click",()=>copyText($("mText").value));
 $("mDl").addEventListener("click",()=>{
   try{ const ext={txt:"txt",bib:"bib",csv:"csv"}[FMT];
@@ -424,6 +470,7 @@ window.addEventListener("hashchange",()=>{ readHash(); rerender(); });
 
 // boot
 FAVS = new Set(store.get("ccl_favs",[]));
+TRASH = store.get("ccl_trash",{}) || {}; if(typeof TRASH!=="object"||Array.isArray(TRASH)) TRASH={};
 PREV = store.get("ccl_last_visit","");
 const LAST_OPEN = store.get("ccl_last_open", 0), NOW = Date.now();
 store.set("ccl_last_open", NOW);
