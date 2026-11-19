@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:55:00-05:00",
+ "updated": "2026-11-19T07:18:56-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -6262,6 +6262,673 @@
     "习语"
    ],
    "added": "2026-11-18"
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Metaphor Matters to (New) Sociotechnical Imaginaries",
+   "authors": "Waltorp et al.",
+   "venue": "Tech Imaginaries (Springer)",
+   "url": "https://doi.org/10.1007/978-3-032-33587-6_4",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "技术话语",
+    "想象"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Understanding metaphor in visuals as part of multimodal literacy",
+   "authors": "Forceville et al.",
+   "venue": "Handbook of Educational Semiotics (De Gruyter)",
+   "url": "https://doi.org/10.1515/9783111389943-014",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "多模态素养"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Walking Toward Emancipation: The Journey Metaphor of Epicurus, Confucius, and Karl Marx",
+   "authors": "Sun",
+   "venue": "Religions",
+   "url": "https://doi.org/10.3390/rel17111358",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "旅程隐喻",
+    "哲学文本"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Think Different: Knowledge Diplomacy as an Emerging Conceptual Metaphor in Higher Education Internationalisation",
+   "authors": "Zhong et al.",
+   "venue": "Higher Education Quarterly",
+   "url": "https://doi.org/10.1111/hequ.70185",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "教育政策",
+    "概念隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "A Synthesis of Research on Grammatical Metaphor in Systemic Functional Linguistics (1985–2024)",
+   "authors": "Xuan et al.",
+   "venue": "Research Syntheses in Systemic Functional Linguistics (Springer)",
+   "url": "https://doi.org/10.1007/978-3-032-28654-3_4",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "语法隐喻",
+    "综述"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Cross-linguistic variation in Indonesian conceptual metaphor comprehension among BIPA learners: An exploratory study",
+   "authors": "Nasrullah et al.",
+   "venue": "NOTION: Journal of Linguistics, Literature, and Culture",
+   "url": "https://doi.org/10.12928/notion.v8i2.16747",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻理解",
+    "二语学习"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Personification Metaphors in Children's Picturebooks about Nature: A Multimodal Cognitive Stylistic Study",
+   "authors": "Ren",
+   "venue": "International Research in Children's Literature",
+   "url": "https://doi.org/10.1353/irc.2025.a995602",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "拟人隐喻",
+    "绘本"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Cognitive Mechanism of Conceptual Metaphor in Political Communication During the Last Presidential Campaign in the USA",
+   "authors": "Krajišnik",
+   "venue": "STED Conference Proceedings 2026",
+   "url": "https://doi.org/10.63395/stedconf15022026175k607",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "政治隐喻",
+    "美国大选"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Metaphors under pressure",
+   "authors": "Tay",
+   "venue": "Health Humanities in the Chinese Context (Routledge)",
+   "url": "https://doi.org/10.4324/9781003680178-3",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "健康话语"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Metaphors We Live By",
+   "authors": "—",
+   "venue": "The Revolutionary Origins of Language (Yale University Press)",
+   "url": "https://doi.org/10.12987/9780300304954-015",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "概念隐喻理论"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Animal Metaphors in Maritime English",
+   "authors": "Xu",
+   "venue": "International Journal of English and Cultural Studies",
+   "url": "https://doi.org/10.11114/ijecs.v9i2.9527",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "动物隐喻",
+    "专门用途英语"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Metaphors in kate proverb on the website kebudayaanbetawi.com",
+   "authors": "Fadhilah",
+   "venue": "Journal of Language and Literature Inquiry",
+   "url": "https://doi.org/10.55942/jlli.v1i2.2362",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "谚语"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "The Role of Emotional Metaphors in Avoiding Contextual Gap Teaching",
+   "authors": "Xue",
+   "venue": "Sino-US English Teaching",
+   "url": "https://doi.org/10.17265/1539-8072/2026.05.003",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "情感隐喻",
+    "教学"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Sex Is Violence: War and Hunting Metaphors in Akkadian Love and Sexual Literature",
+   "authors": "Zisa",
+   "venue": "Exploring Gender Dynamics across the Ancient Near East (Nomos)",
+   "url": "https://doi.org/10.5771/9783963273339-329",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "战争隐喻",
+    "古代文献"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Metaphors of Love, Guilt, and Slavery: Conceptualising Trauma in Toni Morrison's Beloved (1987)",
+   "authors": "Rabab'ah et al.",
+   "venue": "Open Cultural Studies",
+   "url": "https://doi.org/10.1515/culture-2025-0133",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "小说",
+    "创伤"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Science Fiction Metaphors and Technological Anxiety: Entry Points and Focal Perspectives in Cutting-Edge Communication Studies",
+   "authors": "Zhu",
+   "venue": "Communication & Education Review",
+   "url": "https://doi.org/10.37420/j.cer.2025.087",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "科幻",
+    "技术焦虑"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Javier Fernández-Sebastián, Key Metaphors for History. Mirrors of Time. Abingdon: Routledge, 2024, 350 pp.",
+   "authors": "Black",
+   "venue": "Ler História",
+   "url": "https://doi.org/10.4000/174xu",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "史学隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "A study on C-E translation strategies of political metaphors with Chinese characteristics from the perspective of cognitive linguistics",
+   "authors": "Zhang",
+   "venue": "Advances in Humanities Research",
+   "url": "https://doi.org/10.54254/2753-7080/2026.39135",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻翻译",
+    "政治隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "A Study on the Transformation Mechanisms of Political Metaphors from the Perspective of Embodied-Cognitive Translation Studies: A Case Study of the Uyghur Translations of Selected Works of Mao Zedong (Volumes I-IV)",
+   "authors": "Ma et al.",
+   "venue": "Studies in Linguistics and Literature",
+   "url": "https://doi.org/10.22158/sll.v10n4p104",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻翻译",
+    "政治文献"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Optimizing Translation of Metaphorical Texts with Multi-designed AI Agents",
+   "authors": "Wang et al.",
+   "venue": "Proceedings of the 6th International Conference on High Performance Big Data and Intelligent Systems",
+   "url": "https://doi.org/10.1007/978-981-92-4294-8_15",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻翻译",
+    "AI智能体"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Conceptual Networks of Wellbeing in Romanian and English Paremiology",
+   "authors": "Șanta (Câmpean)",
+   "venue": "Young Researchers in Humanities and Social Sciences",
+   "url": "https://doi.org/10.29302/yrhss.2026.phil.7",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "谚语",
+    "跨语言对比"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "The Cognitive Linguistic Analysis of the LAW Concept (Based on the Film Text of the TV Series 'Better Call Saul')",
+   "authors": "Zaboeva et al.",
+   "venue": "Discourse",
+   "url": "https://doi.org/10.32603/2412-8562-2026-12-5-176-185",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念分析",
+    "影视文本"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Constructing Embodied-Cognitive Semantics Based on Embodied-Cognitive Philosophy",
+   "authors": "Wang",
+   "venue": "Advances in Higher Education Science",
+   "url": "https://doi.org/10.48014/ahes.20260714009",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "体认语言学"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Phonological interference and leadership framing in Odumeje's testimony discourse",
+   "authors": "Abe et al.",
+   "venue": "Cogent Arts & Humanities",
+   "url": "https://doi.org/10.1080/23311983.2026.2734665",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "宗教话语"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Constructing the Future City: Framing and Appraisal Strategies in NEOM's Nation-Branding Discourse",
+   "authors": "El-Masry",
+   "venue": "World Journal of English Language",
+   "url": "https://doi.org/10.5430/wjel.v17n1p563",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "国家品牌",
+    "评价"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Framing migration in UK and US media: A corpus-based critical discourse analysis",
+   "authors": "Xu et al.",
+   "venue": "International Journal of Population Studies",
+   "url": "https://doi.org/10.36922/ijps026280168",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "移民",
+    "语料库CDA"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Hadith and Disaster Narratives: Salafi's Framing Analysis of Religious Environmental Discourse in Indonesia",
+   "authors": "Al Farisi et al.",
+   "venue": "Fikri: Jurnal Kajian Agama, Sosial dan Budaya",
+   "url": "https://doi.org/10.25217/jf.v11i2.7834",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "宗教话语",
+    "灾害"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "The rhetoric of power: lexical strategies and ideological framing in U.S. presidential election",
+   "authors": "Hussain et al.",
+   "venue": "Perspectives in Social Sciences",
+   "url": "https://doi.org/10.63468/pss.190",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "美国大选",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Framing and Legitimating Artificial Intelligence in China's English-Language State Media, 2014–2024",
+   "authors": "Pham et al.",
+   "venue": "Journal of Chinese Political Science",
+   "url": "https://doi.org/10.1007/s11366-026-09957-6",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "合法化",
+    "人工智能"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Constructing Legitimacy through Causal Discourse Markers: A Corpus-Assisted CDA of News Media Coverage of the 2026 Iran War",
+   "authors": "Ashraf et al.",
+   "venue": "Journal of Arts and Linguistics Studies",
+   "url": "https://doi.org/10.71281/jals.v4i6.668",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "合法化",
+    "战争报道"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "AI and ecolinguistics: A critical discourse analysis of ChatGPT, Gemini, and Copilot",
+   "authors": "Çalışır Zenci",
+   "venue": "Language Sciences",
+   "url": "https://doi.org/10.1016/j.langsci.2026.101890",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "生态语言学",
+    "大模型"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Linguistic Framing in Assisted Dying Laws and Documents in the United States",
+   "authors": "Stephen et al.",
+   "venue": "AJOB Empirical Bioethics",
+   "url": "https://doi.org/10.1080/23294515.2026.2762781",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "法律话语",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Framing 'Latin America' through Madrid: far-right transnational politics and regionalism",
+   "authors": "Milani et al.",
+   "venue": "Globalizations",
+   "url": "https://doi.org/10.1080/14747731.2026.2761212",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "极右翼",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Memory, Structure and Differentiation: Framing International Cooperation in Algerian State Media",
+   "authors": "Xu et al.",
+   "venue": "African Journalism Studies",
+   "url": "https://doi.org/10.1080/23743670.2026.2746575",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "官方媒体",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Where Climate Change Lands: Spatial Framing and Domestication in South Korean Newspapers, 2000–2025",
+   "authors": "Lee",
+   "venue": "Environmental Communication",
+   "url": "https://doi.org/10.1080/17524032.2026.2758717",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "气候报道",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Shared salience, divided stance: British newspaper framing of the Paris 2024 Olympic opening ceremony",
+   "authors": "Zamoum et al.",
+   "venue": "Journalism",
+   "url": "https://doi.org/10.1177/14648849261509744",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻框架",
+    "立场"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Advocating environment through #SaveRajaAmpat in X: a corpus-assisted discourse study",
+   "authors": "Maharsi et al.",
+   "venue": "Cogent Arts & Humanities",
+   "url": "https://doi.org/10.1080/23311983.2026.2759487",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "环境话语"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Communicative Strategies and Tactics of Swedish Political Media Discourse",
+   "authors": "Klenova",
+   "venue": "Discourse",
+   "url": "https://doi.org/10.32603/2412-8562-2026-12-5-140-149",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治媒体话语"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Critical Discourse Analysis of Social Practice and Islamic Advocacy Leadership Rooted in the Noble Prophetic Discourse",
+   "authors": "Ismail et al.",
+   "venue": "Al-Azkiyaa: International Journal of Language and Education",
+   "url": "https://doi.org/10.33102/alazkiyaa271",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "宗教话语",
+    "CDA"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-19",
+   "title": "Ātman, Soul, and Spirit in Hindu Thought: A Critical Discourse Analysis",
+   "authors": "Sukabawa et al.",
+   "venue": "Vidyottama Sanatana",
+   "url": "https://doi.org/10.25078/vidyottama.v10i2.6519",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "宗教话语",
+    "CDA"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-19",
+   "title": "Donald Trump's Image in International Media: A framing analysis before and after the 2024 US presidential election",
+   "authors": "Contesa et al.",
+   "venue": "International Journal of Humanity Studies",
+   "url": "https://doi.org/10.24071/ijhs.v10i1.776",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "特朗普",
+    "媒体框架"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Framing sustainability: the role of municipal enterprises in municipal political discourse",
+   "authors": "Gaspari et al.",
+   "venue": "Journal of Public Budgeting, Accounting & Financial Management",
+   "url": "https://doi.org/10.1108/jpbafm-02-2026-0080",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "可持续"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Racial Narrative Framing in Malaysian News Media: Do Politically Fragmented Audience Networks Predict Content Divergence",
+   "authors": "Tengku Adnan",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7694558",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "种族叙事",
+    "新闻框架"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Examining the Institutional Media Effect: Time-Series Analysis of Drug-Related News Framing and Policy Responses",
+   "authors": "Kim et al.",
+   "venue": "Mass Communication and Society",
+   "url": "https://doi.org/10.1080/15205436.2026.2757667",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻框架",
+    "毒品政策"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Advocacy by Being: Framing Black Joy, Excellence, and Community on Instagram",
+   "authors": "Manohar et al.",
+   "venue": "Western Journal of Communication",
+   "url": "https://doi.org/10.1080/10570314.2026.2762828",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "框架"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "added": "2026-11-19",
+   "title": "Translating the Diplomatic Discourse Involving \"a Community of Shared Future for Mankind\"",
+   "authors": "Wang et al.",
+   "venue": "China in Translation (Routledge)",
+   "url": "https://doi.org/10.4324/9781003797753-15",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "外交话语",
+    "翻译"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Motivational-framing language increases the effectiveness of misinformation debunks",
+   "authors": "Zhong et al.",
+   "venue": "Journal of Applied Research in Memory and Cognition",
+   "url": "https://doi.org/10.1037/mac0000313",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "框架效应",
+    "辟谣"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "added": "2026-11-19",
+   "title": "Ecological discourse analysis: concept, approaches and analytical tools",
+   "authors": "Parviz et al.",
+   "venue": "Journal of World Languages",
+   "url": "https://doi.org/10.1515/jwl-2026-0117",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "生态话语分析",
+    "方法论"
+   ]
   }
  ]
 }
