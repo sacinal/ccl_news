@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:59:52-05:00",
+ "updated": "2026-11-21T10:32:00-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -3009,19 +3009,6 @@
    "tags": [
     "语料库",
     "汉语/中国",
-    "概念隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-20",
-   "authors": "Benelhadj",
-   "title": "Conceptual Metaphor between Universality and Variation",
-   "venue": "The Routledge Handbook of Transdisciplinary Systemic Functional Linguistics (Routledge)",
-   "url": "https://doi.org/10.4324/9781003291138-9",
-   "cat": "lex",
-   "core": false,
-   "tags": [
     "概念隐喻"
    ],
    "added": "2026-11-18"
@@ -6133,19 +6120,6 @@
    "added": "2026-11-18"
   },
   {
-   "date": "2025-11-20",
-   "authors": "Obasi et al.",
-   "title": "Cognitive Linguistic Analysis of Metaphorical Expressions Used in Kamala Harris's 2024 Concession Speech",
-   "venue": "Howard Journal of Communications",
-   "url": "https://doi.org/10.1080/10646175.2025.2587083",
-   "cat": "metaphor",
-   "core": false,
-   "tags": [
-    "演讲"
-   ],
-   "added": "2026-11-18"
-  },
-  {
    "date": "2026-02-09",
    "authors": "Daneshzadeh",
    "title": "Linguistic Misrepresentation in Pandemic Terminology: A Cognitive–Linguistic Critique of 'Small Gatherings Cancellation'",
@@ -7128,6 +7102,357 @@
    "tags": [
     "框架",
     "新闻话语"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Between Fear and Anxiety. \"Crisis\" as an Existential Metaphor in Legal and Religious Discourse",
+   "authors": "Sailer",
+   "venue": "Law and Religion in Times of Crisis, Challenges and Change (Nomos)",
+   "url": "https://doi.org/10.5771/9783748975342-17",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "危机隐喻",
+    "法律话语",
+    "宗教话语"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Poetry and Prison: A Cognitive-Linguistic Analysis of Love and Freedom Metaphors in the Verse of the Poet of the Grinding Stone",
+   "authors": "Mohani et al.",
+   "venue": "Journal of Arts and Linguistics Studies",
+   "url": "https://doi.org/10.71281/jals.v4i11.862",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌隐喻",
+    "爱情与自由"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Everything Is Water and Everything Is River: An Analysis of the Metaphors in Carla Madeira's Novel",
+   "authors": "Souza da Silva",
+   "venue": "Lenguaje",
+   "url": "https://doi.org/10.25100/lenguaje.v54i2.15555",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "文学隐喻",
+    "小说"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Metaphorical Conceptualization in Why AI Is Incredibly Smart and Shockingly Stupid: A Semantic Analysis",
+   "authors": "Enjelina et al.",
+   "venue": "Esteem Journal of English Education Study Programme",
+   "url": "https://doi.org/10.31851/mnxcfe17",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "AI隐喻",
+    "概念化"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-21",
+   "title": "Cognitive-metaphorical gnosis in Ahmad Yassavi's Divan-i Hikmat: Pedagogical-literary dimensions for digital-age learners",
+   "authors": "Tuychiboyeva et al.",
+   "venue": "E3S Web of Conferences",
+   "url": "https://doi.org/10.1051/e3sconf/202675201009",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "宗教文本",
+    "认知隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Foundations for MetNet: A Proposed Framework for Modeling Metaphorical Productivity",
+   "authors": "Monteiro et al.",
+   "venue": "Digital Studies in Language and Literature",
+   "url": "https://doi.org/10.1515/dsll-2026-0036",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻能产性",
+    "计算建模"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Preliminary Evidence of the Effect of (Anti)feminist Discourse on Attitudes Towards Feminism and the Attribution of (Im)morality to Feminists",
+   "authors": "Enríquez-Cabeo et al.",
+   "venue": "International Journal of Social Psychology: Revista de Psicología Social",
+   "url": "https://doi.org/10.1177/02134748261498086",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "话语效应",
+    "女性主义"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Review of \"Metaphors in the History of Economic Thought: Crises, Business Cycles and Equilibrium\" edited by Roberto Baranzini and Daniele Besomi",
+   "authors": "Boianovsky",
+   "venue": "SocArXiv preprint",
+   "url": "https://doi.org/10.31235/osf.io/btjsm_v1",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "经济学隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Irene Leonardis (ed.). Crises We Live by: A Transdisciplinary Study of Crisis and Its Metaphors in Their Cultural Context. Amsterdam & Philadelphia: John Benjamins Publishing Company. 2026.",
+   "authors": "Wang et al.",
+   "venue": "Studia Neophilologica",
+   "url": "https://doi.org/10.1080/00393274.2026.2752880",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "危机隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Discourse Analysis Reconsidered: A Study of Its Own Discursive Practices",
+   "authors": "Alqadumi et al.",
+   "venue": "World Journal of English Language",
+   "url": "https://doi.org/10.5430/wjel.v17n1p625",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "话语分析",
+    "方法论"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-21",
+   "title": "Fabricated Authority in Political Deep Fakes: A Multimodal Discourse Analysis of Synthetic Speech and Visual Framing",
+   "authors": "Cheema et al.",
+   "venue": "Insights (Bhalwal) International Journal of Humanities, Management, and Social Sciences",
+   "url": "https://doi.org/10.68156/8y5j5845",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "深度伪造",
+    "视觉框架"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Framing authority and citizenship: Visual representations in Southeast Asia's strategic public campaigns",
+   "authors": "Perdana et al.",
+   "venue": "Visual Communication",
+   "url": "https://doi.org/10.1177/14703572261492188",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉框架",
+    "公共宣传"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Visual language games: A theoretical framework toward stylisation, defamiliarisation and interpretability in visual communication",
+   "authors": "Rahmati et al.",
+   "venue": "Visual Communication",
+   "url": "https://doi.org/10.1177/14703572261489756",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉传播",
+    "理论框架"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-21",
+   "title": "Mesopotamian Royal Inscriptions as Multimodal Ensembles: An Inquiry Through Multimodal Discourse Analysis",
+   "authors": "Siegmund",
+   "venue": "Writing As Visual Experience (De Gruyter)",
+   "url": "https://doi.org/10.1515/9783112228760-004",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态话语分析",
+    "铭文"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Framing Media Representations of Donald Trump: An NLP-Based Analysis of The Guardian News Coverage",
+   "authors": "Micallef et al.",
+   "venue": "Veredas do Direito",
+   "url": "https://doi.org/10.18623/rvd.v23.19.070",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体框架",
+    "NLP"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-21",
+   "title": "French Reinforced Secularism as a Radicalization Prevention Policy: A Muslim Media Framing",
+   "authors": "Lamine",
+   "venue": "Revue du droit des religions",
+   "url": "https://doi.org/10.4000/1753s",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体框架",
+    "世俗主义"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "added": "2026-11-21",
+   "title": "Contesting WTO Authority: Indonesia's Framing Strategy for Economic Sovereignty in Nickel",
+   "authors": "Fitratunnisah et al.",
+   "venue": "International Journal of Social and Political Sciences",
+   "url": "https://doi.org/10.69812/ijsps.v3i2.258",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架策略",
+    "经济主权"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-21",
+   "title": "A Linguistic Analysis of Facebook Comments: Political Discourse and Trolling Strategies",
+   "authors": "Alpaidze",
+   "venue": "enadakultura",
+   "url": "https://doi.org/10.52340/lac.2026.36.01",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "网络喷子"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-21",
+   "title": "The law of three epistemic veils: A critical epistemic linguistics of knowledge constraint in discourse",
+   "authors": "Haidar",
+   "venue": "Language Sciences",
+   "url": "https://doi.org/10.1016/j.langsci.2026.101892",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "认识论",
+    "批评语言学"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Power, planning and representation: a critical discourse analysis of slum redevelopment programmes in Kolkata",
+   "authors": "Chowdhury et al.",
+   "venue": "International Planning Studies",
+   "url": "https://doi.org/10.1080/13563475.2026.2765415",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "城市规划"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-21",
+   "title": "'Saying who you are': Language-based subject positioning in asylum discourse between linguistic profiling and linguicism",
+   "authors": "Mbaye",
+   "venue": "European Journal of Applied Linguistics",
+   "url": "https://doi.org/10.1515/eujal-2026-0035",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "庇护话语",
+    "主体定位"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Staging the Working Class: The Working Class in Polish Political Discourse Around the Time of Transformation",
+   "authors": "Świrek",
+   "venue": "East European Politics and Societies",
+   "url": "https://doi.org/10.1177/08883254261505896",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "工人阶级"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Haunted by housing precarity: The managed absence of housing crisis discourse in Tiny House Movement media",
+   "authors": "Sarkar",
+   "venue": "Media, Culture & Society",
+   "url": "https://doi.org/10.1177/01634437261508749",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "住房危机"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "A social constructionist analysis of the discourse of mental depression in British and Chinese news 1984–2013: A corpus-based study",
+   "authors": "Wang et al.",
+   "venue": "Language and Health",
+   "url": "https://doi.org/10.1016/j.laheal.2026.100111",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻话语",
+    "抑郁症"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-21",
+   "title": "Governing AI in Brazilian Higher Education: A Media Discourse Analysis",
+   "authors": "Laruccia",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7713738",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "AI治理"
    ]
   }
  ]
