@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:32:00-05:00",
+ "updated": "2026-11-22T06:29:47-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -3148,19 +3148,6 @@
    "added": "2026-11-18"
   },
   {
-   "date": "2025-11-21",
-   "authors": "—",
-   "title": "Language and Metaphor",
-   "venue": "Globalization and Media (Bloomsbury, book chapter)",
-   "url": "https://doi.org/10.5040/9798216404613.ch-003",
-   "cat": "lex",
-   "core": false,
-   "tags": [
-    "隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
    "date": "2026-04-25",
    "authors": "Alasuutari",
    "title": "The vertical metaphor of power",
@@ -3883,32 +3870,6 @@
    "added": "2026-11-18"
   },
   {
-   "date": "2025-11-21",
-   "authors": "Gottwald",
-   "title": "UNHCR Through Organisational Metaphors",
-   "venue": "Human Rights Interventions (Springer)",
-   "url": "https://doi.org/10.1007/978-3-032-09033-1_21",
-   "cat": "metaphor",
-   "core": false,
-   "tags": [
-    "隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-21",
-   "authors": "—",
-   "title": "Metaphors and Annual Reports",
-   "venue": "Applied Business Rhetoric (Bloomsbury)",
-   "url": "https://doi.org/10.5040/9798216414896.ch-10",
-   "cat": "metaphor",
-   "core": false,
-   "tags": [
-    "隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
    "date": "2026-10-30",
    "authors": "—",
    "title": "Our Metaphors, Our Selves",
@@ -4149,19 +4110,6 @@
    "venue": "The Oxford Handbook of Expressivity",
    "url": "https://doi.org/10.1093/oxfordhb/9780198869450.013.0026",
    "cat": "theory",
-   "core": false,
-   "tags": [
-    "隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-21",
-   "authors": "David et al.",
-   "title": "Criticism of Metaphor",
-   "venue": "Rhetorical Criticism (Bloomsbury)",
-   "url": "https://doi.org/10.5040/9798216436287.ch-009",
-   "cat": "lex",
    "core": false,
    "tags": [
     "隐喻"
@@ -5305,20 +5253,6 @@
    "added": "2026-11-18"
   },
   {
-   "date": "2025-11-21",
-   "authors": "Ofosu et al.",
-   "title": "The Role of Conceptual Metaphors in Public Perception of Ghanaian Court Judgments",
-   "venue": "International Journal for the Semiotics of Law",
-   "url": "https://doi.org/10.1007/s11196-025-10384-8",
-   "cat": "metaphor",
-   "core": false,
-   "tags": [
-    "法律话语",
-    "概念隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
    "date": "2026-09-21",
    "authors": "Murasing",
    "title": "Conceptual Metaphors of Nature, Violence, and Identity in Temsula Ao's \"My Hills\"",
@@ -6051,19 +5985,6 @@
    "core": false,
    "tags": [
     "概念隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-21",
-   "authors": "Chaer et al.",
-   "title": "Metaphorical Symbols in Qur'anic Discourse: A Cognitive-Linguistic Analysis",
-   "venue": "Suhuf",
-   "url": "https://doi.org/10.23917/suhuf.v37i2.12081",
-   "cat": "metaphor",
-   "core": false,
-   "tags": [
-    "宗教话语"
    ],
    "added": "2026-11-18"
   },
@@ -7453,6 +7374,342 @@
    "tags": [
     "媒体话语",
     "AI治理"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "An Investigation of EFL Teachers' Curriculum Awareness Levels and Their Metaphorical Perceptions of the Curriculum",
+   "authors": "—",
+   "venue": "Psycho-Educational Research Reviews",
+   "url": "https://doi.org/10.52963/perr_biruni_v15.n2.02",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻感知",
+    "EFL教师"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Power of Visuals in Political Branding: A Multimodal Discourse Analysis of visualatory campaigns",
+   "authors": "Qaisar Jabbar et al.",
+   "venue": "Wah Academia Journal of Social Sciences",
+   "url": "https://doi.org/10.63954/w6dfzh59",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "政治品牌",
+    "多模态话语"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Kati Horna: Ideology and Visual Narratives in the Spanish Civil War",
+   "authors": "Rubio",
+   "venue": "Anarchist Women Translating Ideas (De Gruyter)",
+   "url": "https://doi.org/10.1515/9783111702766-009",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉叙事",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "When One Case Feels Riskier Than One Hundred Cases: A New Framing Effect in Risk Communication",
+   "authors": "Liu et al.",
+   "venue": "Risk Analysis",
+   "url": "https://doi.org/10.1111/risa.70390",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "框架效应",
+    "风险传播"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "Sexual violence in pesantren: Van Dijk's socio-cognitive discourse analysis on Pati case news reports",
+   "authors": "Fitria",
+   "venue": "Diglosia: Jurnal Kajian Bahasa, Sastra, dan Pengajarannya",
+   "url": "https://doi.org/10.30872/diglosia.v9i4.2025",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "社会认知CDA",
+    "新闻报道"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "added": "2026-11-22",
+   "title": "Passive Voice and Event Structure in Legal Discourse A Study of the Saudi Companies Law",
+   "authors": "Al-Maliki",
+   "venue": "UB Journal for Humanities",
+   "url": "https://doi.org/10.65073/1658-9343.1208",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "被动语态",
+    "事件结构",
+    "法律话语"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "Multisensory meaning-making in DoggoLingo: Emotion and embodiment in digital discourse",
+   "authors": "Bury",
+   "venue": "Media i Społeczeństwo",
+   "url": "https://doi.org/10.5604/01.3001.0055.9971",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "具身",
+    "网络语言"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Promoting Non-inflammatory Discourse",
+   "authors": "Kuzio",
+   "venue": "Conflict Resolution (Brill)",
+   "url": "https://doi.org/10.1163/9789004758636-009",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "冲突话语"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Media Discourse and Conflict Resolution",
+   "authors": "Afreh et al.",
+   "venue": "Conflict Resolution (Brill)",
+   "url": "https://doi.org/10.1163/9789004758636-005",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "冲突"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Framing Hate Speech in EU Law",
+   "authors": "Belavusau",
+   "venue": "The Oxford Handbook of Hate Speech (Oxford University Press)",
+   "url": "https://doi.org/10.1093/9780198898979.003.0023",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "仇恨言论",
+    "法律框架"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Message Framing Strategies in Sustainability Communication: An Analysis in Türkiye",
+   "authors": "Levent et al.",
+   "venue": "Abant Sosyal Bilimler Dergisi",
+   "url": "https://doi.org/10.11616/asbi.1995499",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "信息框架",
+    "可持续传播"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Constructing Canada's Economic Challenges: A Comparative Analysis of Agenda-Setting and Framing in CBC News and CTV News",
+   "authors": "Jaber et al.",
+   "venue": "Studies in Media and Communication",
+   "url": "https://doi.org/10.11114/smc.v15i1.9333",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻框架",
+    "议程设置"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Media Framing Strategies and Representations of Consequences of Flood and Hurricane Disasters in Nigerian and American Communities…",
+   "authors": "Friday John et al.",
+   "venue": "African Journal of Development Studies",
+   "url": "https://doi.org/10.31920/2634-3649/2026/sin1a3",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "灾难框架",
+    "媒体"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "Ageing and population discourses in North Macedonia: A media discourse analysis",
+   "authors": "Spirovska",
+   "venue": "Demografía",
+   "url": "https://doi.org/10.21543/dem.68.2.4",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "人口老龄化",
+    "媒体话语"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "The Representation of Public Values in Lithuania and Croatia in Political Media Discourse",
+   "authors": "Makarova",
+   "venue": "enadakultura",
+   "url": "https://doi.org/10.52340/lac.2026.36.04",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "公共价值",
+    "政治媒体话语"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Nation-Building and Sustainable Development in Zimbabwe's National Anthem: A Critical Discourse Analysis",
+   "authors": "Mukenge",
+   "venue": "JOURNAL OF LANGUAGE",
+   "url": "https://doi.org/10.30743/jol.v8i2.13861",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "国歌",
+    "CDA"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "'Stop sabotaging your weight loss': Body regulations, nutritionism and meritocratic discourse in social media",
+   "authors": "Penaforte et al.",
+   "venue": "Ciência & Saúde Coletiva",
+   "url": "https://doi.org/10.1590/1413-812320263111.04282025",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "精英主义话语"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-22",
+   "title": "A Systemic Functional Analysis of Modality and Power Relations in Bilingual Corporate Sustainability Discourse",
+   "authors": "Kittiveja et al.",
+   "venue": "Journal of English Language and Linguistics",
+   "url": "https://doi.org/10.62819/jel.2026.2586",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "情态",
+    "企业话语"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "Greening Islamic Educational Discourse through a Faircloughian Analysis of Eco theological Narratives in Indonesia",
+   "authors": "Ghofur et al.",
+   "venue": "Advances in Social Science, Education and Humanities Research",
+   "url": "https://doi.org/10.2991/978-94-6239-845-0_26",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "Fairclough",
+    "生态神学"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Constructing Social Criticism in Two Novels by Tere Liye: A Critical Discourse Analysis Study",
+   "authors": "Ramadanikhusnulkhotimah et al.",
+   "venue": "Likhitaprajna Jurnal Ilmiah Fakultas Keguruan dan Ilmu Pendidikan Universitas Wisnuwardhana",
+   "url": "https://doi.org/10.37303/likhitaprajna.v28i2.1003",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "小说",
+    "CDA"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "On the Discourse of Indigenous Capital and Cultural Commodification in Media and Performance",
+   "authors": "Amtalao",
+   "venue": "Mabini Review",
+   "url": "https://doi.org/10.70922/vjctvx95",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "原住民",
+    "文化商品化"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Presupposition and Discursive Rearticulation in Postcolonial Political Discourse: The Case of Hong Kong's Electoral Reforms",
+   "authors": "Wong",
+   "venue": "Journal of Linguistics, Culture and Communication",
+   "url": "https://doi.org/10.61320/jolcc.v4i2.346-372",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "预设",
+    "香港政治话语"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "Turkey–China Relations in the Context of Xinjiang: An Analysis of Political Discourse in Turkey",
+   "authors": "Çavuş",
+   "venue": "Interdisciplinary Journal of Research and Development",
+   "url": "https://doi.org/10.56345/ijrdv13n302",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "土中关系"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "added": "2026-11-22",
+   "title": "'We are Malaysians': A membership categorisation analysis of queer visibility on Reddit",
+   "authors": "Yoong",
+   "venue": "Discourse, Context & Media",
+   "url": "https://doi.org/10.1016/j.dcm.2026.101079",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "成员范畴化",
+    "酷儿"
    ]
   }
  ]
