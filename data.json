@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:29:47-05:00",
+ "updated": "2026-11-22T21:26:10-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -7710,6 +7710,119 @@
    "tags": [
     "成员范畴化",
     "酷儿"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "added": "2026-11-22",
+   "title": "Gĩkũyũ Metaphors of Marriage Negotiations",
+   "authors": "Gachara",
+   "venue": "CODESRIA",
+   "url": "https://doi.org/10.57054/codesria.pub.1073",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "婚姻隐喻",
+    "基库尤语"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-22",
+   "title": "Soldiers’ Wives’ Resilience as Conceptual Metaphor in Merah Putih Memanggil and Sayap-Sayap Patah",
+   "authors": "Rahmah",
+   "venue": "JEPAL (Journal of English Pedagogy and Applied Linguistics)",
+   "url": "https://doi.org/10.32627/jepal.v6i1.1449",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "电影隐喻",
+    "军人妻子"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-22",
+   "title": "Exploring Populist Visual Rhetoric of the Association of Mineworkers and Construction Union: A Visual Social Semiotics Analysis Study",
+   "authors": "Matsha et al.",
+   "venue": "African Renaissance",
+   "url": "https://doi.org/10.31920/2516-5305/2025/22n2a4",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "民粹主义",
+    "视觉修辞"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-22",
+   "title": "Vulnerability as discursive, affective, and material configuration—a post-pandemic perspective on disability during the COVID-19 media and political discourse in Austria",
+   "authors": "Mandl",
+   "venue": "Disability & Society",
+   "url": "https://doi.org/10.1080/09687599.2026.2755794",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "疫情话语",
+    "残障"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "Evolution of policy-derived product-level carbon discourse: Multi-actor social media evidence from a 14-year transition in China",
+   "authors": "Zhang et al.",
+   "venue": "Environmental Impact Assessment Review",
+   "url": "https://doi.org/10.1016/j.eiar.2026.108821",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "碳话语",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "added": "2026-11-22",
+   "title": "Driving sustainable mobility: Emotional and cognitive pathways linking gain- and loss-framed car-advertising warnings to perceived effectiveness",
+   "authors": "Ibáñez-Zapata et al.",
+   "venue": "Journal of Transport & Health",
+   "url": "https://doi.org/10.1016/j.jth.2026.102484",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "框架效应",
+    "损益框架",
+    "广告"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-22",
+   "title": "Framing Analysis of Iran–United States Conflict News Coverage",
+   "authors": "Azhari et al.",
+   "venue": "ELT Worldwide: Journal of English Language Teaching",
+   "url": "https://doi.org/10.26858/eltww.v13i1.83973",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻框架",
+    "伊美冲突"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-22",
+   "title": "Public health framing and policy outcomes in Canada's opioid crisis response",
+   "authors": "Tymczyszyn",
+   "venue": "Political Processing of Global Challenges",
+   "url": "https://doi.org/10.59862/p7k4m2xq10",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "公共卫生框架",
+    "阿片危机"
    ]
   }
  ]
