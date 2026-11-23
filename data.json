@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:26:10-05:00",
+ "updated": "2026-11-23T03:10:54-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -2929,19 +2929,6 @@
    "core": false,
    "tags": [
     "隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-22",
-   "authors": "Ches",
-   "title": "From Mental Projection to Neural Networks: Neurolinguistic Evidence for Conceptual Metaphor Theory",
-   "venue": "SSRN preprint",
-   "url": "https://doi.org/10.2139/ssrn.5765542",
-   "cat": "exp",
-   "core": false,
-   "tags": [
-    "概念隐喻"
    ],
    "added": "2026-11-18"
   },
@@ -7823,6 +7810,346 @@
    "tags": [
     "公共卫生框架",
     "阿片危机"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Playful and Reflective: Visual Metaphor and Game Design for Accessible Autobiographical Interactive Digital Narratives",
+   "authors": "Morantes",
+   "venue": "Lecture Notes in Computer Science",
+   "url": "https://doi.org/10.1007/978-3-032-46125-4_2",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉隐喻",
+    "游戏设计"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Metaphorical Landscapes: Exploring Metaphors in Hindi, Bhojpuri and English Proverbs",
+   "authors": "Shubhra et al.",
+   "venue": "Vivid: Journal of Language and Literature",
+   "url": "https://doi.org/10.25077/vj.14.1.34-40.2025",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "谚语",
+    "跨语言对比"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Unveiling Metaphorical Ilocutionary Functions through a Pragmatic Stylistic Lens in Sindhunata’s Anak Bajang Menggiring Angin",
+   "authors": "Rahardi et al.",
+   "venue": "Vivid: Journal of Language and Literature",
+   "url": "https://doi.org/10.25077/vj.14.2.217-230.2025",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻",
+    "语用文体"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "added": "2026-11-23",
+   "title": "Linguistic tagging and ideology in selected english-medium Nigerian and Cameroonian newspaper reports on the Bakassi Peninsula border conflict",
+   "authors": "Igwebuike",
+   "venue": "CODESRIA",
+   "url": "https://doi.org/10.57054/codesria.pub.1959",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻报道",
+    "意识形态"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-23",
+   "title": "Framing Islam in the Attention Economy: Algorithmic Mediation and Digital Soft Power in the 2022 Qatar World Cup",
+   "authors": "Abbas et al.",
+   "venue": "Arab Media & Society",
+   "url": "https://doi.org/10.70090/ams-2026-0439",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "伊斯兰",
+    "媒体"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "The Discourse Movement Analysis of Hashtags Supporting the Legalization of Same-Sex Marriage",
+   "authors": "Putri et al.",
+   "venue": "Vivid: Journal of Language and Literature",
+   "url": "https://doi.org/10.25077/vj.14.1.93-100.2025",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "标签话语",
+    "同性婚姻"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Connected yet divided: Antagonistic connectivity and religification in Indonesia’s Cebong–Kampret–Kadrun political discourse",
+   "authors": "Anam et al.",
+   "venue": "Simulacra",
+   "url": "https://doi.org/10.21107/sml.v9i2.36406",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "极化",
+    "政治话语"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Analysis of Critical Discourse: The \"Sekolah Rakyat\" SRMA10 Eco-Social Innovation, A Solution For Indonesian Education",
+   "authors": "Mahadewi et al.",
+   "venue": "International Journal of Health and Pharmaceutical (IJHP)",
+   "url": "https://doi.org/10.51601/ijhp.v6i4.741",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "教育政策"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Algorithmic Transculturation in AI-Generated Imagery: A Visual Discourse Analysis of Indonesian Heritage and Popular Culture",
+   "authors": "Nugraha et al.",
+   "venue": "GESTALT",
+   "url": "https://doi.org/10.33005/gestalt.v8i2.641",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "AI生成图像",
+    "视觉话语"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "A Critical Discourse Analysis Of Manipulation And Abuse Of Power In Aurélie Moeremans’ Memoir Broken Strings",
+   "authors": "Zulri et al.",
+   "venue": "JHSS (JOURNAL OF HUMANITIES AND SOCIAL STUDIES)",
+   "url": "https://doi.org/10.33751/jhss.v10i02.416",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "操纵",
+    "回忆录"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "added": "2026-11-23",
+   "title": "A SYSTEMIC FUNCTIONAL MULTIMODAL DISCOURSE ANALYSIS OF IMAGES IN COVID-19  HEALTH COMMUNICATION AT FMC, YOLA, ADAMAWA STATE",
+   "authors": "Yusuf",
+   "venue": "Journal of Human, Social and Political Science Research",
+   "url": "https://doi.org/10.70382/sjhspsr.v14i6.0131",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "疫情传播"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Disseminating China’s vision: A corpus-assisted discourse analysis of “a community with a shared future” in Australian mainstream media",
+   "authors": "Zhou et al.",
+   "venue": "PLOS One",
+   "url": "https://doi.org/10.1371/journal.pone.0362389",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "语料辅助",
+    "中国形象"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Uniformity or Uniformization? A Discourse Historical Analysis of Pakistan's Single National Curriculum (2020-2021) and its Language Planning Implications",
+   "authors": "Din et al.",
+   "venue": "ACADEMIA International Journal for Social Sciences",
+   "url": "https://doi.org/10.63056/academia.5.3.2026.2576",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "DHA",
+    "语言规划"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Between Tradition and Modernity: Hybrid Representations of Love and Marriage in Indian Media Discourse. The Case of Indian Matchmaking",
+   "authors": "Foltyniak",
+   "venue": "Media i Społeczeństwo",
+   "url": "https://doi.org/10.5604/01.3001.0055.9966",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体表征",
+    "婚恋"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Constructing the ‘Healthy Self’ on Instagram: An Appraisal and Critical Discourse Analysis of Health Narratives in Social Media Captions",
+   "authors": "Natrio et al.",
+   "venue": "Vivid: Journal of Language and Literature",
+   "url": "https://doi.org/10.25077/vj.14.1.51-57.2025",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "评价理论",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "added": "2026-11-23",
+   "title": "REPRESENTATION OF GENDERED REDEMPTION AND ALTERNATIVE MASCULINITY IN THE PAKISTANI DRAMA SERIAL DAR-E-NIJAAT 2026: A CRITICAL DISCOURSE ANALYSIS",
+   "authors": "Kiani et al.",
+   "venue": "Insights (Bhalwal) International Journal of Humanities, Management, and Social Sciences",
+   "url": "https://doi.org/10.68156/y3q7na32",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "性别",
+    "电视剧"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Algorithmic war narratives: Digital media discourse on Iran–USA–Israel conflict and regional instability role of Pakistan in peace building",
+   "authors": "Riaz et al.",
+   "venue": "Perspectives in Social Sciences",
+   "url": "https://doi.org/10.63468/pss.221",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "战争叙事",
+    "数字媒体"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "REPRESENTATION OF GOVERNMENT IDEOLOGY IN LAW ON SEXUAL VIOLENCE CRIMINAL ACTS NUMBER 12 OF 2022: A CRITICAL DISCOURSE ANALYSIS STUDY",
+   "authors": "Fauzan et al.",
+   "venue": "JURNAL KONFIKS",
+   "url": "https://doi.org/10.26618/kfdp5w08",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "意识形态",
+    "法律话语"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Ideological Education and the Construction of the Socialist ‘New Man’ in Communist Albania: A Critical Discourse Analysis of Enver Hoxha’s Speeches",
+   "authors": "Puka et al.",
+   "venue": "Interdisciplinary Journal of Research and Development",
+   "url": "https://doi.org/10.56345/ijrdv13n315",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "政治演讲"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Construction of a Global Energy Crisis in News Coverage of the Strait of Hormuz Conflict: A Critical Discourse Analysis Using the Fairclough Model.",
+   "authors": "Syahlan et al.",
+   "venue": "Jurnal Pembelajaran Bahasa dan Sastra",
+   "url": "https://doi.org/10.55909/jpbs.v5i6.1915",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "能源危机",
+    "新闻"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "added": "2026-11-23",
+   "title": "Critical discourse analysis of Stibbe’s ecolinguistic theory – Sustainable Development Goals on climate change and global warming in Pakistan under 3D model of Fairclough",
+   "authors": "Akhtar et al.",
+   "venue": "Perspectives in Social Sciences",
+   "url": "https://doi.org/10.63468/pss.213",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "生态语言学",
+    "气候"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Deconstructing Adulthood through Multimodal Representation: A Study of LEGO’s Adults Welcome – Flowers Advertisement",
+   "authors": "Agustin et al.",
+   "venue": "GESTALT",
+   "url": "https://doi.org/10.33005/gestalt.v8i2.770",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "广告"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "Commodifying Dread: The Visual Rhetoric of Indonesian Box-Office Horror Posters",
+   "authors": "Wibowo et al.",
+   "venue": "GESTALT",
+   "url": "https://doi.org/10.33005/gestalt.v8i2.702",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉修辞",
+    "海报"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-23",
+   "title": "How Menopause Is Framed: Linguistic Influences on Clinical Recognition and Care: A Critical Narrative Review",
+   "authors": "Keye",
+   "venue": "Women's Reproductive Health",
+   "url": "https://doi.org/10.1080/23293691.2026.2757576",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "框架",
+    "医学话语"
    ]
   }
  ]
