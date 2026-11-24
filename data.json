@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:10:54-05:00",
+ "updated": "2026-11-24T00:11:17-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -8150,6 +8150,425 @@
    "tags": [
     "框架",
     "医学话语"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Saudi Short Story of the Late 20th Century: Alienation, Metaphor, and Modernist Transformations",
+   "authors": "—",
+   "venue": "Cineforum",
+   "url": "https://doi.org/10.66669/cineforum.v66is8.2306",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "文学隐喻",
+    "阿拉伯小说"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "Domains, Metaphors, and the Working of Modality",
+   "authors": "Landry",
+   "venue": "UVSM Publications",
+   "url": "https://doi.org/10.67291/mwlm9252",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "认知域",
+    "情态"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Metaphorical cost: Processing of metaphorical and literal language in people with Alzheimer’s disease",
+   "authors": "Leite",
+   "venue": "PsyArXiv preprint",
+   "url": "https://doi.org/10.31234/osf.io/ydx4n",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻加工",
+    "阿尔茨海默病"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Punjabi in the algorithmic economy: a critical discourse analysis of linguistic capital, power, and Artificial Intelligence",
+   "authors": "Hussain et al.",
+   "venue": "Aposta: Revista de Ciencias Sociales",
+   "url": "https://doi.org/10.23900/ra.v24i116.2646",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "语言资本",
+    "AI"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "From national language to algorithmic governance: a critical discourse analysis of language policy and the HEC generative AI framework in Pakistan (1947–2026)",
+   "authors": "Sarfraz et al.",
+   "venue": "Aposta: Revista de Ciencias Sociales",
+   "url": "https://doi.org/10.23900/ra.v24i114.2645",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "语言政策"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Negotiating Institutional Values in the Era of Artificial Intelligence: A Critical Discourse Analysis of University AI Guidelines",
+   "authors": "Sudding et al.",
+   "venue": "ELT Worldwide: Journal of English Language Teaching",
+   "url": "https://doi.org/10.26858/eltww.v13i2.89230",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "高校AI政策"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "When typeface fits ideology: how visual congruence shapes political advertising persuasion",
+   "authors": "Yi et al.",
+   "venue": "International Journal of Advertising",
+   "url": "https://doi.org/10.1080/02650487.2026.2761743",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "政治广告",
+    "视觉一致性"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "From Encouragement to Self-discipline: Corpus-assisted Critical Discourse Analysis of “Growth”, “Excellence”, and “Creativity” in Chinese and English Educational Websites",
+   "authors": "Deng",
+   "venue": "International Journal of Languages, Literature and Linguistics",
+   "url": "https://doi.org/10.18178/ijlll.2026.12.4.676",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "语料库CDA",
+    "关键词"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "Scriptural Misappropriation: Critical Hermeneutics, Political Framing, and the Contestation of Religious Authority in Contemporary Indonesian Elections",
+   "authors": "Machrus et al.",
+   "venue": "International Journal of Religious and Interdisciplinary Studies (IJoRIS)",
+   "url": "https://doi.org/10.64529/a4r21380",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治框架",
+    "宗教权威"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "The Iron Rod Reimagined: Revisiting the Meaning of an Enduring Metaphor",
+   "authors": "Uriona",
+   "venue": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship",
+   "url": "https://doi.org/10.67160/uks69439",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "宗教文本隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "The Nephite Metaphor of Life as a Probation: Rethinking Nephi's Portrayal of Laman and Lemuel",
+   "authors": "Reynolds",
+   "venue": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship",
+   "url": "https://doi.org/10.67160/pqj09509",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "宗教文本隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Love as Fire in Japanese, Vietnamese and English: A Cognitive Linguistic Contrastive Study",
+   "authors": "Chung",
+   "venue": "Journal for Research Scholars and Professionals of English Language Teaching",
+   "url": "https://doi.org/10.54850/jrspelt.10.58.004",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "情感隐喻",
+    "跨语言对比"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "From Foodporn to Foodgasm: A Multimodal Discourse Analysis of Instagram Culinary Content",
+   "authors": "Titik Sudartinah et al.",
+   "venue": "Journal of Language and Literature",
+   "url": "https://doi.org/10.24071/joll.v26i2.2105",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态话语",
+    "Instagram"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-24",
+   "title": "Hegemonic Representation in Detik.com’s News on Disinformation, Defamation, and Hate Speech (DFK) in the 2025 Demonstration Riots: A Critical Discourse Analysis",
+   "authors": "Lerrick et al.",
+   "venue": "Journal of Language and Literature",
+   "url": "https://doi.org/10.24071/joll.v26i2.1804",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "霸权",
+    "新闻表征"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "A Critical Discourse Study of Populism: Donald Trump versus Zohran Mamdani",
+   "authors": "Landestoy",
+   "venue": "Journal of Media & Management",
+   "url": "https://doi.org/10.47363/jmm/2026(8)225",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "民粹主义",
+    "CDS"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Emotional framing and visual image in carbon pricing persuasion: the mediating role of message elaboration",
+   "authors": "Dobson",
+   "venue": "Journal of Responsible Production and Consumption",
+   "url": "https://doi.org/10.1108/jrpc-10-2024-0058",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "情绪框架",
+    "碳定价"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Profiling and Construal in News Discourse on the Surabaya Mutilation Case in Tempo.co and Humaspolri.id",
+   "authors": "Istiqamah Idrus Sere et al.",
+   "venue": "Jurnal Onoma: Pendidikan, Bahasa, dan Sastra",
+   "url": "https://doi.org/10.30605/rx65vt56",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "识解",
+    "新闻话语"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Collocation Patterns and Frame Indicators in Makan Bergizi Gratis (MBG) Discourse: A Corpus Study of Government, Media, and Academic Texts (2024–2026)",
+   "authors": "Moh. Nawalul Fawaid El Haqi et al.",
+   "venue": "Jurnal Onoma: Pendidikan, Bahasa, dan Sastra",
+   "url": "https://doi.org/10.30605/zhmbnr98",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "框架",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Cultural Hegemony in the Grade XII Islamic Religious Education Textbook Under the Merdeka Curriculum: A Critical Discourse Analysis",
+   "authors": "Thoyibah et al.",
+   "venue": "Jurnal Pendidikan Terapan",
+   "url": "https://doi.org/10.61255/jupiter.v4i3.1340",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "教材"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Necropolitical sovereignty and the construction of death-worlds: A conceptual metaphor analysis of Evidence of a Genocide by Zulfiqar Ghose",
+   "authors": "Jan",
+   "venue": "Liberal Arts and Social Sciences International Journal (LASSIJ)",
+   "url": "https://doi.org/10.47264/idea.lassij/10.1.7",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻",
+    "种族灭绝"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Suicide in Popular Media and Culture: Studies in Framing a Social Catastrophe (book review)",
+   "authors": "Feigelman",
+   "venue": "OMEGA - Journal of Death and Dying",
+   "url": "https://doi.org/10.1177/00302228261511502",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "书评",
+    "自杀报道框架"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Bureaucratizing the global right: FUNAG and the institutional legitimation of far-right ideology in Brazil",
+   "authors": "Vasconcellos de Carvalho Motta",
+   "venue": "Review of International Studies",
+   "url": "https://doi.org/10.1017/s0260210526102472",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "合法化",
+    "极右"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Negotiating postfeminist and patriarchal gender expectations in Chinese matchmaking: women’s partner-selection discourse in Wang Po Matchmaking",
+   "authors": "Hou et al.",
+   "venue": "Social Semiotics",
+   "url": "https://doi.org/10.1080/10350330.2026.2767278",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "性别话语",
+    "相亲"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Designing Discourse: Analysis of Government Proposals for the Portuguese Election to the European Parliament (2024–2029)",
+   "authors": "Oliveira et al.",
+   "venue": "Springer Series in Design and Innovation",
+   "url": "https://doi.org/10.1007/978-3-032-40503-6_53",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "竞选纲领",
+    "话语设计"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Equivalence in Secondary Term Formation: A Cognitive and Cultural Analysis of English–Mongolian Economic Metaphorical Terms",
+   "authors": "Namsrai et al.",
+   "venue": "Terminologija",
+   "url": "https://doi.org/10.35321/term33-03",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "经济术语隐喻",
+    "英蒙对比"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Worldmaking Andalusia: Multimodal metaphor, transcreation and uneven cultural accessibility in destination campaigns",
+   "authors": "Fuentes-Luque",
+   "venue": "Tourist Studies",
+   "url": "https://doi.org/10.1177/14687976261507730",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态隐喻",
+    "旅游宣传"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Different spatial metaphors derive different aspectual construals – A corpus study of prospective aspect in Afrikaans, Dutch, English and German",
+   "authors": "Fleischhauer et al.",
+   "venue": "Yearbook of the German Cognitive Linguistics Association",
+   "url": "https://doi.org/10.1515/gcla-2026-0001",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "空间隐喻",
+    "体貌识解"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "The Representation of Muslim Women in the Western Media Discourse: A Corpus-Based Study",
+   "authors": "El-Sheikh et al.",
+   "venue": "بحوث فى تدريس اللغات",
+   "url": "https://doi.org/10.21608/ssl.2026.519613.1286",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "穆斯林女性",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Conceptual Metaphor and Characters Identification: A Critical Discourse Study of Selected TED Talks",
+   "authors": "حسين أحمد",
+   "venue": "صحيفة الألسن",
+   "url": "https://doi.org/10.21608/salsu.2026.540530",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "概念隐喻",
+    "TED演讲"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-24",
+   "title": "Operationalising Persuasion in Multimodal Advertising: A Coding Framework for Cross-Linguistic Analysis",
+   "authors": "Xuan Ha",
+   "venue": "International Journal of Advanced Multidisciplinary Research and Studies",
+   "url": "https://doi.org/10.62225/2583049x.2026.6.6.7183",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态广告",
+    "说服"
    ]
   }
  ]
