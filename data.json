@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:11:17-05:00",
+ "updated": "2026-11-25T00:13:45-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -2765,19 +2765,6 @@
    "core": false,
    "tags": [
     "诗歌",
-    "概念隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-24",
-   "authors": "Lemghari",
-   "title": "Stereotypical Metaphor: A Missing Piece in Conceptual Metaphor Theory",
-   "venue": "Studies in Logic, Grammar and Rhetoric",
-   "url": "https://doi.org/10.2478/slgr-2025-0018",
-   "cat": "theory",
-   "core": false,
-   "tags": [
     "概念隐喻"
    ],
    "added": "2026-11-18"
@@ -8569,6 +8556,610 @@
    "tags": [
     "多模态广告",
     "说服"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "7. Beyond the clause: cohesion and metaphor",
+   "authors": "—",
+   "venue": "An Introduction to the Grammar of Old English (Equinox)",
+   "url": "https://doi.org/10.3138/9781845537869-009",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "语法隐喻",
+    "古英语"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "1 A corpus-based study of metaphor in translation",
+   "authors": "Shuttleworth",
+   "venue": "Empirical Translation Studies (Equinox)",
+   "url": "https://doi.org/10.3138/9781781793329-003",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻翻译",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "A Comparative Study on LLM and Human Metaphor Understanding",
+   "authors": "Chen et al.",
+   "venue": "2026 International Conference on Asian Language Processing (IALP)",
+   "url": "https://doi.org/10.1109/ialp70789.2026.11787614",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "大模型",
+    "隐喻理解"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "The Concept of Svolta (“Turning Point”) in the Context of Conceptual Metaphor",
+   "authors": "Paliczuk",
+   "venue": "New Horizons in Italian Studies (Routledge)",
+   "url": "https://doi.org/10.4324/9781042020294-3",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻",
+    "意大利语"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Metaphors of recovery: a qualitative thematic review of poetry and metaphor in trauma therapy",
+   "authors": "Sayed et al.",
+   "venue": "Journal of Poetry Therapy",
+   "url": "https://doi.org/10.1080/08893675.2026.2769062",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "诗歌隐喻",
+    "创伤叙事"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "8. Conceptual metaphor, its paradoxes, modifications and distortions in the poetry of John Donne",
+   "authors": "—",
+   "venue": "Explorations in Stylistics (Equinox)",
+   "url": "https://doi.org/10.3138/9781845535902-009",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻",
+    "诗歌",
+    "多恩"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "3 A corpus-assisted stylistic analysis of metaphor through the prism of translated poetry",
+   "authors": "Pantopoulos",
+   "venue": "Empirical Translation Studies (Equinox)",
+   "url": "https://doi.org/10.3138/9781781793329-005",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻翻译",
+    "诗歌",
+    "语料库"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Benchmarking Human-Rating Recoverability in Open-Weight Large Language Model Judgments of Chinese Metaphor-Related Sentences",
+   "authors": "Zhao",
+   "venue": "2026 International Conference on Asian Language Processing (IALP)",
+   "url": "https://doi.org/10.1109/ialp70789.2026.11787611",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "大模型",
+    "汉语隐喻",
+    "评测"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "5 Messages of Metaphors",
+   "authors": "—",
+   "venue": "Never Marry a Woman with Big Feet (Leiden University Press)",
+   "url": "https://doi.org/10.24415/9789400600195-007",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "谚语",
+    "女性"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "Metaphors We Loved By—Conceptual Metaphors of Affection in the History of English",
+   "authors": "Landmann",
+   "venue": "Cognitive Semantics",
+   "url": "https://doi.org/10.1163/23526416-bja10107",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻",
+    "情感",
+    "英语史"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Cancer patients’ metaphors: a potential for Shared Decision-making",
+   "authors": "M et al.",
+   "venue": "Patient Education and Counseling",
+   "url": "https://doi.org/10.1016/j.pec.2026.109889",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "癌症隐喻",
+    "医患沟通"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "22. Manoeuvring Strategically in Political Cartoons: Transforming Visualizations of Metaphors",
+   "authors": "Plug",
+   "venue": "Verbal and Visual Rhetoric in a Media World (Leiden University Press)",
+   "url": "https://doi.org/10.24415/9789400601406-023",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "政治漫画",
+    "视觉隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Making Sense Through Metaphors: How Primary Care Professionals Conceptualize Dietary Counseling",
+   "authors": "S et al.",
+   "venue": "Patient Education and Counseling",
+   "url": "https://doi.org/10.1016/j.pec.2026.110016",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "医疗话语",
+    "隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "An Analysis of Metaphors in Timothy Ronald’s YouTube Video “Bitcoin Akan ke 20 Miliar”",
+   "authors": "Alzuhdi et al.",
+   "venue": "Journal of Education",
+   "url": "https://doi.org/10.37676/joe.v2i2.1988",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "YouTube",
+    "比特币"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "5. Time for a Euro Currency Syringe Injection? Bank Crisis Financial Credit Metaphors in The Economist",
+   "authors": "Caers",
+   "venue": "Verbal and Visual Rhetoric in a Media World (Leiden University Press)",
+   "url": "https://doi.org/10.24415/9789400601406-006",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "金融危机",
+    "经济隐喻",
+    "新闻"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Metaphors of Life, Death, and New Life in Methodius of Olympus’s De Resurrectione : What is Truly Essential for Bodily Flourishing?",
+   "authors": "LaValle Norman",
+   "venue": "Zeitschrift für Antikes Christentum / Journal of Ancient Christianity",
+   "url": "https://doi.org/10.1515/zac-2026-0022",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "宗教文本",
+    "生死隐喻"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "A Discourse Analysis Of Students' Metaphorical Language Comprehension In Interpretative Listening At The English Education Study Program Of Universitas Nias",
+   "authors": "Zebua",
+   "venue": "Academy of Education Journal",
+   "url": "https://doi.org/10.47200/aoej.v17i2.3825",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "隐喻理解",
+    "英语学习者"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "MUG: From Metonymy Understanding to Visual Grammar-Guided Image Generation",
+   "authors": "Yu et al.",
+   "venue": "2026 International Conference on Asian Language Processing (IALP)",
+   "url": "https://doi.org/10.1109/ialp70789.2026.11787568",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "转喻",
+    "图像生成"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Tales of Two Cities: A Multimodal Analysis of Harbin’s and Geneva’s Branding Narratives",
+   "authors": "Li et al.",
+   "venue": "International Journal of English Linguistics",
+   "url": "https://doi.org/10.5539/ijel.v16n6p74",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "城市品牌"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Corpus Linguistics and Critical Discourse Studies",
+   "authors": "Gaudio",
+   "venue": "Corporate Climate Discourse across Global Divides (Routledge)",
+   "url": "https://doi.org/10.4324/9781042041411-4",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "语料库",
+    "CDS",
+    "气候"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Climate Change and Corporate Discourse",
+   "authors": "Gaudio",
+   "venue": "Corporate Climate Discourse across Global Divides (Routledge)",
+   "url": "https://doi.org/10.4324/9781042041411-2",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "气候话语",
+    "企业"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Corporate Climate Discourse across Global Divides",
+   "authors": "Del Gaudio",
+   "venue": "Routledge",
+   "url": "https://doi.org/10.4324/9781042041411",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "气候话语",
+    "企业",
+    "专著"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Blind Transparency: A Critical Discourse Analysis of the EU AI Act",
+   "authors": "Svitych",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7728425",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "AI法案"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "\"On Sustainability Terms\": A Discourse Analysis of Environmental vs. Human-Oriented Framing in a Specialised Glossary",
+   "authors": "Niceforo",
+   "venue": "Lingue Culture Mediazioni - Languages Cultures Mediation (LCM Journal)",
+   "url": "https://doi.org/10.7358/lcm-2026-001-nicm",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "可持续"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Broken Records, Shared Purpose: Critical Discourse Analysis of Crisis Framing and Institutional Agency in UNEP Annual Reports (2022-2025)",
+   "authors": "El Rhaffouli",
+   "venue": "Lingue Culture Mediazioni - Languages Cultures Mediation (LCM Journal)",
+   "url": "https://doi.org/10.7358/lcm-2026-001-elry",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "危机框架"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Sustainable Beauty: A Critical Analysis of Sustainability Discourse and Framing Strategies in Shiseido’s and Weleda’s Corporate Reports (2018-2024)",
+   "authors": "Napolitano",
+   "venue": "Lingue Culture Mediazioni - Languages Cultures Mediation (LCM Journal)",
+   "url": "https://doi.org/10.7358/lcm-2026-001-napa",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "可持续话语",
+    "框架策略",
+    "企业"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "The Green \"Trojan Horses\": A Corpus-Assisted Critical Discourse Analysis of News Coverage of Chinese Electric Vehicles and Trade Measures in North America and Europe",
+   "authors": "Aiezza",
+   "venue": "Lingue Culture Mediazioni - Languages Cultures Mediation (LCM Journal)",
+   "url": "https://doi.org/10.7358/lcm-2026-001-aiem",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "新闻",
+    "中国电动车"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-25",
+   "title": "Framing Climate Governance in Türkiye-EU Relations",
+   "authors": "Sönmez et al.",
+   "venue": "Türkiye, the EU, and the Double-Edged Sword of Security Discourses and Populism (Routledge)",
+   "url": "https://doi.org/10.4324/9781003781974-8",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "气候治理",
+    "土耳其-欧盟"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Media Framing of Femicide in Indonesian Online News: The Madiun Case",
+   "authors": "Anggraeni et al.",
+   "venue": "Journal of Asian Multicultural Research for Social Sciences Study",
+   "url": "https://doi.org/10.47616/jamrsss.v7i4.1123",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体框架",
+    "杀害女性"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Framing of Climate-Related Health Risks in Nigerian Newspapers: A Content Analysis of Development Communication Approaches",
+   "authors": "John",
+   "venue": "Social Sciences",
+   "url": "https://doi.org/10.3390/socsci15120817",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体框架",
+    "气候健康"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "The role of issue salience and party polarization on framing effects: Evidence from EU public opinion formation",
+   "authors": "Duarte",
+   "venue": "European Union Politics",
+   "url": "https://doi.org/10.1177/14651165261503281",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "框架效应",
+    "极化"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Alignment Without Outcome: The Silent Other and Silent Oppression in Palestinian UN Discourse (1974-2024)",
+   "authors": "TANTISH et al.",
+   "venue": "GEMA Online® Journal of Language Studies",
+   "url": "https://doi.org/10.17576/gema-2026-2604-14",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "联合国话语",
+    "巴勒斯坦"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "\"Then She Could Work as a Housewife\": Gendered Impoliteness and Institutional Distrust in Far-Right Online Discourse",
+   "authors": "Oliveira et al.",
+   "venue": "SSRN preprint",
+   "url": "https://doi.org/10.2139/ssrn.7726684",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "极右翼",
+    "不礼貌",
+    "性别"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Diplomatic Dialogue in a Changing Middle East: A Comparative Discourse Analysis of Interculturality, Identity, and Soft Power",
+   "authors": "Marzouq et al.",
+   "venue": "International Journal of English Linguistics",
+   "url": "https://doi.org/10.5539/ijel.v16n6p64",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "外交话语",
+    "身份",
+    "软实力"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Do we all speak the same language? A critical systemic functional discourse analysis of psychiatric hospital brochures",
+   "authors": "L",
+   "venue": "Patient Education and Counseling",
+   "url": "https://doi.org/10.1016/j.pec.2026.109884",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "批评话语",
+    "系统功能"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "From “We Will” to “We Have”: Modality, Deixis, and Political Self-Legitimation in Donald Trump’s Truth Social Discourse",
+   "authors": "BANIKALEF",
+   "venue": "GEMA Online® Journal of Language Studies",
+   "url": "https://doi.org/10.17576/gema-2026-2604-12",
+   "cat": "cda",
+   "core": true,
+   "tags": [
+    "指示语",
+    "合法化",
+    "特朗普"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-25",
+   "title": "“Medicine prices in an unhealthy mess”: A qualitative interpretive framing analysis of how the news media constructs the governance of the private community pharmacy sector",
+   "authors": "Allan",
+   "venue": "Exploratory Research in Clinical and Social Pharmacy",
+   "url": "https://doi.org/10.1016/j.rcsop.2026.100883",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻框架",
+    "药价"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "Decoding political messaging: analysing media discourse on international sports in the context of the russian-ukrainian war between 2022 and 2023",
+   "authors": "Mezerdzhi et al.",
+   "venue": "International Journal of Sport Policy and Politics",
+   "url": "https://doi.org/10.1080/19406940.2026.2766592",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体话语",
+    "俄乌战争",
+    "体育"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-25",
+   "title": "The Public-Private Distinction and the Principle of Secrecy: A Comparative Discourse Analysis of Women’s and LGBTI+ Organizations vs. Nationalist-Conservative Counterparts in Türkiye",
+   "authors": "Demir",
+   "venue": "Fiscaoeconomia",
+   "url": "https://doi.org/10.25295/fsecon.1828822",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "话语分析",
+    "性别",
+    "民族主义"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "The Representation of Islam and Muslims in the Account of Albania by Marcin Czermiński, SJ—A Discourse Analysis in Light of the Context Model",
+   "authors": "Prochwicz-Studnicka",
+   "venue": "Religions",
+   "url": "https://doi.org/10.3390/rel17121383",
+   "cat": "cda",
+   "core": false,
+   "tags": [
+    "语境模型",
+    "伊斯兰表征"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "“It is about utilizing your resources, isn’t it?”: policy and ideology in a multilingual NHS",
+   "authors": "E et al.",
+   "venue": "Patient Education and Counseling",
+   "url": "https://doi.org/10.1016/j.pec.2026.110148",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "意识形态",
+    "语言政策"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-25",
+   "title": "“Blamestorming” in Central‐Local Government Relations? A Discourse Analysis of Blame amid English Local Government Failure",
+   "authors": "Dodd et al.",
+   "venue": "Financial Accountability & Management",
+   "url": "https://doi.org/10.1111/faam.70064",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "归咎",
+    "话语分析",
+    "地方政府"
    ]
   }
  ]
