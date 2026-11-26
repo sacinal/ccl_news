@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:36:58-05:00",
+ "updated": "2026-11-26T00:23:11-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -568,21 +568,6 @@
    "added": "2026-11-18"
   },
   {
-   "date": "2025-11-25",
-   "authors": "Adedayo",
-   "title": "A corpus-assisted critical metaphor analysis of movement metaphors in university presidents' responses to anti-black violence",
-   "venue": "Metaphor and the Social World",
-   "url": "https://doi.org/10.1075/msw.24017.ade",
-   "cat": "metaphor",
-   "core": true,
-   "tags": [
-    "批评隐喻分析",
-    "语料库",
-    "种族"
-   ],
-   "added": "2026-11-18"
-  },
-  {
    "date": "2026-07-01",
    "authors": "Li et al.",
    "title": "How Xi Jinping Talks About Poverty Alleviation: Metaphor as a Discursive Strategy in China's Poverty Alleviation Discourse",
@@ -679,20 +664,6 @@
    "tags": [
     "计算方法",
     "语料库"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-25",
-   "authors": "Grogan et al.",
-   "title": "'Climate cults' and 'climate sins'",
-   "venue": "Metaphor and the Social World",
-   "url": "https://doi.org/10.1075/msw.25017.gro",
-   "cat": "metaphor",
-   "core": true,
-   "tags": [
-    "气候话语",
-    "宗教隐喻"
    ],
    "added": "2026-11-18"
   },
@@ -9642,21 +9613,6 @@
    ]
   },
   {
-   "date": "2025-11-25",
-   "added": "2026-11-25",
-   "title": "Digital Discourse, Public Sentiment, and Ideology: A Critical Discourse Analysis of Social Media Networks on Demonstrations in Yogyakarta",
-   "authors": "Ngaji et al.",
-   "venue": "Journal of Cultural Analysis and Social Change",
-   "url": "https://doi.org/10.64753/jcasc.v10i2.1884",
-   "cat": "adj",
-   "core": false,
-   "tags": [
-    "CDA",
-    "社交媒体",
-    "媒体话语"
-   ]
-  },
-  {
    "date": "2026-10-30",
    "added": "2026-11-25",
    "title": "The Very Model of an EU Director-General: A Discourse Analysis of the Humorous Discourse of the DG Meme Facebook Page",
@@ -10352,21 +10308,6 @@
     "多模态",
     "社交媒体",
     "广告"
-   ]
-  },
-  {
-   "date": "2025-11-25",
-   "added": "2026-11-25",
-   "title": "A CRITICAL ANALYSIS OF NIGERIAN WOMEN REPRESENTATION IN MEDIA DISCOURSE",
-   "authors": "Jibrin",
-   "venue": "Zenodo preprint",
-   "url": "https://doi.org/10.5281/zenodo.17710876",
-   "cat": "adj",
-   "core": false,
-   "tags": [
-    "性别",
-    "媒体话语",
-    "表征"
    ]
   },
   {
@@ -18743,20 +18684,6 @@
    ]
   },
   {
-   "date": "2025-11-25",
-   "added": "2026-11-25",
-   "title": "Language as Literary Power: A Critical Analysis of Post-9/11 Political Discourse in Sandra Silberstein’s “War of Words”",
-   "authors": "Llunji et al.",
-   "venue": "Journal of Cultural Analysis and Social Change",
-   "url": "https://doi.org/10.64753/jcasc.v10i2.1867",
-   "cat": "adj",
-   "core": false,
-   "tags": [
-    "战争冲突",
-    "政治话语"
-   ]
-  },
-  {
    "date": "2026-09-22",
    "added": "2026-11-25",
    "title": "Dynamic Construction of Rural Children’s Identity Through Discourse Analysis: A Case Study of Twelve Cultural Stations in Sichuan",
@@ -19220,20 +19147,6 @@
    "core": false,
    "tags": [
     "选举"
-   ]
-  },
-  {
-   "date": "2025-11-25",
-   "added": "2026-11-25",
-   "title": "Ethical Considerations for the Use of Artificial Intelligence in Linguistics Journal Publishing: Combining Hybrid Thematic Analysis and Critical Discourse Analysis",
-   "authors": "Wang et al.",
-   "venue": "Publications",
-   "url": "https://doi.org/10.3390/publications13040061",
-   "cat": "adj",
-   "core": false,
-   "tags": [
-    "CDA",
-    "人工智能"
    ]
   },
   {
@@ -54369,36 +54282,6 @@
    ]
   },
   {
-   "date": "2025-11-25",
-   "added": "2026-11-25",
-   "title": "How readers navigate comic book pages: evidence from eye movements",
-   "authors": "Aleixo et al.",
-   "venue": "Journal of Graphic Novels and Comics",
-   "url": "https://doi.org/10.1080/21504857.2025.2591045",
-   "cat": "exp",
-   "core": false,
-   "tags": [
-    "眼动",
-    "漫画·图画书",
-    "阅读"
-   ]
-  },
-  {
-   "date": "2025-11-25",
-   "added": "2026-11-25",
-   "title": "Eye Movements During Silent Reading of Poetry Reflect Hierarchical Metric Structure",
-   "authors": "Drakoulaki et al.",
-   "venue": "Quarterly Journal of Experimental Psychology",
-   "url": "https://doi.org/10.1177/17470218251404937",
-   "cat": "exp",
-   "core": false,
-   "tags": [
-    "眼动",
-    "文学·叙事",
-    "阅读"
-   ]
-  },
-  {
    "date": "2025-11-29",
    "added": "2026-11-25",
    "title": "Aging and semantic transparency effects in Chinese reading: evidence from eye movements",
@@ -56102,6 +55985,617 @@
    "tags": [
     "眼动",
     "视觉情境范式"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "\"The straights are not ok\" : a linguistic analyses of queer discourses resisting and subverting heteronormativity on social media",
+   "authors": "Cesbron",
+   "venue": "Thesis / dissertation",
+   "url": "https://doi.org/10.70675/ddeadab2za984z4d0dz91d8z4f95accbc213",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "身份",
+    "社交媒体",
+    "酷儿话语"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "title": "A Discourse Analysis of Official Correspondence in Sino-US Trade Frictions from the Perspective of the Transitivity System",
+   "authors": "Yin",
+   "venue": "Journal of Education and Educational Research",
+   "url": "https://doi.org/10.54097/eyah1533",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "及物性",
+    "官方话语",
+    "贸易摩擦"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "A Wrong Metaphor for the Expanding Universe",
+   "authors": "Altshuler et al.",
+   "venue": "A Different Kind of Splash (Springer)",
+   "url": "https://doi.org/10.1007/978-3-032-37386-1_2",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "科学隐喻",
+    "宇宙学"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "A metaphorical deconstruction of leadership standards",
+   "authors": "English et al.",
+   "venue": "Rethinking Educational Leadership (Edward Elgar)",
+   "url": "https://doi.org/10.4337/9781035355907.00014",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "教育话语",
+    "领导力",
+    "隐喻解构"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "A systematic review of eye-tracking to investigate cognitive processes in interpreting",
+   "authors": "Zhu et al.",
+   "venue": "Translation and Interpreting Studies",
+   "url": "https://doi.org/10.1075/tis.21078.zhu",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "眼动",
+    "口译",
+    "综述"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "AI-Mediated Care-Washing: Discourse, Cognition, and Dual-Layer Decoupling in China’s Elderly Companion Product Sector",
+   "authors": "Jia et al.",
+   "venue": "International Journal of Academic Research in Business and Social Sciences",
+   "url": "https://doi.org/10.6007/ijarbss/v16-i11/29421",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "企业话语",
+    "AI",
+    "养老产品"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "China’s Image in Malaysian Mainstream Newspapers: Comparing Belt & Road Initiative Media Framing Across Languages",
+   "authors": "Lim Shiang Shiang",
+   "venue": "International Journal of China Studies",
+   "url": "https://doi.org/10.22452/ijcs.vol17no1.3",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体框架",
+    "新闻",
+    "一带一路"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Citizen Poet : Political crisis and the emergence of an alternative discourse (2011–12)",
+   "authors": "—",
+   "venue": "Laughing at the President (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9781350592537.ch-6",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "诗歌",
+    "政治危机"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Corpus-Based Pragmatics Study of Comments towards TNI Law Revision in Indonesian Social Media Discourse",
+   "authors": "EKAWATI et al.",
+   "venue": "GEMA Online® Journal of Language Studies",
+   "url": "https://doi.org/10.17576/gema-2026-2604-04",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "语用",
+    "法律修订"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "title": "Critical Discourse Analysis of Language Used in the Reportage of Fulani Herdsmen and Farmers' Crisis in Selected Nigerian Newspaper Excerpts",
+   "authors": "Micheal et al.",
+   "venue": "FUDMA Journal of Humanities, Social Science and Creative Arts",
+   "url": "https://doi.org/10.70882/fujohssaca.2026.v2(2).69",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "新闻",
+    "冲突报道"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Critical Discourse Analysis: The Meaning of #Indonesiagelap on the X Platform",
+   "authors": "Timur et al.",
+   "venue": "Jurnal Bisnis dan Komunikasi Digital",
+   "url": "https://doi.org/10.47134/jbkd.v3i3.5994",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "社交媒体",
+    "话题标签"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "DECONSTRUCTING GENDER ROLES IN URBAN INDONESIAN FAMILY EDUCATION: A CRITICAL DISCOURSE ANALYSIS OF CONTEMPORARY SOCIAL MEDIA PARENTING CONTENT",
+   "authors": "Pasaribu et al.",
+   "venue": "Journal of Higher Education and Academic Advancement",
+   "url": "https://doi.org/10.61796/jheaa.v3i8.1901",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "性别",
+    "社交媒体"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "DK-MAD: A Dual-Source Knowledge-Driven Multi-Agent Debate Framework for Metaphor Detection",
+   "authors": "Jia et al.",
+   "venue": "2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+   "url": "https://doi.org/10.1109/smc63593.2026.11788281",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "隐喻检测",
+    "多智能体",
+    "大模型"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Discursive Constructions of Women’s Invisibility in BARMM Educational Texts: A Faircloughian Critical Discourse Analysis",
+   "authors": "Romo et al.",
+   "venue": "IJMERI",
+   "url": "https://doi.org/10.64637/744386",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "CDA",
+    "性别",
+    "教科书"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Dual-Use Discourse and Middle-Power Influence: The Netherlands in Global Climate Governance",
+   "authors": "Flipse et al.",
+   "venue": "Global Environmental Politics",
+   "url": "https://doi.org/10.1162/glep.a.808",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政治话语",
+    "气候治理",
+    "中等强国"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "title": "Euphemism and Metaphor in Bribery Communication: Evidence from Chinese Duty Crime Judgments",
+   "authors": "Yin",
+   "venue": "International Journal of Languages, Literature and Linguistics",
+   "url": "https://doi.org/10.18178/ijlll.2026.12.4.680",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "委婉语",
+    "法律话语",
+    "贿赂"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Expectation governance in AI diffusion: Measuring discursive legitimacy friction in AI-employment transitions",
+   "authors": "Kim",
+   "venue": "Technovation",
+   "url": "https://doi.org/10.1016/j.technovation.2026.103782",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "合法化",
+    "AI",
+    "就业"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Eye-Tracking: An Unexpected Source of Data for Matching Human and LLM Semantics",
+   "authors": "Velichkovsky et al.",
+   "venue": "Lecture Notes in Networks and Systems",
+   "url": "https://doi.org/10.1007/978-3-032-42258-3_2",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "眼动",
+    "语义",
+    "大模型"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Framing forest security: the climate-security nexus and policy alignment in the EU and Baltic States",
+   "authors": "Giolo et al.",
+   "venue": "Journal of Environmental Policy & Planning",
+   "url": "https://doi.org/10.1080/1523908x.2026.2764137",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政策框架",
+    "气候安全",
+    "欧盟"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "How to mix discourse analysis and ethnographic fieldwork methods: studying energy transition politics and governance",
+   "authors": "Kuteleva",
+   "venue": "How to Mix Methods and Disciplines for Sustainability Research (Edward Elgar)",
+   "url": "https://doi.org/10.4337/9781035383627.00012",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "方法论",
+    "能源转型",
+    "民族志"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Introduction: Troubling Riot Discourse",
+   "authors": "—",
+   "venue": "The Making of the Houston Martyrs (University of California Press)",
+   "url": "https://doi.org/10.1525/9780520413603-003",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "骚乱话语",
+    "表征",
+    "历史"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-26",
+   "title": "Marriage in digital space: A social network analysis of marriage is scary discourse on TikTok",
+   "authors": "Anggraini et al.",
+   "venue": "Simulacra",
+   "url": "https://doi.org/10.21107/sml.v9i2.36172",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "TikTok",
+    "婚姻话语"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "One Brand, Different Conversations: Reddit Fan Discourse on the 2024 Men’s and Women’s March Madness",
+   "authors": "Jiang et al.",
+   "venue": "International Journal of Sport Communication",
+   "url": "https://doi.org/10.1123/ijsc.2026-0221",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "体育传播",
+    "Reddit",
+    "性别"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Patriotism as an Epistemic Object: Black Veteranality and the Limits of American Patriotic Discourse",
+   "authors": "Garner",
+   "venue": "Social Epistemology",
+   "url": "https://doi.org/10.1080/02691728.2026.2747033",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "爱国话语",
+    "身份",
+    "退伍军人"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Populism and Framing in the Ecuadorian Newspaper El Comercio",
+   "authors": "Sanchez et al.",
+   "venue": "Populism and Power in the New Geopolitics (IGI Global)",
+   "url": "https://doi.org/10.4018/979-8-3373-9144-1.ch014",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "民粹主义",
+    "新闻框架",
+    "厄瓜多尔"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Populist Security Discourse and Media Representations",
+   "authors": "Kandemir",
+   "venue": "Populism and Power in the New Geopolitics (IGI Global)",
+   "url": "https://doi.org/10.4018/979-8-3373-9144-1.ch012",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "民粹主义",
+    "安全话语",
+    "媒体表征"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Processing of grammatical case in Russian and German by mono- and bilingual preschoolers: a Visual World eye-tracking study",
+   "authors": "Mitrofanova et al.",
+   "venue": "Language, Cognition and Neuroscience",
+   "url": "https://doi.org/10.1080/23273798.2026.2739374",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "眼动",
+    "视觉情境",
+    "双语儿童"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Reader Performance History as a Benchmark for Personalised Reading Comprehension Prediction from Eye Movements: Evidence from OneStop, SB-SAT, and PoTeC",
+   "authors": "Mendhakar et al.",
+   "venue": "Journal of Eye Movement Research",
+   "url": "https://doi.org/10.3390/jemr19060133",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "眼动",
+    "阅读理解",
+    "预测"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Semantic Framing and Audience Response: A Theoretical Study of the Cognitive and Affective Dimensions of News Language",
+   "authors": "Swalih et al.",
+   "venue": "International Journal of Research and Innovation in Social Science",
+   "url": "https://doi.org/10.47772/ijriss.2026.102000072",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻语言",
+    "框架",
+    "受众"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Short-video Platform Governance in China: Governed Liminality in Policy Discourse",
+   "authors": "Xiao",
+   "venue": "China: An International Journal",
+   "url": "https://doi.org/10.56159/chn.2026.a1008509",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "政策话语",
+    "短视频",
+    "平台治理"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Sustainability for Sale: Discursive Legitimation in Instagram Branded Content",
+   "authors": "Goshylyk et al.",
+   "venue": "Lingue Culture Mediazioni - Languages Cultures Mediation (LCM Journal)",
+   "url": "https://doi.org/10.7358/lcm-2026-001-gonv",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "合法化",
+    "Instagram",
+    "可持续"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-26",
+   "title": "The BTS Effect: How K-Pop Fandoms Reshape Sociopolitical Messaging in Online Discourse",
+   "authors": "Regla-Vargas et al.",
+   "venue": "Social Currents",
+   "url": "https://doi.org/10.1177/23294965261507644",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "粉丝话语",
+    "社交媒体",
+    "K-pop"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "The Role of Collective Memory in Balkan's Populist Discourse",
+   "authors": "Gül",
+   "venue": "Populism and Power in the New Geopolitics (IGI Global)",
+   "url": "https://doi.org/10.4018/979-8-3373-9144-1.ch002",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "民粹主义",
+    "集体记忆",
+    "巴尔干"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "The Song Lyric as Counter-Discourse",
+   "authors": "Schuhmaier",
+   "venue": "Changing the Record (Routledge)",
+   "url": "https://doi.org/10.4324/9781003545491-8",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "反话语",
+    "歌词"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Unravelling the Rhetoric-Depression Nexus among Malaysian Youth in Selected Tweets through Discourse Analysis Method",
+   "authors": "Jamal et al.",
+   "venue": "Research Square preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-11385405/v1",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "社交媒体",
+    "修辞",
+    "推特"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Urban LED Screens, Media Facades, and the Infrastructural Materialities and Metaphors of Digital Light",
+   "authors": "DeBoer",
+   "venue": "The Oxford Handbook of Chinese Digital Media (Oxford University Press)",
+   "url": "https://doi.org/10.1093/9780197675489.003.0010",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "媒介隐喻",
+    "数字媒体"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Visual Attention Patterns Across ASR and MT Assistance Modes in Interpreting: An Eye-Tracking Study of Interaction Processes",
+   "authors": "Zhang et al.",
+   "venue": "International Journal of Human–Computer Interaction",
+   "url": "https://doi.org/10.1080/10447318.2026.2763920",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "眼动",
+    "口译",
+    "机器辅助"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Visual integration in simultaneous interpreting: an eye-tracking study that adapts inattentional blindness and selective visual attention paradigms",
+   "authors": "Xu",
+   "venue": "Perspectives",
+   "url": "https://doi.org/10.1080/0907676x.2026.2760375",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "眼动",
+    "同声传译",
+    "视觉注意"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-26",
+   "title": "Why Appraisal Criteria Matter for the Discourse Analysis of Emotion",
+   "authors": "Bouko",
+   "venue": "Emotion Review",
+   "url": "https://doi.org/10.1177/17540739261510612",
+   "cat": "theory",
+   "core": false,
+   "tags": [
+    "评价",
+    "情感话语",
+    "理论"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-26",
+   "title": "Writing sovereignty from without : The resilience of sovereignty discourse in major digital corporations' challenges to public authority",
+   "authors": "Repetto",
+   "venue": "Thesis / dissertation",
+   "url": "https://doi.org/10.70675/fc1367f0za4f8z4f32z904fzc27c15d28619",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "主权话语",
+    "数字企业"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "added": "2026-11-26",
+   "title": "‘ We want food, they give us music ’: discursive delegitimisation of Nigeria’s national anthem change on digital platforms",
+   "authors": "Olawe et al.",
+   "venue": "African Identities",
+   "url": "https://doi.org/10.1080/14725843.2026.2764801",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "去合法化",
+    "国歌",
+    "数字平台"
    ]
   }
  ]
