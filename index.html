@@ -424,7 +424,7 @@ $("list").addEventListener("click",e=>{
   const f=e.target.closest("[data-fav]"), c=e.target.closest("[data-cite]"), t=e.target.closest("[data-tag]"), a=e.target.closest("[data-abs]");
   const d=e.target.closest("[data-del]"), r=e.target.closest("[data-restore]");
   if(a){ toggleAbs(a); return; }
-  if(d){ askDelete(d.dataset.del, d); return; }
+  if(d){ TRASH[d.dataset.del]=Date.now(); store.set("ccl_trash",TRASH); toast("已移到回收站"); rerender(false); return; }
   if(r){ delete TRASH[r.dataset.restore]; store.set("ccl_trash",TRASH); toast("已恢复"); rerender(false); return; }
   if(f){ const u=f.dataset.fav; FAVS.has(u)?FAVS.delete(u):FAVS.add(u); store.set("ccl_favs",[...FAVS]);
     const on=FAVS.has(u); f.setAttribute("aria-pressed",on); f.textContent=on?"♥ 已收藏":"♡ 收藏"; $("favN").textContent=FAVS.size?`(${FAVS.size})`:"";
