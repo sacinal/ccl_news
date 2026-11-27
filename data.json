@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:23:11-05:00",
+ "updated": "2026-11-27T00:12:23-05:00",
  "window_note": "每日自动更新 · 保留近一年",
  "items": [
   {
@@ -4760,19 +4760,6 @@
    "title": "Reversible Metaphors in Tshivenḓa: A Conceptual Analysis of Domain Swapping",
    "venue": "African And Global Issues Quarterly",
    "url": "https://doi.org/10.69778/2710-0073/2026/7.2/a11",
-   "cat": "lex",
-   "core": false,
-   "tags": [
-    "隐喻"
-   ],
-   "added": "2026-11-18"
-  },
-  {
-   "date": "2025-11-26",
-   "authors": "Muthalib et al.",
-   "title": "Metaphors of mourning in Acehnese culture: A conceptual mapping analysis",
-   "venue": "Indonesian Journal of Applied Linguistics",
-   "url": "https://doi.org/10.17509/qc6rrj15",
    "cat": "lex",
    "core": false,
    "tags": [
@@ -15375,19 +15362,6 @@
    ]
   },
   {
-   "date": "2025-11-26",
-   "added": "2026-11-25",
-   "title": "“When peace and freedom broke apart”: A rhetoric of values in early Cold War discourse",
-   "authors": "Dunmire",
-   "venue": "Discourse & Society",
-   "url": "https://doi.org/10.1177/09579265251369120",
-   "cat": "adj",
-   "core": false,
-   "tags": [
-    "战争冲突"
-   ]
-  },
-  {
    "date": "2026-10-23",
    "added": "2026-11-25",
    "title": "The Racial Politics of Misinformation: How Nostalgia Narratives Enable Conspiracy Receptivity in Political Discourse",
@@ -15801,21 +15775,6 @@
     "CDA",
     "多模态",
     "社交媒体"
-   ]
-  },
-  {
-   "date": "2025-11-26",
-   "added": "2026-11-25",
-   "title": "Cultural Identity and Resistance in Afro-Uruguay: A Thematic and Critical Discourse Analysis of Digital Anti-racism",
-   "authors": "Koch et al.",
-   "venue": "Hispania",
-   "url": "https://doi.org/10.1353/hpn.2025.a976075",
-   "cat": "adj",
-   "core": false,
-   "tags": [
-    "CDA",
-    "种族",
-    "身份"
    ]
   },
   {
@@ -37614,20 +37573,6 @@
    ]
   },
   {
-   "date": "2025-11-26",
-   "added": "2026-11-25",
-   "title": "Transitivity, modality, and power relations: A critical discourse analysis of leadership styles in East Java's 2018 gubernatorial election debates, Indonesia",
-   "authors": "Sueb et al.",
-   "venue": "Indonesian Journal of Applied Linguistics",
-   "url": "https://doi.org/10.17509/cazjm514",
-   "cat": "adj",
-   "core": false,
-   "tags": [
-    "CDA",
-    "选举"
-   ]
-  },
-  {
    "date": "2026-07-07",
    "added": "2026-11-25",
    "title": "A feminist critical discourse analysis of english-language media representations of muslim women in a time of crisis: the independent and BBC news articles",
@@ -49544,20 +49489,6 @@
    ]
   },
   {
-   "date": "2025-11-26",
-   "added": "2026-11-25",
-   "title": "The effect of morpheme positional frequency on tibetan novel word acquisition: An eye-tracking study",
-   "authors": "Niu et al.",
-   "venue": "PLOS One",
-   "url": "https://doi.org/10.1371/journal.pone.0337615",
-   "cat": "exp",
-   "core": false,
-   "tags": [
-    "眼动",
-    "词汇"
-   ]
-  },
-  {
    "date": "2026-01-01",
    "added": "2026-11-25",
    "title": "How Does Prosody Adapt? Linking Perceptual Learning to Pragmatic Decisions in Eye-Tracking",
@@ -50325,21 +50256,6 @@
    "tags": [
     "眼动",
     "阅读"
-   ]
-  },
-  {
-   "date": "2025-11-26",
-   "added": "2026-11-25",
-   "title": "Audio-visual Speech Integration and Gaze Behaviour in 5-to 8-year-old Children with Autism: An Eye-tracking Study",
-   "authors": "Fajardo et al.",
-   "venue": "Preprint",
-   "url": "https://doi.org/10.17605/osf.io/va6fu",
-   "cat": "exp",
-   "core": false,
-   "tags": [
-    "眼动",
-    "儿童",
-    "口语"
    ]
   },
   {
@@ -56596,6 +56512,313 @@
     "去合法化",
     "国歌",
     "数字平台"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "title": "The convict body as metaphor: Andaman prisoners and the question of Indian nation",
+   "authors": "Sarangi et al.",
+   "venue": "National Identities",
+   "url": "https://doi.org/10.1080/14608944.2026.2760273",
+   "cat": "metaphor",
+   "core": false,
+   "tags": [
+    "身体隐喻",
+    "民族认同",
+    "殖民史"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Figurative Language in English Song “Die With A Smile” Viewed A Conceptual Metaphor Theory",
+   "authors": "Aprilyanti et al.",
+   "venue": "International Journal of English and Applied Linguistics (IJEAL)",
+   "url": "https://doi.org/10.47709/ijeal.v6i1.7917",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "概念隐喻",
+    "歌词"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Silent negatives: when partial annotation becomes supervision. A label integrity audit of the VU Amsterdam Metaphor Corpus benchmark",
+   "authors": "Tóth et al.",
+   "venue": "Research Square preprint",
+   "url": "https://doi.org/10.21203/rs.3.rs-10930300/v1",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "VUAMC",
+    "标注审计",
+    "隐喻检测"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "title": "The Conceptualization of Emotions Through Embodied Conceptual Metaphors in Imru’ Al-Qais’s Poem to Umm Jundub",
+   "authors": "Abdullah et al.",
+   "venue": "Aphorisme: Journal of Arabic Language, Literature, and Education",
+   "url": "https://doi.org/10.37680/aphorisme.v7i2.11091",
+   "cat": "lex",
+   "core": false,
+   "tags": [
+    "具身隐喻",
+    "情感",
+    "阿拉伯诗歌"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Multimodal Analysis of Oral Storytelling",
+   "authors": "Marlar Lwin",
+   "venue": "How to do Multimodal Analysis (Routledge)",
+   "url": "https://doi.org/10.4324/9781003657606-11",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态分析",
+    "口头叙事"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "How to do Multimodal Analysis",
+   "authors": "Mesinioti",
+   "venue": "How to do Multimodal Analysis (Routledge)",
+   "url": "https://doi.org/10.4324/9781003657606",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态分析",
+    "方法"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "From Theory to Practice: Situating Multimodal Analysis",
+   "authors": "Mesinioti",
+   "venue": "How to do Multimodal Analysis (Routledge)",
+   "url": "https://doi.org/10.4324/9781003657606-1",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态分析",
+    "理论到实践"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-27",
+   "title": "Orchestrating multimodal assemblages in the postdigital era: Meme-based transmodalities on Xiaohongshu",
+   "authors": "Tang et al.",
+   "venue": "Discourse, Context & Media",
+   "url": "https://doi.org/10.1016/j.dcm.2026.101069",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "表情包",
+    "跨模态",
+    "小红书"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "added": "2026-11-27",
+   "title": "Beyond Words in Corporate Social Responsibility: A Linguistic and Visual Multimodal Approach to ESG Performance",
+   "authors": "Krause et al.",
+   "venue": "Corporate Social Responsibility and Environmental Management",
+   "url": "https://doi.org/10.1002/csr.71173",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态",
+    "企业社会责任",
+    "ESG"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Framing a Western Adversary: A Discourse Analysis of Anti-NATO Ideology",
+   "authors": "Katea",
+   "venue": "The Jordan Journal of Modern Languages & Literatures",
+   "url": "https://doi.org/10.47012/jjmll.18.3.3",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "意识形态",
+    "北约"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "SHIFTS IN MEDIA FRAMING OF THE ISRAEL-PALESTINE CONFLICT: A CORPUS-DRIVEN CRITICAL DISCOURSE ANALYSIS",
+   "authors": "Aasma Younas et al.",
+   "venue": "Insights (Bhalwal) International Journal of Humanities, Management, and Social Sciences",
+   "url": "https://doi.org/10.68156/6nxg2j36",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体框架",
+    "语料库CDA",
+    "巴以冲突"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-27",
+   "title": "News Framing of the Welfare State",
+   "authors": "—",
+   "venue": "Poor News (Bloomsbury)",
+   "url": "https://doi.org/10.5040/9798881825362.ch-8",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "新闻框架",
+    "福利国家"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Causal Framing of The Sumatra Floods in The Jakarta Post",
+   "authors": "Hartono et al.",
+   "venue": "International Journal of English and Applied Linguistics (IJEAL)",
+   "url": "https://doi.org/10.47709/ijeal.v6i2.9467",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "因果框架",
+    "新闻",
+    "洪灾"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Framing and User Responses: An Analysis of Comments on AI-Related Videos on Bilibili",
+   "authors": "Ke",
+   "venue": "Social Sciences and Humanities",
+   "url": "https://doi.org/10.63313/ssh.9160",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "评论",
+    "B站"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Discursive framing of executive expansion in the Czech Republic: Parliamentary narratives and illiberal tendencies",
+   "authors": "Kocián et al.",
+   "venue": "International Political Science Review",
+   "url": "https://doi.org/10.1177/01925121261495133",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "话语框架",
+    "议会",
+    "非自由主义"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Institutional Space and Visual Framing in Online News – Perp Walk Coverage in Croatian Political Scandals",
+   "authors": "Đukić et al.",
+   "venue": "Sociologija i prostor",
+   "url": "https://doi.org/10.5673/sip.64.2.3",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "视觉框架",
+    "网络新闻",
+    "政治丑闻"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "title": "Framing Free Nutritious Meals as a Human Capital Investment: An Analysis of Evidence-Based Policy Communication in Indonesia",
+   "authors": "Hidayat et al.",
+   "venue": "Interdiciplinary Journal and Hummanity (INJURITY)",
+   "url": "https://doi.org/10.58631/injurity.v5i11.1577",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "框架",
+    "政策传播"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Reframing marine worms as sustainable nourishment: positive ecological discourse in the Indonesian folktale of Princess Mandalika",
+   "authors": "Nurhayani et al.",
+   "venue": "Cogent Arts & Humanities",
+   "url": "https://doi.org/10.1080/23311983.2026.2769704",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "积极话语",
+    "生态话语",
+    "民间故事"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "U.S., Iranian, And Israeli Media’s Strategy For Framing The Iran-Israel War: The Case Of The Washington Post, The Tehran Times, And The Jerusalem Post",
+   "authors": "BEGTİMUR",
+   "venue": "The Journal of Turk-Islam World Social Studies",
+   "url": "https://doi.org/10.29228/tidsad.94888",
+   "cat": "adj",
+   "core": false,
+   "tags": [
+    "媒体框架",
+    "伊以战争"
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "added": "2026-11-27",
+   "title": "Shouting for sale: The systematic multimodal interactional order of market activities",
+   "authors": "Mondada",
+   "venue": "Discourse & Communication",
+   "url": "https://doi.org/10.1177/17504813261491408",
+   "cat": "multi",
+   "core": false,
+   "tags": [
+    "多模态互动",
+    "市场叫卖"
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "added": "2026-11-27",
+   "title": "Multimodal signals of multiparty audience design in moderate-severe traumatic brain injury: Divergent patterns in spoken language, gesture, and eye gaze",
+   "authors": "Clough et al.",
+   "venue": "Brain and Language",
+   "url": "https://doi.org/10.1016/j.bandl.2026.105834",
+   "cat": "exp",
+   "core": false,
+   "tags": [
+    "眼动",
+    "受众设计",
+    "脑损伤"
    ]
   }
  ]
